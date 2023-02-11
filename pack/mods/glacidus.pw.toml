@@ -1,0 +1,13 @@
+name = "Glacidus"
+filename = "Glacidus-1.12.2-v1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "984f3dcdfc368b0abf718f313690eb9bda174005"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2695912
+project-id = 286530

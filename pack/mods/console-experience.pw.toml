@@ -1,0 +1,17 @@
+name = "Console HUD"
+filename = "ConsoleHUD-v1.4.2-1.12.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8a54cfe3ff3cefb5d03bf41f7a02844a5d1c75e7"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 3_040_812
+project-id = 298_319
+
+[option]
+optional = true
+default = false
+description = "Allows for some HUD elements similar to that in legacy console edition. The initial config is intentionally quite subtle, and it can be configured under the 'Mods' button on the main menu."

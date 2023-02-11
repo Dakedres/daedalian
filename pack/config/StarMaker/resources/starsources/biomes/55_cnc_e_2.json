@@ -1,0 +1,13 @@
+{
+  "persistance": 1.1,
+  "octaves": 6,
+  "height": 66,
+  "intquility": 25,
+  "biomeSize": 1.2,
+  "water_color": [0,0,255],
+  "foliage_color": [210,180,140],
+  "grass_color": [210,180,140],
+  "surface_block": "spacemod:janssenmagma",
+  "subsurface_block": "spacemod:janssenstone",
+  "oregen": []
+}

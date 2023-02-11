@@ -1,0 +1,13 @@
+name = "StarMaker [Addon for GalactiCraft]"
+filename = "StarMaker-1.12.2-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a00ef770c8841aeaeef043af76dc829631f4a7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3642683
+project-id = 423541

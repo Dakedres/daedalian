@@ -1,0 +1,44 @@
+//Creates a new LayerGenerator and saves it as a variable
+layers = new LayerGenerator()
+
+//Adds a layer of bedrock in y 0
+layers.addLayer(0~0, <minecraft:bedrock>)
+
+//Iron core layer
+layers.addLayer(1~10, <galacticraftcore:basic_block_core:12>)
+
+//Water ice layer
+layers.addLayer(10~23, <galacticraftplanets:dense_ice>)
+
+//Oxygen ice layer
+layers.addLayer(24~49, <galaxyspace:surface_ice>)
+
+//Nitrogen ice layer
+layers.addLayer(24~55, <galaxyspace:surface_ice:1>)
+
+//Hydrogen ice layer
+layers.addLayer(56~70, <galaxyspace:surface_ice:3>)
+
+//Cold water layer
+layers.addLayer(71~97, <nuclearcraft:fluid_slurry_ice>)
+
+//Liquid oxygen layer
+layers.addLayer(98~141, <qmd:fluid_liquid_oxygen>)
+
+//Liquid nitrogen layer
+layers.addLayer(142~155, <nuclearcraft:fluid_liquid_nitrogen>)
+
+//Liquid hydrogen layer
+layers.addLayer(156~175, <qmd:fluid_liquid_hydrogen>)
+
+//Water vapor layer
+layers.addLayer(176~190, <warpdrive:gas>)
+
+//Gaseous nitrogen layer
+layers.addLayer(191~198, <warpdrive:gas:2>)
+
+//Gaseous hydrogen layer
+layers.addLayer(199~206, <warpdrive:gas:6>)
+
+//Adds the layer generator to the dimension
+addGenerator(layers)

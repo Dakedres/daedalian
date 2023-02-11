@@ -1,0 +1,13 @@
+name = "JustEnoughCodec"
+filename = "JustEnoughCodecs-0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c7c265a34ffcdbdddb17b5d923706b8b3483d64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3597235
+project-id = 565248

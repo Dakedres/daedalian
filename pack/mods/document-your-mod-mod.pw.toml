@@ -1,0 +1,13 @@
+name = "Document Your Mod Mod"
+filename = "DocumentYourModMod-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43dfc74538a4ab2ebba7733ff2c517c6b9592da9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2918238
+project-id = 328115

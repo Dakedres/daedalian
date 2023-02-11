@@ -1,0 +1,67 @@
+setSingleBiome("defiledlands:forest_vilespine")
+
+// Assigns Overworld generator
+worldGeneration = new OverworldGenerator()
+worldGeneration.setOceanBlock(<immersiveintelligence:mustard_gas>)
+worldGeneration.setSeaLevel(63)
+addGenerator(worldGeneration)
+
+//Makes the dimension have render permanent snow, colored black, for an effect akin to ash falling from the sky.
+weather = overrideWeatherRenderer()
+weather.replaceRainWithSnow()
+weather.overrideBiomeRestrictions()
+weather.setSnowColor(#423E61)
+weather.persistentSnow()
+
+// Generate caves
+caves = new VanillaCaveGenerator()
+addGenerator(caves)
+
+// Generate ravines
+ravines = new VanillaRavineGenerator()
+addGenerator(ravines)
+
+// Generate water lakes
+waterLake = new VanillaLakeGenerator(<nuclearcraft:fluid_heavy_water>)
+waterLake.setSpawnChance(100)
+addGenerator(waterLake)
+
+// Generate things like trees, plants, etc when applicable
+decoration = new VanillaDecorationGenerator()
+addGenerator(decoration)
+
+// Generate animals
+animals = new VanillaAnimalGenerator()
+addGenerator(animals)
+
+//Generates snow and freezes ice in cold areas.
+ice = new IceAndSnowGenerator()
+addGenerator(ice)
+
+// Disable clouds
+disableClouds()
+
+// Sets Fog color to a dark green
+setFogColor(#011A17)
+
+// // Add Land biomes to the dimension with a weight of 10
+// addBiomes([
+//   "defiledlands:swamp_defiled", 
+//   "defiledlands:forest_vilespine",
+//   "defiledlands:desert_defiled",
+//   "defiledlands:plains_defiled",
+//   "defiledlands:forest_tenebra"
+// ])
+
+// // Set the "hills" biome for the previous biomes
+// addHills([
+//   "defiledlands:plains_defiled",
+//   "defiledlands:forest_tenebra"
+//   "defiledlands:forest_vilespine"
+// ], "defiledlands:hills_defiled")
+
+// Underground lakes of mercury
+deathLake = new VanillaLakeGenerator(<qmd:fluid_mercury>)
+deathLake.setSpawnChance(100)
+deathLake.setHeight(62, 247)
+addGenerator(deathLake)

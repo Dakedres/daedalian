@@ -1,0 +1,15 @@
+# Convenience
+*.html
+.ignore
+
+# Workflow
+.vscode
+
+# Images
+.xcf
+config/warpdrive/celestial_maps
+
+# Workflow
+# config/topography
+# scripts
+# config/justenoughdimensions

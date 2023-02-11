@@ -1,0 +1,11 @@
+printDocumentation(false)
+
+// Sets Topography preset as default world type in "Create World" menu
+setAsDefaultWorldType()
+
+// Registers the Galactic Drive Solar System Topography preset
+dPreset = registerPreset("Daedalian", "", "Daedalian Solar System", "BETA_PLUS")
+
+// Registers the planet "Defiled" with dimension ID 2000
+dPreset.registerDimension(2000, "planets/defiledWorldGen")
+dPreset.registerDimension(2001, "planets/smallGiantWorldGen")

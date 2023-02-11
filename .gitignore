@@ -1,0 +1,6 @@
+*.ignore
+node_modules
+*.extra.jar
+.DS_Store
+.vscode
+*.psd

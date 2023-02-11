@@ -1,0 +1,13 @@
+name = "InventoryNeko"
+filename = "InventoryNeko-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lgIQFroe/versions/0.2.0/InventoryNeko-0.2.0.jar"
+hash-format = "sha1"
+hash = "bbbbff361265be32c7bc7de93a7ae146da8e5673"
+
+[update]
+[update.modrinth]
+mod-id = "lgIQFroe"
+version = "vgkLPcG1"

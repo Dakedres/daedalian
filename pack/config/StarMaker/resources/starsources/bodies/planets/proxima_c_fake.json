@@ -1,0 +1,39 @@
+{
+  "parent_system": "proxima",
+  "orbit_data": {
+    "phase": 4.81,
+    "size": 0.9,
+    "distance_from_center": 0.79,
+    "relative_time": 7.47,
+    "eccentricityX": 0.0,
+    "eccentricityY": 0.0
+  },
+  "gravity": 0.038,
+  "atmosphere_pressure": 0,
+  "temperature": [2.16,1.58],
+  "wind": 5.0,
+  "day_lenght": 21244,
+  "breathable": false,
+  "solar_radiation": false,
+  "corrosive_atmo": true,
+  "sun_brightness": 1.0,
+  "star_brightness": 1.0,
+  "sky": [0,0,0],
+  "fog": [0,0,0],
+  "world_data": {
+    "tier": 6,
+    "genCave": false,
+    "genRavine": false,
+    "crateProb": 0,
+    "stone_block": "vegablocks:vegastone",
+    "mapSize": 4500.0,
+    "water_block": "",
+    "waterY": 64,
+    "lander_type": 0,
+    "throwMeteors": true
+  },
+  "biomes": [vega_b_1,vega_b_2],
+  "sun_size": 5.5,
+  "precipitation": false,
+  "unreachable": false
+}

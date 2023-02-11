@@ -1,0 +1,13 @@
+name = "Matter Overdrive: Community Edition"
+filename = "MatterOverdrive-1.12.2-0.8.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xNn9ASDj/versions/0.8.1/MatterOverdrive-1.12.2-0.8.1-universal.jar"
+hash-format = "sha1"
+hash = "5fb8a1b4eeafe261ccb40393d5bb1318765539ec"
+
+[update]
+[update.modrinth]
+mod-id = "xNn9ASDj"
+version = "cMbwOvwu"

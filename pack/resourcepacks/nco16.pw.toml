@@ -1,0 +1,13 @@
+name = "NCO16"
+filename = "NCO16-1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "732f807b36feaee6ae859f2648fb87ddb4d22551"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3795897
+project-id = 624555

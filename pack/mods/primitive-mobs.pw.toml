@@ -1,0 +1,13 @@
+name = "Primitive Mobs"
+filename = "primitivemobs-1.2.3a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0c8f09dde262809d430556aadd31c2c20e19f26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2658551
+project-id = 282415

@@ -1,0 +1,13 @@
+name = "Vaultopic - Early Inventory Management"
+filename = "vaultopic-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "165f1e8465e712acddfe29089d96c0c986d4f9ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2858289
+project-id = 322730

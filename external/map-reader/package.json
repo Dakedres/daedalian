@@ -1,0 +1,20 @@
+{
+  "name": "map-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "image"
+  ],
+  "author": "Dakedres",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "htmlparser2": "^8.0.1",
+    "immutable-js": "^0.3.1-6"
+  }
+}

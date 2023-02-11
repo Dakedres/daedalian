@@ -1,0 +1,13 @@
+name = "Modded 16x"
+filename = "Modded 16x v2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c864470b1a59b092f36097e7cd669c27ff0227c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2825667
+project-id = 350863

@@ -1,0 +1,13 @@
+name = "GoG Skybox"
+filename = "GoGSkybox 1.1-3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e347da78f864315769e91d63ce5c3003bc3e73cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2436378
+project-id = 266068

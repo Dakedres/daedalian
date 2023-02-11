@@ -1,0 +1,6 @@
+(def "frame" (open $0))
+(import $1 frame $4)
+(import $2)
+(blend-mode "soft-light")
+(import $3 frame $5)
+(export "png" 1.0 $6)

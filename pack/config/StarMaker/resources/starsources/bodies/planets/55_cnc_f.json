@@ -1,0 +1,39 @@
+{
+  "parent_system": "55_cancri",
+  "orbit_data": {
+    "phase": 9.27,
+    "size": 1.2,
+    "distance_from_center": 1.41,
+    "relative_time": 58.61,
+    "eccentricityX": 0.0,
+    "eccentricityY": 0.0
+  },
+  "gravity": -0.045,
+  "atmosphere_pressure": 100,
+  "temperature": [0.0,0.0],
+  "wind": 0.0,
+  "day_lenght": 8184,
+  "breathable": false,
+  "solar_radiation": false,
+  "corrosive_atmo": false,
+  "sun_brightness": 0.0,
+  "star_brightness": 0.0,
+  "sky": [0,0,0],
+  "fog": [0,0,0],
+  "world_data": {
+    "tier": 6,
+    "genCave": false,
+    "genRavine": false,
+    "crateProb": 0,
+    "stone_block": "minecraft:air",
+    "mapSize": 2000.0,
+    "water_block": "",
+    "waterY": 64,
+    "lander_type": 2,
+    "throwMeteors": true
+  },
+  "biomes": [],
+  "sun_size": 10.0,
+  "precipitation": false,
+  "unreachable": true
+}

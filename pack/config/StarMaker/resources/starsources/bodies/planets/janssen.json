@@ -1,0 +1,40 @@
+{
+  "parent_system": "acentauri",
+  "orbit_data": {
+    "phase": 1.08,
+    "size": 0.8,
+    "distance_from_center": 0.8,
+    "relative_time": 4.11,
+    "eccentricityX": 0.0,
+    "eccentricityY": 0.0
+  },
+  "gravity": -0.038,
+  "atmosphere_pressure": 1,
+  "temperature": [81.2,0.0],
+  "wind": 5.0,
+  "day_lenght": 12201,
+  "breathable": false,
+  "solar_radiation": true,
+  "corrosive_atmo": true,
+  "sun_brightness": 1.0,
+  "star_brightness": 0.0,
+  "sky": [241,137,42],
+  "fog": [249,202,109],
+  "cloud": [224,91,39,180],
+  "world_data": {
+    "tier": 6,
+    "genCave": false,
+    "genRavine": false,
+    "crateProb": 0,
+    "stone_block": "spacemod:janssenstone",
+    "mapSize": 1000.0,
+    "water_block": "minecraft:lava",
+    "waterY": 64,
+    "lander_type": 2,
+    "throwMeteors": false
+  },
+  "biomes": [55_cnc_e_1,55_cnc_e_2,55_cnc_e_3],
+  "sun_size": 52.5,
+  "precipitation": false,
+  "unreachable": false
+}

@@ -1,0 +1,14 @@
+name = "Sound Physics"
+filename = "Sound-Physics-1.12.2-1.0.10-1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/djpadbit/Sound-Physics/releases/download/1.0.10-1/Sound-Physics-1.12.2-1.0.10-1.jar"
+hash-format = "sha1"
+hash = "3fe6b7533376041ada5bf1d5491320f94326f469"
+
+[option]
+optional = true
+default = true
+description = "Realistic sound reverberation and other effects. Recommended. Will impact performance."
+

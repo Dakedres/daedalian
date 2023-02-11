@@ -1,0 +1,1743 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Artifacts.cfg"
+hash = "f988286ec76b294f4d35987720d4fd5be2819314f127eef058cf3eab0bbe85d7"
+
+[[files]]
+file = "config/AsmodeusCore/core.conf"
+hash = "2f83fc43e20bea0e79ff8824ed7e528387741e07c6f7a3abfae255af6b31f321"
+
+[[files]]
+file = "config/CoroUtil/General.cfg"
+hash = "99998c94d4ec98783861b285647a54216e489254fe06566360b54ff183d565aa"
+
+[[files]]
+file = "config/DLDungeonsJBG/BlockFamilies/crumbling_walls1.json"
+hash = "a7713d219a878cb9201ee612959c606223bc9ce3c2ea1c7ee899781b47d1514c"
+
+[[files]]
+file = "config/DLDungeonsJBG/BlockFamilies/crumbling_walls2.json"
+hash = "9c899ece42ebf501f4b838b8dba5726841ce9d91314bb102eb9dcc9335147620"
+
+[[files]]
+file = "config/DLDungeonsJBG/BlockFamilies/mixedbricks1.json"
+hash = "a6a533a0df0642430782983d31f7faebad229c0594b6f25822dcad186b32640b"
+
+[[files]]
+file = "config/DLDungeonsJBG/BlockFamilies/mixedbricks2.json"
+hash = "689cd9326b7b2290fd5ec708b067371a644871203da6eccee69bf8e4c9b0d951"
+
+[[files]]
+file = "config/DLDungeonsJBG/BlockFamilies/mixedbricks3.json"
+hash = "e8b3ba2d1bb89ce081bbebca7375c0745e6578083d62d41e026daa47893ce2b2"
+
+[[files]]
+file = "config/DLDungeonsJBG/BlockFamilies/mixedcobble.json"
+hash = "ebb80e7b5eb86aa38cbf1e70f10962ac60d9442f8f2b9d60920aee951a228b42"
+
+[[files]]
+file = "config/DLDungeonsJBG/DLDungeonsJBG.cfg"
+hash = "68c3525e30511cd6ba64160db7fed5a860811b8109ecf92ea5cad9286f14c3a7"
+
+[[files]]
+file = "config/DLDungeonsJBG/SpecialChests/oceanic_chests.cfg"
+hash = "e5dff0c2137d65be34ccf04fafb99215113ed5054d08680f68a5f49c6b7374d3"
+
+[[files]]
+file = "config/DLDungeonsJBG/chests.cfg"
+hash = "7dd1dfbda36b3db14fd7c703b6019772e45663718410bd3dbb53783b58b3ce6c"
+
+[[files]]
+file = "config/DLDungeonsJBG/nbt.cfg"
+hash = "304840e0d9745987b1eff78202a3db57606a94977e776b858f0430fbf6aa1054"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/common.cfg"
+hash = "5ecf8f1a71906719212e6db19f8070308aa051443fcc2c75f04ecd56d3622e1d"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/continentalShelf.cfg"
+hash = "fb4dde6503ea56d6da90ad0b216b67f0d54a34e82d2afd3534a373392131c497"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/dank.cfg"
+hash = "1569c102535bd4301de077f29303e7b04d5b61973e194676cb9cf993c320ea5a"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/defiled.cfg"
+hash = "a531c0bee6b3e74ad3cff7c1abfbb28ee142e9f01b9bf30334ea1134ac1a1e41"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/desert.cfg"
+hash = "a926d01a29c7afeeb0d153b5464aa07d26f5af35afbee26da59a33f52c96ca3e"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/frozen.cfg"
+hash = "685380d90ee5c7d3072bcbee5d60b8baa2edeb3f70eee850cc727db92604abe0"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/jungle.cfg"
+hash = "275c1d6fe122c893b64211967441f9554f28fe658c749903a585314028445646"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/mesa.cfg"
+hash = "cfea16c7cb0482a8f88b1d3c99d9bbddee382aac0f3616400cf834bc3be4e9a2"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/nether.cfg"
+hash = "a49189a2431f7c61cce1bb8749b35ad304269635ce5f6e2321883e7a22639d35"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/oceanic.cfg"
+hash = "357e182cd665bd45fff848d4d8eb73ce4a2a1c66245458d5671a14d761a7fb6c"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/template.cfg"
+hash = "4b7ff28717fcf41817ab2134872ed909647308d6085940e08ec1a18399fc810d"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/urban.cfg"
+hash = "3d113dd7748a985315c08d7706ee07482073d7b3f4bd0fa41d55e30a82f817fc"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/villagelike.cfg"
+hash = "15b191678b9f77ec8f65ea33555a9e44736e36bfad9ba2d8fbb1e2364fa04686"
+
+[[files]]
+file = "config/DLDungeonsJBG/themes/volcanic.cfg"
+hash = "b81781056993b02ebe998c407f5c09db71a82887c6cad41eddfa4553e69070b3"
+
+[[files]]
+file = "config/Galacticraft/core.conf"
+hash = "6bf237a57b21009089b41e58ec16f78fdba6c6337240c7d00e9719776f413892"
+
+[[files]]
+file = "config/GalaxySpace/core.conf"
+hash = "62b5dd577288314ec8fe9c9b1d5717e42343f9cb122e13aac075cd2d41ec69db"
+
+[[files]]
+file = "config/GalaxySpace/dimensions.conf"
+hash = "bdef0e01c11387eff895508b6c01cc0d308035376d367cefb09f7c1c053d8bb9"
+
+[[files]]
+file = "config/MatterOverdrive/MatterOverdrive.cfg"
+hash = "7d259579a16419b22082b6e99abd87e305965fc72ec2f58fc4fef98e10f55758"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/biomes/55_cnc_e_1.json"
+hash = "6e8b233b4e3e1f3728ee7eb68af24997d0ed361931c39939afe5baf41487f6dc"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/biomes/55_cnc_e_2.json"
+hash = "711ac5d06c62130d67b758a072edacf61fbbd7a48314a826fef051f00062dec6"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/biomes/55_cnc_e_3.json"
+hash = "fe1380b8eac7b22f39d66ae99a3036b146222e854a790c805f8b770832e47194"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/bodies/planets/55_cnc_b.json"
+hash = "8cf734876e361bdb4551b95f55d9899646c299c0ee100c878c723f7a701cfb28"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/bodies/planets/55_cnc_c.json"
+hash = "2d9689a23ec08eff3917afddce57c44671e84569be8d81a78bf7971d1e1048ee"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/bodies/planets/55_cnc_d.json"
+hash = "07b5cc92d25d87b4468c8a827b1dab7e871ed0456756d7ec649baf894160ee98"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/bodies/planets/55_cnc_f.json"
+hash = "dbce64c3b76c22fdfa785c0abfa2eeb6b5c614116e097ee8198a9ae6cf15a8e1"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/bodies/planets/janssen.json"
+hash = "c052f5154a102c37a0b41e2066e28b78705b21467944ceafe4a5958f8b266a70"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/bodies/planets/proxima_c_fake.json"
+hash = "b65cec34ed532b6f5812ab23d4dffccd39af17357d5346a0b43abb91c34a44aa"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/systems.json"
+hash = "fb8a7ff49e5cac455ec405fad8fdaf0180724183b71fb4681c9e9b57368066d8"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/55_cancri/55_cnc_b.png"
+hash = "115eede6e4bd714b3e56da84207ee199c2ffb28ff97de27e4de9004afe167cdf"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/55_cancri/55_cnc_c.png"
+hash = "ec150be6fb0309cdff415d98a390fb19b5e958af899e2245b698b0dbb3fb3fa3"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/55_cancri/55_cnc_d.png"
+hash = "80ceebec4ca7d1e93cf22299017ecc05b9d31365102668b89d8cd87e26a68774"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/55_cancri/55_cnc_f.png"
+hash = "f779f56839388fb6051b7f89f2748f17d21f9c7522e11c0d26a126ec03e178ee"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/acentauri/janssen.png"
+hash = "de3fe2cf60ddbd38ffec41b48cefe5ca01cc2487add8a82d913d4c0d2ee6f9bf"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/vega/vega_b.png"
+hash = "13bf106111d8097cc577b9b2752ae0eee03777ed5c80140d31a19bc2fe34a6a5"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/vega/vega_belt.png"
+hash = "b259670a43786c56e46ffe16175cbabb61bf7fe15bc167308f07b14d2c579e64"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/vega/vega_belt_2.png"
+hash = "b259670a43786c56e46ffe16175cbabb61bf7fe15bc167308f07b14d2c579e64"
+
+[[files]]
+file = "config/StarMaker/resources/starsources/textures/gui/celestialbodies/vega/vega_c.png"
+hash = "86b707502222dcf946fddf9333a677c5a9066c5bccc54d2e336ccfed8e2426eb"
+
+[[files]]
+file = "config/UniversalTweaks.cfg"
+hash = "e050ef16b147a49d9af915688559799d87aec7b2d500d89fb4156aa1597a931d"
+
+[[files]]
+file = "config/Weather2/Foliage.cfg"
+hash = "736a0a67532f765a89b3a1032450667e6f6764aa5764f104ff24dbdc6383934e"
+
+[[files]]
+file = "config/Weather2/Misc.cfg"
+hash = "555f03d3b8efbd15db94d357bb61bc285540d8238d2b7928da7042a7cba33045"
+
+[[files]]
+file = "config/Weather2/Particle.cfg"
+hash = "614a5ecd7d78a296e95ae52be4b7c59a2c90949084cd28e02adcff9aa24278f7"
+
+[[files]]
+file = "config/Weather2/Sand.cfg"
+hash = "7ca7c88ed43feb07dd92d92817ef963c07296951e236ac38f257fa47663031e4"
+
+[[files]]
+file = "config/Weather2/Snow.cfg"
+hash = "02abc5f56ef27d06993946bee4e76f7bf1bab80eff92049c6cc324f5a859717b"
+
+[[files]]
+file = "config/Weather2/Storm.cfg"
+hash = "09e858b8f5bfea8b2566d1a19e1bf8f1ad347429ceb81d6386ee0b2fdea44c5a"
+
+[[files]]
+file = "config/Weather2/Tornado.cfg"
+hash = "d683dc8edba4fd941f376b8377fac7483c093e39e661d6e76f67dee224470922"
+
+[[files]]
+file = "config/Weather2/Wind.cfg"
+hash = "31eb957e45085d5e9eeb938e4365c0f04e761258669da87498de7972af9b7a37"
+
+[[files]]
+file = "config/aquaacrobatics.cfg"
+hash = "bf22ee9aee3b9464fdee57008c9deecfee15089d4b657eaa0af8dda54f132d80"
+
+[[files]]
+file = "config/crossroads.cfg"
+hash = "ec6d90713a906c9fbe09cc5be493d6fb3966fa9e5edebc3c51b60cfe545e6d40"
+
+[[files]]
+file = "config/immersiveengineering.cfg"
+hash = "a8102f05c2a741f09b451c24079561f64f5cb17aea18229abb46f4bd41dfb48b"
+
+[[files]]
+file = "config/immersiveintelligence.cfg"
+hash = "94aaa1aa5219ef9bc2a6694b0a0e306480441590900542c97cb081b6932fa4eb"
+
+[[files]]
+file = "config/immersivepetroleum.cfg"
+hash = "d3e5e1e28f03cd485bfd4cc244cfe271e00aff24459fb80025ad5b06a97d8732"
+
+[[files]]
+file = "config/itemstages.cfg"
+hash = "9e205fc245c6212099edfe99f48c633ea2650262452a271286c3ee350e7fe416"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "de1d363acd617b3a0dcd516d53b2d15c733f772c04559b695d254e4177a6843a"
+
+[[files]]
+file = "config/justenoughdimensions/dimensions.json"
+hash = "237412b8ba9cac6e014bb74a6af146ca32002646b183118f5ffdb3b6308b4c31"
+
+[[files]]
+file = "config/mist.cfg"
+hash = "97f7aa714e8d2a8ec1cb94b3d95838a34e54b0079fff4bc251884faa24f66120"
+
+[[files]]
+file = "config/mm_lib.cfg"
+hash = "6bfedc8ec602e63b267f8bda69cd0c9d203cc1a0239d49512f0961ca1107b380"
+
+[[files]]
+file = "config/nuclearcraft.cfg"
+hash = "19200b417b72f8aad82041d0f57650446c77d5d4ede369a09e5839039a100424"
+
+[[files]]
+file = "config/sync.cfg"
+hash = "1cb111831fc83da59b0fde72067cdc66870b90a23307b59e581cc6d953801619"
+
+[[files]]
+file = "config/topography_/Topography.txt"
+hash = "8e70172095c9e07f35235a8c3ae9179888136cfbec5693dcad9d8ffafe6aa352"
+
+[[files]]
+file = "config/topography_/planets/defiledWorldGen.txt"
+hash = "f01cb2babc9ad7cef9ed7f4b82b113b4e2e1772f5f327b0c1fe10739d0b9a5dc"
+
+[[files]]
+file = "config/topography_/planets/smallGiantWorldGen.txt"
+hash = "e548174251feec0231c5165e6a16a83a0a3b9cbf3abf36052400e37cb47a01eb"
+
+[[files]]
+file = "config/unidict/UniDict.cfg"
+hash = "1eb495da74fdc67b338222e1fe33344c30366c5233283a458b5a1022e7bafe7c"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "48f252eb8c189c5f87bcd76a361ea872f5044a1b48a66de076bc58cede32b0d7"
+
+[[files]]
+file = "config/warpdrive/celestialObjects-daedalian.xml"
+hash = "e3868fc74976d7f5280c41207c401d48361b7e443517e54799ba1d671ca6f1f6"
+
+[[files]]
+file = "config/warpdrive/dictionary.yml"
+hash = "5026dafdd6fe1dc5126154d9d0bd9f75c86a1c5611c4a285889e8ba94d10fdd0"
+
+[[files]]
+file = "config/worldtooltips.cfg"
+hash = "7a0cc01b3616ba7cf329062867dc78a65570663cd72e8a3a90eb1176b9610167"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "5944e4124e601da961ce91286b93f26e098453a4695aee992b3ae8ba12ea38c4"
+
+[[files]]
+file = "mods/55 Cancri e.jar"
+hash = "0ae6c1bc6fdb7bc53ccc3935a0c6d6761cfef6874d83d63a2a1955a646b31643"
+
+[[files]]
+file = "mods/MistyWorld-1.12.2-1.2.5.3.jar"
+hash = "65b0048eada9ac8b6de452b53a6e687b1296f2e1c55957ab88c1cd621eac32a9"
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "dae4c24e21446737bc66c0e015b43f260e57f085c41a61e9026e6aaae25e66c7"
+metafile = true
+
+[[files]]
+file = "mods/applecore.pw.toml"
+hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
+
+[[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "115fb2e2dc9a7a6927ccc90c3def1c56f68fd246df5cc7ab85f2e0212f146787"
+metafile = true
+
+[[files]]
+file = "mods/architecturecraft-tridev.pw.toml"
+hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
+metafile = true
+
+[[files]]
+file = "mods/asmodeuscore.pw.toml"
+hash = "2d42af07ea3232b9b8520b37dbd85c185dac62ec15c4f3392454d2334e091f6c"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
+metafile = true
+
+[[files]]
+file = "mods/base.pw.toml"
+hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/bed-bugs.pw.toml"
+hash = "4b7290dedeb3e3cfe25710c8456c32d3110e804d101169e8a4b14646429b5278"
+metafile = true
+
+[[files]]
+file = "mods/betaplus-0.3.jar"
+hash = "e0dfbb6ba1e8569cbf467da7efa48118360c3ac6d3994fd427c5ba9b88a98ccd"
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "1b240c16bb0f4457f702d36525a620f7618c31ae46ad7e76fe51a71b625e434d"
+metafile = true
+
+[[files]]
+file = "mods/better-chat.pw.toml"
+hash = "399839d6169e48b9e5f1bf11ea089e0b1b43e712779269317416519b95014726"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.pw.toml"
+hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+metafile = true
+
+[[files]]
+file = "mods/bnbgamingcore.pw.toml"
+hash = "9faf22e62525484ed6cfeb70e245ecf51696669ed7cf71267877970a23a2eeed"
+metafile = true
+
+[[files]]
+file = "mods/bnbgaminglib.pw.toml"
+hash = "85633fa044cc6ed074fb5e1e7a97a272abda513ba23e3561d953773e424dd851"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
+metafile = true
+
+[[files]]
+file = "mods/born-in-a-barn.pw.toml"
+hash = "36c91e63beab5d3c889c036135ffcf0fb701cb79c71aa34ccd73833876173d92"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "7f3ac589996f3c42b177ae4b947b9c103ad170052256c5ef099a164dc3ece4fc"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
+metafile = true
+
+[[files]]
+file = "mods/charset-audio.pw.toml"
+hash = "f64c6cff2475f391c63cfe1d0d5265866571aab95593cd938bdab42316ff3706"
+metafile = true
+
+[[files]]
+file = "mods/charset-lib.pw.toml"
+hash = "80c5b46a51c4c09b1971ab37b4e269eaa843f6e6a3d4949ba52ca34de1304b06"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
+file = "mods/console-experience.pw.toml"
+hash = "b9b09311beddade14d0ef76b210ac31d2befa89441bd8126dbb048a1bd1b1611"
+metafile = true
+
+[[files]]
+file = "mods/containerfix.pw.toml"
+hash = "5ea5da2b18cfe92f0062b95f824b38c018a31c591a5c098a723422e690afafde"
+metafile = true
+
+[[files]]
+file = "mods/contenttweaker.pw.toml"
+hash = "920813af35febabbbef23879f800feeba4d308c11c0fec3728b2629d6bed8692"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e8d1cfc13226f6633ebd7fef08e6818471969453778bb4d7e99c8ca09250831a"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "dca3e8d28b9b3732dcc14e4fec7aeae77d47cded5853229b1f6780c3ec654c82"
+metafile = true
+
+[[files]]
+file = "mods/crossroads-mc.pw.toml"
+hash = "e08ceeb80871114e54c825a3617107995ba9b6b6da16ab102a4d3d0a6243a19c"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/defiled-lands.pw.toml"
+hash = "cb867f963595029a35120c2f02434a6985fab555f6508d3e6521d4ed080d9566"
+metafile = true
+
+[[files]]
+file = "mods/document-your-mod-mod.pw.toml"
+hash = "60a7eee8b113bde689b4a050bfb6489da9b986f95e1158faade38248bea8b63c"
+metafile = true
+
+[[files]]
+file = "mods/doomlike-dungeons.pw.toml"
+hash = "8a6cb30342e995d96ba1be5e191d93e801c2640e4e857a35f7e20baf551aee54"
+metafile = true
+
+[[files]]
+file = "mods/dupefix-project.pw.toml"
+hash = "5ae0a469d75940c6f882ea235bdc812274cfe7eb18e391f01e60f3b4eca509ef"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "c4d363cabb155874dff2346e5da38310e271d9e64184a0fe74cdf03d8be7701f"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
+metafile = true
+
+[[files]]
+file = "mods/essentials.pw.toml"
+hash = "dc1252b2d6eb8696db32904a61bb707284e74d49d82f61124546d98a48d3290c"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "d856a3027bb9f9d54c0ea2e02e6150510eeebd240bbb240779cdf0c27607110b"
+metafile = true
+
+[[files]]
+file = "mods/foamfix.pw.toml"
+hash = "f6ff217ec5ec15eb4d2290cfb56d087fd11ac9ceeeb7f58d852c7b574fdd9857"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "7d83f4782137fcc91362cf0ca8ba2bb15fd42916df5ba1d7caf68d5d0e3f008a"
+metafile = true
+
+[[files]]
+file = "mods/funky-locomotion.pw.toml"
+hash = "f4dc81e4866e2e6a231f8064dc080cb0817f028c6de332793a25049297b0cbc0"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "40bf93dce8d6d4769c2743a4768bb296902cdaa2a7bf8836402715a31269f06b"
+metafile = true
+
+[[files]]
+file = "mods/galacticrafttweaker.pw.toml"
+hash = "1096a10f0beeddf1ba1ff2e09797260483291c313d0005a8c886713d2ef3d459"
+metafile = true
+
+[[files]]
+file = "mods/galaxy-space-addon-for-galacticraft.pw.toml"
+hash = "82833d881a0989540edfd031036dbeffd5faf229524b4cf31349904bdb402c1c"
+metafile = true
+
+[[files]]
+file = "mods/game-stages.pw.toml"
+hash = "58473bbbfb72a4e7aa553ecee24cc654756443860042af596ec94d2e94ac3be9"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "a22c2f05309b2da313209a3ec2e55d85317e8ba9a34eb306d40c36a242d4d6fc"
+metafile = true
+
+[[files]]
+file = "mods/glacidus.pw.toml"
+hash = "e6b46872efeb7c4ca59bef246d6e1cae3a031f8b06bd8cfa30a9c8442d8fe5a9"
+metafile = true
+
+[[files]]
+file = "mods/gog-skybox.pw.toml"
+hash = "507eae4d2fb256149c7191f68e1f4f95b07b7471eda480287b54fcaca43dc6e3"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "7616c53901196cf27261e127db97510e3d1afee30cc884e3297da44ee4671b4f"
+metafile = true
+
+[[files]]
+file = "mods/healer.pw.toml"
+hash = "c76c9f8d7cea82541210982781f26c6c018472d0d88afe44b743f809a8562988"
+metafile = true
+
+[[files]]
+file = "mods/hooked.pw.toml"
+hash = "efcdd70677801727950cc217b17de0d912655ac2657828f58f6e4091f3262749"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/immersive-cables.pw.toml"
+hash = "cd34b6d93fe3cd7e1195ffc74047473a8cf5d15d31e2ad39065016028701d989"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-intelligence.pw.toml"
+hash = "833956aab26a0fdde90c4ced2ef929c7c6cf2053cccd56b0a380f36b746a8fab"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "92527273fa468970a2f1ab95c1df58a13881b8345f6537ea65c60d8ff812592f"
+metafile = true
+
+[[files]]
+file = "mods/instantunify.pw.toml"
+hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
+metafile = true
+
+[[files]]
+file = "mods/invclosefix.pw.toml"
+hash = "208b225f9b5602a088cca7cb636648947af810670911d4f00a6ad40210b4ccff"
+metafile = true
+
+[[files]]
+file = "mods/inventoryneko.pw.toml"
+hash = "f189c53747930a523603ad2e87adaa78979e0c115bdd89928869b2fcb84d7fc5"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "34d15131bc2ade2772fc98488400018f26b8e2ad38dee94c0d98890bb29e6c9e"
+metafile = true
+
+[[files]]
+file = "mods/item-stages.pw.toml"
+hash = "cbdaa55b50ad2751bfe5fb532484bc66976d441704c42eae1819e7885c8c6c75"
+metafile = true
+
+[[files]]
+file = "mods/itemzoom.pw.toml"
+hash = "b3ee481a6909b372a608ace4cb0ae87fc1fa2b0209a587b35e7c65edb0b6e54a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-dimensions.pw.toml"
+hash = "742c3f51b2d7fda140ea945144cb035c98b62a558498221659f14a8759a28d47"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-petroleum.pw.toml"
+hash = "010b10d09b9795700cf164f767ed1d1703b16a25dd879972fedffb1036e57a40"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "93bb7ceddd7ab173b75e6759f71b627bdf07bbee3e6d37dbdf2296c3d12e09f0"
+metafile = true
+
+[[files]]
+file = "mods/justenoughcodec.pw.toml"
+hash = "becab4957b826b3c4a0c616e6c8e4079d3bc53fddf275181c849e1b1b4a1b29c"
+metafile = true
+
+[[files]]
+file = "mods/keyboard-wizard.pw.toml"
+hash = "040673d85f0731ddc9ecacd3dee4a0c411398a7bd3b703c14a4f305ed7534ead"
+metafile = true
+
+[[files]]
+file = "mods/librarianlib.pw.toml"
+hash = "c09ef7a87aaa6c9db80818c57236f08265aaf43b66177f138a0ae69b8c776893"
+metafile = true
+
+[[files]]
+file = "mods/lunatriuscore.pw.toml"
+hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
+metafile = true
+
+[[files]]
+file = "mods/mage.pw.toml"
+hash = "1092e44551f7481ba14fc244e1565940bcb162ccc5c9902daa01af8c7792706c"
+metafile = true
+
+[[files]]
+file = "mods/mcmultipart.pw.toml"
+hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "ba303144d3dd5d0bb6c44c7241b5e116d7e695bc04921914e546a5d08353e5db"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
+file = "mods/mjrlegendslib.pw.toml"
+hash = "f0254cdd6d5f1c170dfdd1fb91c92f38962f3a5b37c241aea562e57645c8677b"
+metafile = true
+
+[[files]]
+file = "mods/moce.pw.toml"
+hash = "71500c9516f87de33caab8fd83f265b1e8f827faa119041063be1e5b75ee9bfd"
+metafile = true
+
+[[files]]
+file = "mods/morerefinedstorage.pw.toml"
+hash = "df364896f3b4c1606f6dbcdedabd4ae596b450b1544cfc5aa2ad3da46ada80b6"
+metafile = true
+
+[[files]]
+file = "mods/multi-hotbar-core.pw.toml"
+hash = "7b072755a606aa257291259138f5fa2d06d4476318d00bd58f56a51550b8dd34"
+metafile = true
+
+[[files]]
+file = "mods/multi-hotbar.pw.toml"
+hash = "0c164b6a9f9d685b57bd8fa70b42ba86e4cef5b7d4f1e48e76fd7735b9b022fe"
+metafile = true
+
+[[files]]
+file = "mods/multi-mob-core.pw.toml"
+hash = "85d50f21eab2ecc882ce588247ffd8f84236d4475e07b46281589fee8eaf7907"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "809a174614ee40940e6939b2ae104f7741c9af746331785e220f31a76d082d69"
+metafile = true
+
+[[files]]
+file = "mods/mysticallib.pw.toml"
+hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
+metafile = true
+
+[[files]]
+file = "mods/nonausea.pw.toml"
+hash = "6831c1e74fd32b7103b9a81ca821b92dd214cd568d46c2f83087005cb3068f97"
+metafile = true
+
+[[files]]
+file = "mods/normalasm.pw.toml"
+hash = "6ad28bfca96f3340a0b6eb588235711cb77d72a12f8ca1e076c50bb6a2968371"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "bb471776e7ad711b4d627f635776dd5ab41ad99840e4af57a31a95a317bd3504"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "f26ccfdf7d8799345b2d4cd447ddf17daefc3c5fecb40efc9817e3eeb559bee6"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "4aa2f981dc95c7d1f5aa9cb619c9a588fe17877fe7472aa39052e3eb4545dd52"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
+file = "mods/performant.pw.toml"
+hash = "5865f55ac3ee06486892780710061e5a93d803c16bfaa346520b4203c8f124fc"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.pw.toml"
+hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
+metafile = true
+
+[[files]]
+file = "mods/ping.pw.toml"
+hash = "e11dc5061ac67a848c54796e81421d01f985e69de1285351a39fc688794bbb74"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
+metafile = true
+
+[[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
+hash = "62ec1c743bf1fe3edb9f27493abba27887def5b482afa0f5a57c00eae64d0903"
+metafile = true
+
+[[files]]
+file = "mods/portality.pw.toml"
+hash = "53c4fb76a0dbe1076805319899657db17eed3210ec0ca340a7aefe54b64f0146"
+metafile = true
+
+[[files]]
+file = "mods/portalsupercache-0.2.jar"
+hash = "cc9976be536946fb40b27524beb86b019b9d401636281f9c143b4e48750c4ccb"
+
+[[files]]
+file = "mods/primitive-mobs.pw.toml"
+hash = "b50402b42fcd54440efc83d7c3dbbf826ee9c914ad5f667fc0c5ef5276077ec0"
+metafile = true
+
+[[files]]
+file = "mods/qmd.pw.toml"
+hash = "a202d3c5a35cb55d48896b7b21042f01e79b0a970976df8f8b5a453b71bf3b7f"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
+metafile = true
+
+[[files]]
+file = "mods/reauth.pw.toml"
+hash = "f2af346d41c6ce133f66ecdf00a61c2f916d1705d9335b8b710bf699770d6c7e"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "ced540e808f9863c64c1c80a9905db5f892859516359ba9aa3051fd26bed3c14"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "537667da8b18765eb6b6a4041ca23651f1c7b16caf1b206992012ffdf7df2ed4"
+metafile = true
+
+[[files]]
+file = "mods/serene-tweaks.pw.toml"
+hash = "91888e58a14acae52af0857c331d3eff512b37d2b457db73793dd51ba7cd1dd5"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/sledgehammer.pw.toml"
+hash = "d17cd16d2a4091a7f3c4cafd60bb816e54f330d1fd7a977dd650f8eebde582ff"
+metafile = true
+
+[[files]]
+file = "mods/smooth-font.pw.toml"
+hash = "8f18aeb339a5c9f0576a69e5ae0c6f27cf32b7abbbf303415338a995ce4aaeda"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics.pw.toml"
+hash = "e3824e740d547dbeaa8f36ad406a5ccd4caca9f316c653232fa62a38fa579fe8"
+metafile = true
+
+[[files]]
+file = "mods/stackie.pw.toml"
+hash = "17ba72705bda233519bb922e578b4de5d42087a1c095220de9f3723ab2d4918b"
+metafile = true
+
+[[files]]
+file = "mods/starmaker.pw.toml"
+hash = "0683a0e0092a00b2b1569f178c5dde8a9fab389f8dbc7fbf776d3a09235e90de"
+metafile = true
+
+[[files]]
+file = "mods/stevekungs-lib.pw.toml"
+hash = "42e29342b3c0e21b47797583dcdee09e88a63e8b76829b913200ffd149c48c5b"
+metafile = true
+
+[[files]]
+file = "mods/superior-shields.pw.toml"
+hash = "c91cac2e1a2c01ff2e1e0bdd312e89cf24fdb4bef7d06f75fe05d2863cae30bf"
+metafile = true
+
+[[files]]
+file = "mods/sync.pw.toml"
+hash = "48b5445508e8a7b56f99cb554936b42d7037a884fd6775715e0c405ad3fbf2e2"
+metafile = true
+
+[[files]]
+file = "mods/tellme.pw.toml"
+hash = "6d6bdb8090019e850f3d912e810001ebbdecdf963f506522b3d7421a47c89bef"
+metafile = true
+
+[[files]]
+file = "mods/tesslocator.pw.toml"
+hash = "677491503580c05655c2c29674dc21762ea49ee9badc380933eb6480bbbeb0c2"
+metafile = true
+
+[[files]]
+file = "mods/themidnight-0.3.5.jar"
+hash = "43d909842d543055376d13b4f484bcf47fba257d3cd62dd24359b48f9cc896fe"
+
+[[files]]
+file = "mods/tipthescales.pw.toml"
+hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+metafile = true
+
+[[files]]
+file = "mods/tofucraftreload.pw.toml"
+hash = "adc1294b16b13dc9d3880281e32f32228f48f54ecf25c36657520fe09c87a3f1"
+metafile = true
+
+[[files]]
+file = "mods/topography.pw.toml"
+hash = "0fb5a9d6622598c5aa585bef02c635b29a3466206e8520f8d806cd93454e3163"
+metafile = true
+
+[[files]]
+file = "mods/unidict.pw.toml"
+hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "3e8d2d61912c43f76be3ff33a2c9f3db409e4ac261d80a3935d3b3c4e42a93a4"
+metafile = true
+
+[[files]]
+file = "mods/vaultopic-early-inventory-management.pw.toml"
+hash = "fbe4bfb502bf201b001bb7b91cae4bb94cad36740a3f09e351e3b1ab9f03e110"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.pw.toml"
+hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
+metafile = true
+
+[[files]]
+file = "mods/warpdrive.pw.toml"
+hash = "1beb9edeb11b4f0e265596aa55818d15eae3350ab9f564a78ae45b99192ed6db"
+metafile = true
+
+[[files]]
+file = "mods/world-tooltips.pw.toml"
+hash = "687ed98bef7fcc25f7cbe946ac29d0b8e69e23774a307a7aae8b21f0f56f456b"
+metafile = true
+
+[[files]]
+file = "mods/worse-barrels.pw.toml"
+hash = "9ed09d8f11af4b256a4ba7624a0f65af447813267cc6e81af565b47e07b5cb8b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "25dd02aef60a85b95b8a4422be6f973dcc826c6295d1286c8b67f5ec7af028d9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3b60dd61e2b9cc9bc39037a8e0c8a55020fdbbeb47fb5a31ed3c06e2d457a4b0"
+metafile = true
+
+[[files]]
+file = "mods/xtones.pw.toml"
+hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Authentic+Shadows_1.11-1.12.zip"
+hash = "b26d00f96a161f8f4537f85c56725a562059446d6e71e7255491601c4e654980"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/charm/textures/blocks/gold_lantern.png"
+hash = "ed9f934fcce21efdf500ac40654e8cd3ce0784d59f90358de81673d90c265d3b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/charm/textures/blocks/gold_lantern.png.mcmeta"
+hash = "d620adbe5fefa301ba539cb96d1153429ae4d1707f2f5c72bb0b26c362518e3d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/charm/textures/blocks/gold_lantern.png.mcmeta.txt"
+hash = "d620adbe5fefa301ba539cb96d1153429ae4d1707f2f5c72bb0b26c362518e3d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/asteroid-belt.png"
+hash = "592b253bd9afff258bc1dddc12a5213854bb8081fb28f94044fbea7b84c71d72"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/asteroid-belt.xcf"
+hash = "01d8c16317aeb7dd9120a790bf481fd0cc9bf052d27b98236b710582966dd585"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/venus.png"
+hash = "5d7afa0e698cca80b3708f12c06bf6b0f9cebaf0d30d977e303a46308635dccd"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/centauri.xcf"
+hash = "4af34d9b521358c704b6df8d08d50a1fd56c8e46e2ae92a27733e99a8073a250"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/centauri_3.png"
+hash = "2d68d6598ec95aef6c8c67369aff572db4c4a40e65826aa664fb5c77e05219cb"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/inner-sol-3.xcf"
+hash = "2b9148274fe487208cabb9c42ac7832710b27a3613b471cf6bbbc7294861fd4f"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/outer_sol_3.png"
+hash = "c2417eec44c8bd1f8eb9ff29cc6b481e157c3fd1519c1f53a596147aeb9473c0"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/panorama_0.png"
+hash = "2ca9376112ed5f5d5c15ac32cd2d0b9fa48c526e927be15080b9de8c0e3ab1bb"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/panorama_1.png"
+hash = "6f3503eca622cc4b7bda74b73f1e770daed4cbe2b626b57ba0f248e2cc9fa82f"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/panorama_2.png"
+hash = "d69d3ae3ef273db292841f8d7cad8e1495e3623b2e88f67bd89a27d53a54f510"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/panorama_3.png"
+hash = "61f99de58d9d706edbfd64686188d7fe276203dae488288ad45e29e62a9532e0"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/panorama_4.png"
+hash = "ae0eaedcdb39f5078dd3485bb5c7cfd2f199bf5ade7aaf829247edd061ca827d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/panorama_5.png"
+hash = "643b4e43e45095c3cd5f5fc9a782a3162d47b1d1551a111353558f79b8500b64"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/gogskybox/textures/planet2.png"
+hash = "cba0b9bb7c11dfd7697b54ac8085b77a262223ec98a0b74e7913b4a0925cf994"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/gogskybox/textures/planet3.png"
+hash = "ba066bff96c0bfa2c3d83ac0643b4d2d9ee9c8d535bf02eda81a6e2d90f8d2c2"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/matteroverdrive/info/android_names.txt"
+hash = "73f75de8ed10f6106f9449fa7d882bc9376960359460dde446f3bf85e4f84094"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/_disabled/world0.png"
+hash = "858ae24a1d71ef32578840dea57a70cabd65802db71557e32c45d550f742dab2"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/_disabled/world0_rain.png"
+hash = "a83297fee699a5c0905f0512b33d568a2fded9596eb32aadf0bdf81caeef6855"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/_disabled/world0_thunder.png"
+hash = "7ce789ad82c0ad6ac18aedec9eab033098923126ba29faaa9ebfcb5b2e281d18"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-1.png"
+hash = "73a3c8aa07a0117ab379f0931b6a7b5cccdeef46550c62f5ae2aa129e292baf8"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-100.png"
+hash = "fe214b7d52008f2ffa91f02fe51206f2a77fe2013c3b187a2e37d595c81ee218"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-100.xcf"
+hash = "8c2d281b0fa622ff41915451a0dd055a5969fdb5f2d629303f4557963fc201b1"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-101.png"
+hash = "74efb1d3c03d7416b1a807a95d70cafe1ded67488933ec5fd53136759db81e23"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-101.xcf"
+hash = "9ef9202f2f79412ae5107822f8ea0319c85218a4e93db55935b27de0c4c29f8a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-102.png"
+hash = "c7241932c677e5a3c340d2766cd84dd9788e3cb724be90a7e7962e4ffe54e031"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-102.xcf"
+hash = "914e1af397902891d90e3d9158b777a88aeed8f6238d73186a9f625e11689f87"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world-103.xcf"
+hash = "cc62ccbe7379bd2bd5590ad8293f392d8f12da005f6ee25884954b4351347c9e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world0.png"
+hash = "7f0c504f740f2d2269e34252f7dbbc60b652ca248598a283eca2bdc860f2d537"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/mcpatcher/lightmap/world0.xcf"
+hash = "263743578f396ee87e3f52f57ce68a67fce94a770648a4801c4a4663b7c81e7b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/textures/colormap/foliage.png"
+hash = "526dbbf9f6528ab1dc56deb0b0103e615635338c960ddbe77636d879727fc08d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/textures/colormap/grass.png"
+hash = "dca6c13562e54f53b96c721d7308c6b02234f37f9d9b26c8e074b8764b207b5b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/textures/gui/title/edition.png"
+hash = "e7319587884a21e70f531db824da23f6463fbb135cdb31cf172889450f359739"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/textures/gui/widgets.png"
+hash = "b1f4beda6c804222d539240e9da4c8346443cecc9461bf55da45ac8644e71587"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/minecraft/textures/items/bucket_water.png"
+hash = "7af8e447e647425e805ed3f1ab7b1ed95e5a8cbc6f5fc44efacc05573f8706b6"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/mist/textures/environment/moon_phases.png"
+hash = "c819a41b734cd5bc20dda1c083ea03402ba87a7de06359535e4ff616ccc9fa0f"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/mist/textures/environment/moon_phases.xcf"
+hash = "314a8d7c42489e1e99694ea44c2e7ff8880aa15f7a1699a4ceba15af1572488d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/mist/textures/environment/moon_phases_alt.xcf"
+hash = "3749609a492bacc72f7b3b1ff7c639bf65e433ce029fb47d94aa26681f558b57"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/mist/textures/environment/moon_phases_big.xcf"
+hash = "6420c38783e4f78271be94e89d357fb709ce2af1528d9120c2455e839ea2376b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/mist/textures/environment/moon_phases_big_alt.xcf"
+hash = "a1713d00a1014bf0d17abc273c43d1ec9637930c3f7ea5fa5d6c6248be5cc149"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/glass-gray.png"
+hash = "7170f128198fca747e34552251420c685e98662053f05585d35b10f7086606cb"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/glass-gray.png.mcmeta"
+hash = "eadb7749baa0f75b751c98168277226f99bcebc3fe337605a50581b625feb512"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/glass-orange.png"
+hash = "b9899f4d0a5762c6a77ada4ccd7b053313af6c6bd17582717e703ab8fe2c186c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/glass-orange.xcf"
+hash = "1c63129b0a5dbce01852a1207ec157550d2254bfafa504022965338c8d6d25aa"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/glass-white.png"
+hash = "486359c1e89e7577d853872787456dca7a3a477586ebf00dc7db970d2876259b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/glass-white.xcf"
+hash = "21d63ac0ff70d1b9426104bf95aa6e952a2ebf44a1f3bbb8b056265e078503c3"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-black.png"
+hash = "d572f5d1a0806e38fdc9c601eee8404aec475fbbd2167666339b968518a01e66"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-blue.png"
+hash = "f3cffe8c1694773636f4e6b5c287d128da9cc576c7849fbef5b9d4938e51bf07"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-brown.png"
+hash = "2bea87cff1c9d3cbc8d743d719aa0532a8f6d832b9df5a1b6435556cd4609744"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-brown.xcf"
+hash = "82172cdce12b4435032834e810102e987f3506a41f1a7d1c23333de4d9a74601"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-gray.png"
+hash = "f49a60abc063c1f7a02793d85f4391b8b7bbca2415d29fa4b7b50b4d8c8c3728"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-green.png"
+hash = "c24e1a906884c8d5c180f9fd59f08d3bc1eef85ac0e6aba29677184cd15df051"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-light_blue.png.disabled"
+hash = "49011230e0ab69425b8766400c5e282c92fdb2e99bec12b6b8457e8aef9fd6cc"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-lime.png"
+hash = "a2f13fd8a80cd8865fc701ab199c25315b892c758a7a9b19f79f6046c12e5fc0"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-magenta.png"
+hash = "485b4a4d92f45ecf8a74ce02823ed9dd0bc75ee20afcc05ca1a93726640ece5c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-orange.png"
+hash = "3aaedcdeeea10df089d0831675a6fd684be07d246413ce2a622b0d32a3b516aa"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-orange.xcf"
+hash = "4eae1240b579b1067e8b7cc2079dba526b78d46980e24c4f9cf8030c9da2f74c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-red.png.disabled"
+hash = "c586cebfc696db361311355ce3acc3dd469c00fcdd8bc2afd4b312fb9130be29"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-white.png"
+hash = "7f3c41318cce694181c119097223f51e2499c0d02bb2fd8716d6e2ad1610bd07"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-white.xcf"
+hash = "73f0de271276360243152d9c39d56a8ff46ac9f3473c9f54b7672a9d2f38c00c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-yellow.png"
+hash = "dbfc6f297cba2575324ca15555ddc705bd02014e9750f2e7d12bfba499f00376"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled-brown.png"
+hash = "96206f92424d8750a66e1113e20fdde3c4447b31f6e97ed6f069aa14df79817a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled-brown.xcf"
+hash = "72e14553e0716046da82ff0a0ffe1f16f5b58e11cd619beba2a5c6d9542e6ee1"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled-gray.png"
+hash = "2df16e1b195fa9bb70f4504748cea27bb9ab2eb2ffc6c1634b67ba591035648e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled-orange.png"
+hash = "e3742b4dfc73f6a28bb7a6e67ae8c4e7c017707e8b457cc15620e7d8641f03b1"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled-orange.xcf"
+hash = "f8129736ec77f400acea7d620f9784c59678d04854fe409b468ae2e1f5874e7e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled-white.png"
+hash = "b60b3c3c6bf4544d6888ecc5b4af69fab61db227c49b7e1114bcc665d7b74a18"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled-white.xcf"
+hash = "42cd77e3aebe90663f41619bf9e944aaa2529b673ed9dd0b5cb1aa4982146d2a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-brown.png"
+hash = "66f425b466e6a4e5f53757213b0cfcbf5eeb13579b10135541ec0568ef898798"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-brown.xcf"
+hash = "272d8dc24a8e949bc11bcbefd7db50b04814d1b4604a1445ddb6ecf9dc6f5e07"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-gray.png"
+hash = "8282cd7b95442001e743368e378bdd52162663ce8546110cf2f161624c9e38b7"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-gray.xcf"
+hash = "008dd74826b019133c2ae1cdd706ed5040a2f674b54feb4043a402518ec608ef"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-orange.png"
+hash = "d3164780efbff57edbfd14d41573fcac75490abd0784560be5781661c337d1f6"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-orange.xcf"
+hash = "8771afc346979be37a781f0a974890c91a462dd66b368049f8634d3f403a39ee"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-white.png"
+hash = "3fa0a0b7375e771bfb3170322a6343d20121be43600bc6c19886472620565bf2"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_horizontal-white.xcf"
+hash = "0e14b23ed5066ee5eaf9b7b209795c58905dc617cfaaf643f0476e23997dddf3"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-brown.png"
+hash = "a5f22780e59879fdc5db9ba351ad401fed02dfb11237a8bc704fc9607b080202"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-brown.xcf"
+hash = "adf72bdb2d3af3d49330fd8d3a8cf5f743c595a97efcb0992f2b2780dc2567de"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-gray.png"
+hash = "69e9d86ccdd1fc799149c7e889c4a12da244a46a2c52b589c6ad230f03d66c24"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-gray.xcf"
+hash = "66250be637a9cf9ebd52d35ffb4de6f454f6660393ca1aa9e966e6fd365aa10e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-orange.png"
+hash = "ee3a37e06da58c116dc6536f754750b33c1a5c93edc97b62aa0cc45708683444"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-orange.xcf"
+hash = "c628ac45219fd1872699fd5625cd30eca0fee55f60acf923ab66e506148a570e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-white.png"
+hash = "7bc5f234ebd33097191fb18a2f2d3e4f081a7f5faff75f40c436ccd7e3434d29"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical-white.xcf"
+hash = "3b4f44c8651f4933dbca99e3c0c2c60af631e1cf8426e3faca25102c43e910a9"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/tiled_vertical_white.xcf"
+hash = "3b4f44c8651f4933dbca99e3c0c2c60af631e1cf8426e3faca25102c43e910a9"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-black.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-brown.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-cyan.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-gray.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-green.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-light_blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-lime.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-magenta.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-orange.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-pink.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-purple.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-red.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-silver.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-white.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-yellow.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-gray.png"
+hash = "5c84e32864bb5549c48f792637e9769f32be1c2cfc26c8ad66268dbda49728d3"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-gray.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-gray.xcf"
+hash = "d78f5c2d4f8eda56175adb175804eb2607d6070db7ec7bb0642dac71ff5d816c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-red.png"
+hash = "bc558734fcc89b077c5f442bc06d50c54d96ec68b0d62faaf684267f41ce7b05"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-red.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-red.xcf"
+hash = "43a15b65986a8cb955f92e1094a467d9c1c0536ee568c70223ff1e699670bb65"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-silver.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-gray.png"
+hash = "0959a868fd238aae8d8358fa290ff513c60c0d98930fb3391ea400bf5a6f0ced"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-gray.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-gray.xcf"
+hash = "8915cd721a8414acfffa2c13c7526b0e54d13e7b4cc17c4ea1f7db37fa83b695"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.png"
+hash = "dc2f659199f7295026ca3764198196bd08be50ed57111776496f345aafd4befc"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.xcf"
+hash = "c8c08f9c2a03d54bf3517865344088785240dcb1d13d6c890c4bed27b308889e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.png"
+hash = "a40fb9eb588c625acb9bf8ae74d7e78c9d299116412341105c777c2807a23931"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.xcf"
+hash = "7f2ac032ec404b4fe75c215b6dba3f375353178081ef97c869d7c020f1ab4c6c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.png"
+hash = "d9c247a19396fc70c997a9409e8cf901de7e1db6d7f1bb6a3d4f22da95b92f23"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.xcf"
+hash = "656c774774c2f538bd2401ea6a6b5be88c78d9543d3e70213ea610f20bd59a2a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.png"
+hash = "b415176dd56b3b25ba78168e49fce20d78fecf654f7b2e8f1e0aa7e11a9b7111"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.xcf"
+hash = "466820ce7b90a5085354ba1214648a1850017b7d8f227ff961ac24d56e99b869"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-purple.png"
+hash = "9a8791a7c61dd552651f182d27a1c8fdd58bd0aebe4133a20d1e174da146cca7"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-purple.xcf"
+hash = "5d7b2a3e1293dc6d2830e1c0bcb9b795050442038d878b9ef98bda3260594433"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.png"
+hash = "a568fbf15b1f65c3070073ca14324c777d58531309fc25b0852eec67b9daea50"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.xcf"
+hash = "1b24ad7d55987dd532c1201fe9ad63552fd7a254b1ee40fb859fc4c19f519316"
+
+[[files]]
+file = "resourcepacks/Better Extra/pack.mcmeta"
+hash = "c2cf4db8b4cf1f573e4589b366e7d3891a3562fa988620e3be6a6a1b8d5952b1"
+
+[[files]]
+file = "resourcepacks/Better Extra/pack.png"
+hash = "6fc801e254e8c76c6b8aaea1862fd546bc09eda34cb39d557bb1867dbeaa335c"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r848401.zip"
+hash = "6a84511c994f1eee694be302435fbe5a797e8ac1a9b7bed053a93b254ffa0971"
+
+[[files]]
+file = "resourcepacks/galacticraft-16x.pw.toml"
+hash = "fbd65174b957e3e0f0fd85eb20068b0e054e8ec3060720e6f6256a840981369c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modded-16x.pw.toml"
+hash = "67c44cc60eb51be51a3197d60b3c0a9d01a0d2ff14976e0ad6bbca48c8bca2f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nco16.pw.toml"
+hash = "aeac215e2536279fb9e80b5854f15b80af59f9755cfeca50f8a67bc39adbd362"
+metafile = true
+
+[[files]]
+file = "resources/contenttweaker/textures/blocks/janssen_magma.png"
+hash = "a15f84b572a0a66dae5895a8f76ddd6537f41400766f352761ec9f5e5adab584"
+
+[[files]]
+file = "resources/contenttweaker/textures/blocks/janssen_magma.png.mcmeta"
+hash = "aaf0ed9c58bc8aed21cd08c751722c0262242919da2014ec484f3ddaa96e88c5"
+
+[[files]]
+file = "resources/contenttweaker/textures/blocks/janssen_stone.png"
+hash = "e761fe5acf34e4120315860bc766a0293402f51fcdfb55fc7ca6180ba720db5d"
+
+[[files]]
+file = "resources/contenttweaker/textures/blocks/janssen_surface.png"
+hash = "86ba35b78215a6489bc3f6e4b2917120b93332918f7c6f3df754541a4240ec59"
+
+[[files]]
+file = "resources/minecraft/lang/en_US.lang"
+hash = "2628317d39a501e63e2e5af6aa8bad2df86edc64e51287be1818852153a70985"
+
+[[files]]
+file = "resources/minecraft/lang/ru_RU.lang"
+hash = "3eb995b21e6a38f5da710b1fb6b2bc8abaf6f4f22728c095e41204d53aa6c108"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_actinium.json"
+hash = "f1cb73bf582f9f8c8afc5ac896e446bea6bdd0a498eb3090f291962b1c48597b"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_californium254.json"
+hash = "d0231bcc3e8ecf9c699f5382f0fc3674b87550cbc69e97384bc14a74e88c06e7"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_curium244.json"
+hash = "b55410537428ed7a252020b31929c07b64bc74ccb998b17fb05ee13d69b7467a"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_curium250.json"
+hash = "17fc9dab8df63f5b69c0604515f28bf0a9678da252d7e74280fbaa51246e344c"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_fermium257.json"
+hash = "384242ac0938884300e5ec78f0962017a2283b2a297a0c664d6348d457310e37"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/.DS_Store"
+hash = "312959140b19a673b3b0818a496a7a53994cabca1aa28d0c1b49c9313c8f9f56"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/cf_neutron_multiplier.json"
+hash = "66a117e90bc99b7b1cb708d321cd3f5bd775b570fc7eb57b75f4adabbb37b0ca"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/hydrocarbon_mod.json"
+hash = "1eb73eff1bba83e88b13736be0271c67e392599449b9e9031a93f208c764c4b0"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/pu_schmeared_be_mod.json"
+hash = "575391c598a337c688525775b6b5a5eb63009e14705793a1ea58eab3a88ada7e"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/water_mod.json"
+hash = "e02465f816861f1ca4ed4edfe5cda153451b3d01108f0f3ac0c536889800bc3e"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/.DS_Store"
+hash = "9d904532d76fbb3312375b0445291d57d2c777e3bf0deffbe224097bc52b16f6"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/blocks/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/blocks/cf_neutron_multiplier.png"
+hash = "f81c11d8c175d68c90e363081b6fd248da5e8e51f3ca188aa8fe995d6d2b0009"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/blocks/hydrocarbon_mod.png"
+hash = "20db366f2384d4084178263112815982ead1fc7c96c18687f6271f8b16596f23"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/blocks/pu_schmeared_be_mod.png"
+hash = "f6ceec2659dbdfb77d08e72a5c1995f6537bd5c879c373242d9c17a57d437fef"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/blocks/water_mod.png"
+hash = "2db47baa406e3fe60f2a2b8f810dbfe2845af02cf7fab0bf1d11269a35e45469"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/items/blaster.png"
+hash = "541a60756709ffe9bf53fa6e6cb0a0e8b47e86caa26aee29c74f3918fea85978"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/items/compressed_air_canister.png"
+hash = "eb36fbb3b8bc957a1920c6415085afcc62e2d4c1b6f2e8cf0f4c022da0b953be"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/items/radio_waste.png"
+hash = "69ee0e33ea98281917f82be1f5518a83faab04d7db2faa9300a483cbea163cff"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/lang/en_us.lang"
+hash = "615ad21d7115eb50a3aec418f5b1bd398fe135317d786044482f810872286ae5"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/scripts/crab_steam.zs"
+hash = "b6cb7e4546f91554d0e38e22a3a57ad2fa254cca6252ba0ebe323e9e787575f1"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/scripts/generation.zs"
+hash = "b446d84a2ab8fab88094416fa27106cb4f94a889741cd4a9c1ea117c356223b8"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/scripts/recipes.zs"
+hash = "8932c47816f27b92243c2b85bba62497714431126a6d8e0c77f0feb810362913"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/scripts/recipes_qmd.zs"
+hash = "06313c1bb4d47d888e49af5dd5fdf3d9b1bcca693d31c3e13a975a72956114cf"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/scripts/sources_and_stuff.zs"
+hash = "ac5d1da08e289ba9c78643e62adfbc1e29879d4e1d99d7186430591387f1a627"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/.DS_Store"
+hash = "8e8a484856277d2f3c016869f7be61a0ef1d4353389e4a2ae798c7a385d00057"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/blocks/source_actinium.png"
+hash = "13d3878502645b81ff4615e50c250fd417f8acd596bc8d9303b99099f7117bb2"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/blocks/source_californium254.png"
+hash = "2d871d1dc0a575732fdb5fe81d0a307980a0788dc87a9af51d1a81fa9f9dac8e"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/blocks/source_curium244.png"
+hash = "ebdbe73ad9b306218d68405d54148d22f05ef15dac2ba350cc6f7f485869c52d"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/blocks/source_curium250.png"
+hash = "2083179f188d889cd7f8615a9120659aae0a191f06d084b21dc131fcc6282268"
+
+[[files]]
+file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/blocks/source_fermium257.png"
+hash = "1745a63ae7d556e81399ff0c344a518a43c43b8cfd6c114d92615b2ae4cbcd84"
+
+[[files]]
+file = "scripts/ores.zs"
+hash = "6656a508327a201a6e21073d465127c20f5184a34b5f65dbe85ac33b9c830c47"
+
+[[files]]
+file = "scripts_/misty_world.zs"
+hash = "644ab6e9cf466625878af4632bc34055001697878e763364a6d5ff4d35a1f5c1"
+
+[[files]]
+file = "scripts_/recipes.zs"
+hash = "cd4a7cff90e1b98e55324a31f44869331ab87d35cbfa7ced80c7ea8eb14a4e33"
+
+[[files]]
+file = "scripts_/removed.zs"
+hash = "1e080856674cc920bfb05f1c721e98ae2bc81ba9c62c6d62f264ca0f51f66bc4"
+
+[[files]]
+file = "scripts_/schematics.zs"
+hash = "d910ab9c1ef85d715b74799a7921a19be1305294fab8bc68e8f1619dde132240"

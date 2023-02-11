@@ -1,0 +1,10 @@
+{
+  "dimensions": [
+    {
+      "dim": 84,
+      "jed": {
+        "SkyRenderer": "galaxyspace.systems.ACentauriSystem.planets.proxima_b.dimension.sky.SkyProviderProxima_B"
+      }
+    }
+  ]
+}

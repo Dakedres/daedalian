@@ -1,0 +1,25 @@
+{
+  "systems": [
+    {
+      "name": "55_cancri",
+      "galaxy": "milky_way",
+      "posX": -11.81,
+      "posY": 11.34,
+      "stars": [
+        {
+          "name": "55_cancri_a",
+          "star_size": 1.2,
+          "star_phase": 0.41,
+          "star_class": 2,
+          "star_color": 2
+        },{
+          "name": "55_cancri_b",
+          "star_phase": 0.41,
+          "star_size": 0.8,
+          "star_class": 1,
+          "star_color": 1
+        }
+      ]
+    }
+  ]
+}

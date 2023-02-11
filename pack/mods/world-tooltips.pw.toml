@@ -1,0 +1,19 @@
+name = "World Tooltips"
+filename = "World-Tooltips-1.12.2-1.3.0-111.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22d991d32f46b0e336f2a257ae1140346d74b8e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2668458
+project-id = 241545
+
+[option]
+optional = true
+default = true
+description = "Renders tooltips when you hover over items in the world"
+

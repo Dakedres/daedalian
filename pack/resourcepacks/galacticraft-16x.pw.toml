@@ -1,0 +1,13 @@
+name = "Galacticraft 16x"
+filename = "Galacticraft 16x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "085efc033265402ac088a28a88b6d80a686e3d46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4133461
+project-id = 720031

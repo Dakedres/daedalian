@@ -1,0 +1,13 @@
+name = "MAGE - Mildly Advanced Graphical Enhancements"
+filename = "MAGE-0.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SZrZ7901/versions/0.2.4/MAGE-0.2.4.jar"
+hash-format = "sha1"
+hash = "18ba28d2d654f387f6333068ebbc8f84641a295f"
+
+[update]
+[update.modrinth]
+mod-id = "SZrZ7901"
+version = "KRMVCvXG"

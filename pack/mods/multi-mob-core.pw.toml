@@ -1,0 +1,13 @@
+name = "Multi Mob Library"
+filename = "multimob-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcc3b8718743521d4251bce1e7a4c91e3ba89079"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2666556
+project-id = 309136
