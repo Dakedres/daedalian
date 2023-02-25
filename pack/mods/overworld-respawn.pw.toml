@@ -1,0 +1,13 @@
+name = "Overworld Respawn"
+filename = "overworld-respawn-1.12.2-0.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cc36c232b496c1128bbc7e0496eb80e456fc5f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3012248
+project-id = 397449

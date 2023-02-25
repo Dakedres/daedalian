@@ -1,13 +1,13 @@
 name = "Healer"
-filename = "Healer-1.2.0.jar"
+filename = "Healer-1.2.1-sources.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4Xu8f6VS/versions/1.2.0/Healer-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/4Xu8f6VS/versions/fowT683O/Healer-1.2.1-sources.jar"
 hash-format = "sha1"
-hash = "e30d35978614eb34336869f6ab0b27d97e0d8e3d"
+hash = "960ac53babef2a632be00791a0f69b67dfc8a30c"
 
 [update]
 [update.modrinth]
 mod-id = "4Xu8f6VS"
-version = "FBRCd3oB"
+version = "fowT683O"
