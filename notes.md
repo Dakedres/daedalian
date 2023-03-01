@@ -12,16 +12,13 @@ Mods that have third-party downloads disabled and will need to be manually downl
 
 # NuclearCraft Addons
 
-NuclearCraft Oil Refining
-- https://www.curseforge.com/minecraft/customization/nuclear-oil-refining
-
 Moar Reactor Functionality
 - https://www.curseforge.com/minecraft/customization/moar-reactor-functionality
 
 # Other
 
 VanillaTweaks Settings
-- https://vanillatweaks.net/share#Jekmpm
+- https://vanillatweaks.net/share#bwEksk
 
 - https://www.curseforge.com/minecraft/mc-mods/glacidus
 - Misty World

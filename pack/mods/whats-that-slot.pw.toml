@@ -1,0 +1,13 @@
+name = "What's That Slot?"
+filename = "WTS-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f27b08e485f917518f87c1aaf5b42422aec0f269"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2432160
+project-id = 247895
