@@ -39,7 +39,6 @@ D & W - "Half a moon"
 Dallas - "Tell the moon you've seen the serpent"
 Dimension Six Rock - "Let the sun shine in my friends"
 E Eats Everything - "E's eating on a spaceship"
-Everything Right Is Wrong (1984 Demo) - Features samples of Neil Armstrong's 'One Small Step' speech.
 Extra Krispy - "We're floating through space..."
 Fake-Believe (Type B) - "My space helmet's on" etc.
 Fibber Island - "Our friends live on Mars"
@@ -72,21 +71,7 @@ Tesla - "Here is a mind that can see across space"
 Twisting - "She's not your satellite"
 The World Before Later On - "Where's our space face?"
 You'll Miss Me - "You'll see my teeth in the stars above"
-100 Cars For Good - "Help them amplify and multiply / The good that they'll do with that ride"
-Certain People I Could Name - "Count the arms, the legs and heads, and then divide by five"
-Hate The Villanelle - "These words are fractions when I needed primes"
-I Am Alone - "So now it appears the double crossers / Have been too clever by half"
-It Was A Very Good Year - "When I was the square root of a negative number, it was a very good year..."
-McCafferty's Bib - "I used to have eleven problems / Then they all went away / When I added one more"
-Moving To The Sun - "Ninety-three miles times a million more"
-No! (Song) - "No plus no equals no"
-Oddball - "Now I wanna talk to everyone about mathematics. / Mathematics moves at such a crawl"
-One Dozen Monkeys - "I'm eleven years old. That's one more than ten and one less than twelve."
-One Everything - "It all adds up to one"
-Seven - "Sevens add and multiply / There's only one way to subtract them"
-Till My Head Falls Off - "There were 87 Advil in the bottle, now there's 30 left / I ate 47 so what happened to the other 10?"
 Turtle Songs Of North America - "The number of gasps follows the Fibonacci sequence, often reaching as high as 55 or 89 gasps before the animal loses consciousness." (The number of turtle gasps in the background do follow the Fibonacci sequence, getting up to the seventh number, 13. 55 and 89 are the 10th and 11th Fibonacci numbers).
-Experimental Film - "I already know the ending it's / the part that makes your face implode". Also in the music video, Strong Sad holds up his hands and his hands have holes in them.
 `
 
 let out = lines.trim().split('\n').reduce((a, v) => {
@@ -101,5 +86,7 @@ let out = lines.trim().split('\n').reduce((a, v) => {
 }, new Map())
 
 console.log(
-  [ ...out.values()].reduce((a, v) => a.concat(v.split('/')), []).map(v => v.trim().replaceAll('…', '...'))
+  [ ...out.values()]
+    .reduce((a, v) => a.concat(v.split('/')), []).map(v => v.trim().replaceAll('…', '...'))
+    .join('\n')
 )
