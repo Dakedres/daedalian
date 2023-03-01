@@ -255,7 +255,6 @@
 					<center x="0" z="0" />
 				</dimension>
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/phobos.png" />
-				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 
 			<!-- Venus -->
@@ -579,7 +578,7 @@
 					front ="daedalian:textures/skyboxes/sol/panorama_0.png"
 					right ="daedalian:textures/skyboxes/sol/panorama_1.png"
 					back  ="daedalian:textures/skyboxes/sol/panorama_2.png"
-					left  ="daedalian:textures/skyboxes/sol/centauri_3.png"
+					left  ="daedalian:textures/skyboxes/sol/panorama_3.png"
 					top   ="daedalian:textures/skyboxes/sol/panorama_4.png"
 					bottom="daedalian:textures/skyboxes/sol/panorama_5.png" />
 				<boxBrightness>1.0</boxBrightness>
@@ -592,12 +591,24 @@
 
 			<!-- Proxima Centauri & co. -->
 
+			<celestialObject id="proxima-centauri-sun" mods="galaxyspace" __colorKey="255,255,0">
+				<parent>
+					<center x="1600" z="9000" />
+				</parent>
+				<name>Proxima Centauri</name>
+				<size x="2000" z="2000" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/proxima/proxima.png" />
+				<render red="0.80" green="0.50" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.75" green="0.48" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.70" green="0.55" blue="0.20" alpha="0.08" texture="" />
+			</celestialObject>
+
 			<celestialObject id="proxima-centauri-b" mods="galaxyspace" __colorKey="189,64,0">
 				<parent>
-					<center x="7400" z="9000" />
+					<center x="7400" z="7300" />
 				</parent>
 				<name>???</name>
-				<size x="2000" z="2000" />
+				<size x="2000" z="2200" />
 				<dimension id="-1025" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
@@ -631,7 +642,9 @@
 				<name>Alpha Centauri A</name>
 				<size x="2000" z="2000" />
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/acentauri/centauri_a.png" />
-				<render red="1.00" green="0.90" blue="0.90" alpha="0.20" />
+				<render red="0.80" green="0.50" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.75" green="0.48" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.70" green="0.55" blue="0.20" alpha="0.08" texture="" />
 			</celestialObject>
 
 			<celestialObject id="alpha-centauri-b" mods="galaxyspace" __colorKey="170,85,0">
@@ -641,7 +654,9 @@
 				<name>Alpha Centauri B</name>
 				<size x="1600" z="1600" />
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/acentauri/centauri_b.png" />
-				<render red="1.00" green="0.80" blue="0.70" alpha="0.20" />
+				<render red="0.80" green="0.50" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.75" green="0.48" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.70" green="0.55" blue="0.20" alpha="0.08" texture="" />
 			</celestialObject>
 
 			<celestialObject id="janssen" mods="galaxyspace" __colorKey="255,0,0">
@@ -653,7 +668,7 @@
 				<dimension id="-1101" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="starsources:textures/gui/celestialbodies/acentauri/jannsen.png" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="warpdrive:textures/celestial/surface_magma1.png" />
 				<render red="1.00" green="0.70" blue="0.50" alpha="0.30" />
 			</celestialObject>
 		
@@ -669,9 +684,21 @@
 			<dimension id="-104" isBreathable="false" gravity="legacySpace">
 				<center x="0" z="0" />
 				<provider type="WarpDriveSpace" />
-				<generate group="asteroid" ratio="0.0067" />
+				<generate group="asteroid" ratio="0.056" />
 				<generate group="asteroids_field" ratio="0.0016" />
 			</dimension>
+
+			<celestialObject id="barnarda-sun" mods="galaxyspace" __colorKey="255,255,0">
+				<parent>
+					<center x="-9200" z="-9200" />
+				</parent>
+				<name>Barnarda</name>
+				<size x="1600" z="1600" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/barnarda_a.png" />
+				<render red="0.80" green="0.50" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.75" green="0.48" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.70" green="0.55" blue="0.20" alpha="0.08" texture="" />
+			</celestialObject>
 
 			<skybox>
 				<backgroundColor red="0.0" green="0.0" blue="0.0" />
@@ -736,10 +763,10 @@
 
 			<celestialObject id="small-giant" mods="topography" __colorKey="255,193,193">
 				<parent>
-					<center x="8000" z="8000" />
+					<center x="8200" z="8100" />
 				</parent>
 				<name>???</name>
-				<size x="2000" z="2000" />
+				<size x="3600" z="3400" />
 				<dimension id="2001" isBreathable="false" gravity="1.5">
 					<center x="0" z="0" />
 				</dimension>
@@ -749,7 +776,7 @@
 
 		</celestialObject>
 
-		<celestialObject id="tauceti" __imagePath="./celestial_maps/tauceti.png" __imageScale="200">
+		<!-- <celestialObject id="tauceti" __imagePath="./celestial_maps/tauceti.png" __imageScale="200">
 			<parent>
 				<center x="-120000" z="110000" />
 			</parent>
@@ -773,8 +800,6 @@
 					top   ="daedalian:textures/skyboxes/sol/panorama_4.png"
 					bottom="daedalian:textures/skyboxes/sol/panorama_5.png" />
 				<boxBrightness>1.0</boxBrightness>
-				<!-- <starBrightnessBase>0.9</starBrightnessBase>
-				<starBrightnessVanilla>0.0</starBrightnessVanilla> -->
 				<celestialObjectOpacity>1.0</celestialObjectOpacity>
 				<fogColor red="0.0" green="0.0" blue="0.0" />
 				<fogFactor red="0.0" green="0.0" blue="0.0" />
@@ -822,7 +847,7 @@
 				<render red="0.00" green="0.00" blue="1.00" alpha="0.18" />
 			</celestialObject>
 
-			<!-- <celestialObject id="lotr" mods="galaxyspace" __colorKey="255,255,255">
+			<celestialObject id="lotr" mods="galaxyspace" __colorKey="255,255,255">
 				<parent>
 					<center x="-3600" z="-3600" />
 				</parent>
@@ -830,9 +855,9 @@
 				<size x="12800" z="12800" />
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="daedalian:textures/planets/lotr2.png" />
 				<render red="1.00" green="0.70" blue="0.50" alpha="0.30" />
-			</celestialObject> -->
+			</celestialObject>
 
-		</celestialObject>
+		</celestialObject> -->
 		
 	</celestialObject>
 	
