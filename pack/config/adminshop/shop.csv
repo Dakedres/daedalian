@@ -1,0 +1,31 @@
+,,,
+#Category names for buy and sell. Put the category name in each column after the first,,,
+Buy Category Names:,Technology,Books,
+Sell Category Names:,Ingots,,
+,,,
+,,,
+"#buy or sell (from player's perspective)",Item/Fluid,Price,Category Index (starting from 0)
+buy,minecraft:iron_ore,30,0
+#,,,
+sell,ore:fuelCoke,6,0
+sell,liquid:oil,10,0
+sell,liquid:diesel,20,0
+sell,galacticraftcore:item_basic_moon,60,0
+sell,ore:ingotTitanium,800,0
+sell,glacidus:merialces_hide,10,0
+sell,glacidus:small_crystal,6,0
+#,,,
+buy,"immersiveengineering:blueprint {blueprint: \"pendants\"}",47000,0
+buy,"immersiveengineering:blueprint {blueprint: \"knockback_control\"}",40000,0
+buy,"immersiveengineering:blueprint {blueprint: \"endless_food\"}",40000,0
+buy,"immersiveengineering:blueprint {blueprint: \"cloud_jars\"}",25000,0
+buy,"immersiveengineering:blueprint {blueprint: \"drink_hat\"}",25000,0
+#,,,
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:5, id:32}]}",1000,1
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:3, id:34}]}",500,1
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:1, id:33}]}",2000,1
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:3, id:35}]}",2000,1
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:1, id:70}]}",500,1
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:4, id:0}]}",750,1
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:5, id:16}]}",1000,1
+buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:5, id:48}]}",2000,1

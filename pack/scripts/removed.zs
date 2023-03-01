@@ -1,4 +1,5 @@
 import mods.jei.JEI;
+import mods.ItemStages;
 import crafttweaker.item.IItemStack;
 
 val craftingToRemove = [
@@ -42,15 +43,28 @@ val craftingToRemove = [
    // Funky locomotion, transporters, short range teleporters, grappling hooks. It makes too many things obselete
   <galaxyspace:jetpack:77>,
   <warpdrive:component:31>,
-  <warpdrive:component:32>
+  <warpdrive:component:32>,
+  <refinedstorage:silicon>,
+  // <portality:module_interdimensional>,
+  // Misty world portal
+  <mist:portal_base>,
+  <mist:portal_base:1>,
+  // Bittern can instead be harvested via immersive petroleum
+  <tofucraft:blocksaltpan>,
+  // Can be quite broken for PvP
+  <galaxyspace:gs_basic:18>,
+  // You shouldn't need to auto buy anything
+  <adminshop:buyer>
 ] as IItemStack[];
 
 
 for item in craftingToRemove {
   JEI.removeAndHide(item);
+  ItemStages.addItemStage("disabled", item);
 }
 
 val toHide = [
+  <minecraft:spawn_egg>,
   <galacticraftcore:rocket_t1>,
   <galacticraftcore:rocket_t1:1>,
   <galacticraftcore:rocket_t1:2>,
@@ -85,10 +99,46 @@ val toHide = [
   <galaxyspace:rocket_tier_6:2>,
   <galaxyspace:rocket_tier_6:3>,
   <galaxyspace:rocket_tier_6:4>,
+  // Ores, ect. made obselete via other mods
+  <crossroads:ore_tin>,
+  <crossroads:ore_copper>,
+  <crossroads:ore_native_copper>,
+  <galacticraftcore:basic_block_core:7>,
+  <galacticraftcore:basic_block_core:5>,
+  <galaxyspace:gsores:1>,
+  <galaxyspace:gsores:2>,
+  <galaxyspace:ingots>,
+  <galaxyspace:ingots:1>,
+  // Just kinda broken
+  <artifacts:ultimate_pendant>,
+  // Tungsten
+  <qmd:ingot>,
+  // Titanium
+  <qmd:ingot:3>,
+  // Nickel
+  <qmd:ingot:5>,
+  // Zinc
+  <qmd:ingot:7>,
+  // Platinum
+  <qmd:ingot:10>,
+  // Niobium
+  <qmd:ingot:1>,
+  // Quartz dust
+  <nuclearcraft:gem_dust:2>,
+  // Fluorite
+  <nuclearcraft:gem_dust:5>,
+  <nuclearcraft:gem:2>,
+  // Sulfur dust
+  <crossroads:sulfur>,
+  <galaxyspace:gs_basic:7>,
+  // Saltpeter
+  <mist:saltpeter>,
+  <qmd:chemical_dust:2>
 ] as IItemStack[];
 
 for item in toHide {
-  JEI.removeAndHide(item);
+  // JEI.removeAndHide(item);
+  ItemStages.addItemStage("disabled", item);
 }
 
 val assemblerToRemove = [
@@ -114,10 +164,10 @@ val assemblerToRemove = [
   <galaxyspace:rocket_parts:19>
 ] as IItemStack[];
 
-
 for item in assemblerToRemove {
   mods.galaxyspace.removeAssemblyRecipe(item);
-  JEI.removeAndHide(item);
+  // JEI.removeAndHide(item);
+  ItemStages.addItemStage("disabled", item);
 }
 
 furnace.remove(<warpdrive:component:26>);

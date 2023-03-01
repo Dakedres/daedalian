@@ -1,0 +1,1 @@
+<refinedstorage:cutting_tool>.addTooltip("Can be crafted with an item to create a cable cover");
