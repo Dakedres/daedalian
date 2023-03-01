@@ -4,6 +4,7 @@
 
 # Workflow
 .vscode
+.dev
 
 # Images
 .xcf

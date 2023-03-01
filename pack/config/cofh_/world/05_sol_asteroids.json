@@ -1,0 +1,78 @@
+{
+  "namespace": "sol_asteroids",
+  "populate": {
+    "lithium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:sol_asteroids_lithium",
+        "material": {
+          "name": "galacticraftplanets:asteroids_block",
+          "properties": {
+            "basictypeasteroids": "asteroid_rock_0"
+          }
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 255,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -30
+        ]
+      }
+    },
+    "nickel": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:sol_asteroids_nickel",
+        "material": {
+          "name": "galacticraftplanets:asteroids_block",
+          "properties": {
+            "basictypeasteroids": "asteroid_rock_0"
+          }
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 2,
+      "min-height": 0,
+      "max-height": 255,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -30
+        ]
+      }
+    },
+    "tungsten": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:sol_asteroids_tungsten",
+        "material": {
+          "name": "galacticraftplanets:asteroids_block",
+          "properties": {
+            "basictypeasteroids": "asteroid_rock_0"
+          }
+        },
+        "cluster-size": 6
+      },
+      "cluster-count": 3,
+      "chunk-chance": 2,
+      "min-height": 0,
+      "max-height": 255,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -30
+        ]
+      }
+    }
+  }
+}

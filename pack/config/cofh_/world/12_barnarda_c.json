@@ -1,0 +1,149 @@
+{
+  "namespace": "barnarda_c",
+  "populate": {
+    "uranium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:barnarda_c_uranium",
+        "cluster-size": 3
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1030
+        ]
+      }
+    },
+    "thorium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:barnarda_c_thorium",
+        "cluster-size": 3
+      },
+      "cluster-count": 3,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1030
+        ]
+      }
+    },
+    "boron": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:barnarda_c_boron",
+        "cluster-size": 4
+      },
+      "cluster-count": 5,
+      "min-height": 0,
+      "max-height": 28,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1030
+        ]
+      }
+    },
+    "silver-and-lead": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "contenttweaker:barnarda_c_silver",
+            "weight": 80
+          },
+          {
+            "name": "contenttweaker:barnarda_c_lead",
+            "weight": 20
+          }
+        ],
+        "cluster-size": 8
+      },
+      "cluster-count": 2,
+      "min-height": 5,
+      "max-height": 30,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1030
+        ]
+      }
+    },
+    "lead-and-silver": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "contenttweaker:barnarda_c_lead",
+            "weight": 90
+          },
+          {
+            "name": "contenttweaker:barnarda_c_silver",
+            "weight": 10
+          }
+        ],
+        "cluster-size": 8
+      },
+      "cluster-count": 2,
+      "min-height": 10,
+      "max-height": 35,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1030
+        ]
+      }
+    },
+    "salt": {
+      "distribution": "underwater",
+      "generator": {
+        "block": "contenttweaker:barnarda_c_salt",
+        "cluster-size": 12
+      },
+      "cluster-count": 1,
+      "min-height": 55,
+      "max-height": 95,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1030
+        ]
+      }
+    },
+    "titanium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:barnarda_c_titanium",
+        "cluster-size": 6
+      },
+      "cluster-count": 1,
+      "min-height": 0,
+      "max-height": 40,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1030
+        ]
+      }
+    }
+  }
+}

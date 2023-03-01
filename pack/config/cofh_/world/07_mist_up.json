@@ -1,0 +1,33 @@
+{
+  "namespace": "mist_up",
+  "populate": {
+    "copper-edge": {
+      "distribution": "cave",
+      "generator": {
+        "block": "contenttweaker:mist_up_copper",
+        "material": "mist:stone",
+        "cluster-size": 4
+      },
+      "cluster-count": 4,
+      "ground-level": 125,
+      "retrogen": false,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          "mist:border_plains",
+          "mist:border_desert",
+          "mist:border_cold",
+          "mist:border_swamp",
+          "mist:border_jungle",
+          "mist:border_down"
+        ]
+      },
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          69
+        ]
+      }
+    }
+  }
+}

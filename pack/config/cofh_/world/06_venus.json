@@ -1,0 +1,53 @@
+{
+  "namespace": "venus",
+  "populate": {
+    "magnesium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:venus_magnesium",
+        "material": {
+          "name": "galacticraftplanets:venus",
+          "properties": {
+            "basictypevenus": "venus_rock_1"
+          }
+        },
+        "cluster-size": 5
+      },
+      "cluster-count": 4,
+      "min-height": 0,
+      "max-height": 24,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -31
+        ]
+      }
+    },
+    "zinc": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:venus_zinc",
+        "material": {
+          "name": "galacticraftplanets:venus",
+          "properties": {
+            "basictypevenus": "venus_rock_1"
+          }
+        },
+        "cluster-size": 10
+      },
+      "cluster-count": 2,
+      "min-height": 35,
+      "max-height": 58,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -31
+        ]
+      }
+    }
+  }
+}

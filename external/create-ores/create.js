@@ -7,6 +7,7 @@ import Ronin from '/home/dakedres/Projects/Node/ronin/src/cli/Client.js'
 let getPlanets = require('/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/config/cofh/world/helpers.dev/generator.js')
 let textureGenerator = await FS.readFile(Path.join(__dirname, 'ore.lisp'), { encoding: "utf-8" })
 let textureSettings = require('./textureSettings.js')
+let stageAliases = require('./stageAliases.json')
 
 const createPath = (subdir, ...nameParts) => {
   Path.isAbsolute(subdir)
@@ -35,6 +36,7 @@ let [ assetDirPath, scriptDirPath ] = process.argv.slice(2).map(path => Path.isA
 let main = async oreDump => {
   let ctLines = []
   let oreDictLines = []
+  let itemStageLines = []
   let langLines = []
 
   for(let planetName in oreDump) {
@@ -77,11 +79,13 @@ let main = async oreDump => {
         outPath
       ], textureGenerator)
 
-      let blockName = planetName + '_' + oreName
+      let blockName = planetName + '_' + oreName,
+          blockItem = `<contenttweaker:${blockName}>`
 
       ctLines.push(`createOre(${JSON.stringify(blockName)}, 0);`)
-      oreDictLines.push(`<ore:ore${capitalizedOreName}>.add(<contenttweaker:${blockName}>);`)
-      
+      oreDictLines.push(`<ore:ore${capitalizedOreName}>.add(${blockItem});`)
+      itemStageLines.push(`ItemStages.addItemStage(${JSON.stringify(stageAliases[planetName] || planetName)}, ${blockItem});`)
+
       langLines.push(`tile.contenttweaker.${blockName}.name=${capitalizedOreName} Ore`)
 
       // ChildProcess.exec(`
@@ -129,7 +133,13 @@ function createOre(name as string, toolLevel as int) {
 }
   `.trim() + '\n\n' + ctLines.join('\n'))
 
-  await FS.writeFile(Path.join(scriptDirPath, 'ore_ore_dict.zs'), oreDictLines.join('\n'))
+  await FS.writeFile(
+    Path.join(scriptDirPath, 'ore_setup.zs'),
+    'import mods.ItemStages;\n\n'
+    + oreDictLines.join('\n')
+    + '\n\n'
+    + itemStageLines.join('\n')
+  )
 
 }
 

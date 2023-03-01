@@ -1,0 +1,103 @@
+{
+  "namespace": "proxima_b",
+  "populate": {
+    "nickel": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:proxima_b_nickel",
+        "material": {
+          "name": "galaxyspace:proxima_b_blocks",
+          "properties": {
+            "type": "proxima_b_stone"
+          }
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 3,
+      "min-height": 5,
+      "max-height": 20,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1025
+        ]
+      }
+    },
+    "tungsten": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:proxima_b_tungsten",
+        "material": {
+          "name": "galaxyspace:proxima_b_blocks",
+          "properties": {
+            "type": "proxima_b_stone"
+          }
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 2,
+      "chunk-chance": 2,
+      "min-height": 0,
+      "max-height": 35,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1025
+        ]
+      }
+    },
+    "thorium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:proxima_b_thorium",
+        "material": {
+          "name": "galaxyspace:proxima_b_blocks",
+          "properties": {
+            "type": "proxima_b_stone"
+          }
+        },
+        "cluster-size": 3
+      },
+      "cluster-count": 3,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1025
+        ]
+      }
+    },
+    "platinum": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:proxima_b_platinum",
+        "material": {
+          "name": "galaxyspace:proxima_b_blocks",
+          "properties": {
+            "type": "proxima_b_stone"
+          }
+        },
+        "cluster-size": 8
+      },
+      "cluster-count": 2,
+      "chunk-chance": 2,
+      "min-height": 0,
+      "max-height": 10,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1025
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "namespace": "glacidus_bottom",
+  "populate": {
+    "redstone": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:glacidus_bottom_redstone",
+        "material": "glacidus:thawed_antinatric_stone",
+        "cluster-size": 8
+      },
+      "cluster-count": 8,
+      "min-height": 0,
+      "max-height": 15,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          84
+        ]
+      }
+    },
+    "quartz": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "contenttweaker:glacidus_bottom_quartz",
+        "material": "glacidus:thawed_antinatric_stone",
+        "cluster-size": 2
+      },
+      "cluster-count": 15,
+      "min-height": 18,
+      "max-height": 30,
+      "retrogen": false,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "NETHER"
+          }
+        ]
+      },
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          84
+        ]
+      },
+      "chunk-chance": 2
+    }
+  }
+}

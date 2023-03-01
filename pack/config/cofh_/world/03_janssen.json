@@ -1,0 +1,77 @@
+{
+  "namespace": "janssen",
+	"populate": {
+		"uranium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:janssen_uranium",
+				"material": "spacemod:janssenstone",
+				"cluster-size": 1
+			},
+			"cluster-count": {
+				"min": 8,
+			 	"max": 16
+			},
+			"min-height": 0,
+			"max-height": 32,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1101
+				]
+			}
+		},
+    "thorium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:janssen_thorium",
+				"material": "spacemod:janssenstone",
+				"cluster-size": 1
+			},
+			"cluster-count": {
+				"min": 3,
+			 	"max": 8
+			},
+			"min-height": 20,
+			"max-height": 42,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1101
+				]
+			}
+		},
+		"gems": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					"contenttweaker:janssen_diamond",
+					"contenttweaker:janssen_ruby",
+					"contenttweaker:janssen_sapphire"
+				],
+				"material": [
+					"spacemod:janssenstone",
+					"spacemod:janssenmagma"
+				],
+				"cluster-size": 40,
+				"spindly": true
+			},
+			"cluster-count": 2,
+			"min-height": 40,
+			"max-height": 70,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1101
+				]
+			}
+		}
+	}
+}

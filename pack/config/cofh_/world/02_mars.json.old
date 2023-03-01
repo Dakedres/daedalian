@@ -1,0 +1,57 @@
+{
+	"namespace": "mars",
+	"populate": {
+		"boron": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "contenttweaker:mars_boron"
+				},
+				"material": {
+					"name": "galacticraftplanets:mars",
+					"properties": {
+						"basictypemars": "mars_stone"
+					}
+				},
+				"cluster-size": 4
+			},
+			"cluster-count": 2,
+			"min-height": 0,
+			"max-height": 28,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-29
+				]
+			}
+		},
+		"platinum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "contenttweaker:mars_platinum"
+				},
+				"material": {
+					"name": "galacticraftplanets:mars",
+					"properties": {
+						"basictypemars": "mars_stone"
+					}
+				},
+				"cluster-size": 2
+			},
+			"cluster-count": 6,
+			"min-height": 0,
+			"max-height": 10,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-29
+				]
+			}
+		}
+	}
+}

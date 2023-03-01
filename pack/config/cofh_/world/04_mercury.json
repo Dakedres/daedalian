@@ -1,0 +1,29 @@
+{
+  "namespace": "mercury",
+  "populate": {
+    "titanium-cavewall": {
+      "distribution": "cave",
+      "generator": {
+        "block": "contenttweaker:mercury_titanium",
+        "material": {
+          "name": "galaxyspace:mercury_blocks",
+          "properties": {
+            "type": "mercury_stone"
+          }
+        },
+        "cluster-size": 8
+      },
+      "cluster-count": 3,
+      "chunk-chance": 2,
+      "ground-level": 40,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1005
+        ]
+      }
+    }
+  }
+}
