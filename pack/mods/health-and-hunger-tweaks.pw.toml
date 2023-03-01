@@ -1,0 +1,13 @@
+name = "Health and Hunger Tweaks"
+filename = "healthhungertweaks-1.12.2-3.0.1-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13fe63a0de6aa31f64dcd0c8db1b77920fb18f75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2726240
+project-id = 254246
