@@ -5,12 +5,12 @@ import crafttweaker.event.PlayerChangedDimensionEvent;
 val mist = "mist";
 val glacidus = "glacidus";
 val jannsen = "jannsen";
-val defiled = "defiled";
+// val defiled = "defiled";
 
 ItemStages.stageModItems(mist, "mist");
 ItemStages.stageModItems(glacidus, "glacidus");
 ItemStages.stageModItems(jannsen, "spacemod");
-ItemStages.stageModItems(defiled, "defiledlands");
+// ItemStages.stageModItems(defiled, "defiledlands");
 
 // SECRET SAUCE:
 // \n.*?|.*?(-?\d+).*?\.([a-z+]+).*?\n

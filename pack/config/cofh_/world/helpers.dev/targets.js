@@ -173,21 +173,21 @@ module.exports = [
       'titanium': {}
     }
   },
-  {
-    number: 13,
-    dimension: 2000,
-    namespace: "defiled",
-    ores: {
-      zinc: {},
-      'fluorite-cave': {
-        'ground-level': 60
-      },
-      'tin': {},
-      'coal': {},
-      'quartz': {
-        'min-height': 0,
-        'max-height': 10
-      }
-    }
-  }
+  // {
+  //   number: 13,
+  //   dimension: 2000,
+  //   namespace: "defiled",
+  //   ores: {
+  //     zinc: {},
+  //     'fluorite-cave': {
+  //       'ground-level': 60
+  //     },
+  //     'tin': {},
+  //     'coal': {},
+  //     'quartz': {
+  //       'min-height': 0,
+  //       'max-height': 10
+  //     }
+  //   }
+  // }
 ]

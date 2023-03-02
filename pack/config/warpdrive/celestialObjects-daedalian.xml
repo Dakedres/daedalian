@@ -735,7 +735,7 @@
 				<render red="0.30" green="0.30" blue="1.00" alpha="0.06" />
 			</celestialObject>
 
-			<celestialObject id="defiled-moon" mods="topography" __colorKey="221,0,255">
+			<!-- <celestialObject id="defiled-moon" mods="topography" __colorKey="221,0,255">
 				<parent>
 					<center x="-4200" z="-5400" />
 				</parent>
@@ -746,9 +746,9 @@
 				</dimension>
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="starsources:textures/gui/celestialbodies/acentauri/centauri_b.png" />
 				<render red="1.00" green="0.70" blue="0.50" alpha="0.30" />
-			</celestialObject>
+			</celestialObject> -->
 
-			<celestialObject id="tofu" mods="topography" __colorKey="255,255,221">
+			<!-- <celestialObject id="tofu" mods="topography" __colorKey="255,255,221">
 				<parent>
 					<center x="3800" z="-800" />
 				</parent>
@@ -759,6 +759,21 @@
 				</dimension>
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="daedalian:textures/planets/tofu.png" />
 				<render red="1.00" green="0.70" blue="0.50" alpha="0.30" />
+			</celestialObject> -->
+
+			<celestialObject id="midnight-moon" mods="galaxyspace" __colorKey="221,0,255">
+				<parent>
+					<center x="-4200" z="-5400" />
+				</parent>
+				<name>???</name>
+				<size x="2000" z="2000" />
+				<dimension id="-23" isBreathable="false" gravity="0.8">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="daedalian:textures/planets/midnight.png" periodU="-800" periodV="100" additive="true" />
+				<render red="1.00" green="0.00" blue="0.00" alpha="0.18" />
+				<render red="0.00" green="1.00" blue="0.00" alpha="0.18" />
+				<render red="0.00" green="0.00" blue="1.00" alpha="0.18" />
 			</celestialObject>
 
 			<celestialObject id="small-giant" mods="topography" __colorKey="255,193,193">
