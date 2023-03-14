@@ -19,4 +19,13 @@ recipes.addShaped(<adminshop:seller>, [
   [ <ore:ingotIron>,  <refinedstorage:core:1>, <ore:ingotIron> ],
 ]);
 
-
+recipes.addShapeless(<minecraft:compass>.withTag({
+  RepairCost: 0,
+  giacomosbussolaID: 1678126769228 as long,
+  display: {Name: "Inner Sol"},
+  giacomosbussolaY: 0 as float,
+  giacomosbussolaZ: 0 as float,
+  giacomosbussolaX: 0 as float
+}), [
+  <minecraft:paper>, <minecraft:compass>
+]);

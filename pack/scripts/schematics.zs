@@ -87,21 +87,21 @@ Blueprint.addRecipe('cloud_jars', <artifacts:bottled_cloud>, [
 
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_beef>, [ <ore:netherStar>, <minecraft:beef> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_chicken>, [ <ore:netherStar>, <minecraft:chicken> ]);
-Blueprint.addRecipe('endless_food', <artifacts:everlasting_clownfish>, [ <ore:netherStar>, <minecraft:clownfish> ]);
-Blueprint.addRecipe('endless_food', <artifacts:everlasting_cod>, [ <ore:netherStar>, <minecraft:cod> ]);
+Blueprint.addRecipe('endless_food', <artifacts:everlasting_clownfish>, [ <ore:netherStar>, <minecraft:fish:2> ]);
+Blueprint.addRecipe('endless_food', <artifacts:everlasting_cod>, [ <ore:netherStar>, <minecraft:fish> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_beef>, [ <ore:netherStar>, <minecraft:cooked_beef> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_chicken>, [ <ore:netherStar>, <minecraft:cooked_chicken> ]);
-Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_cod>, [ <ore:netherStar>, <minecraft:cooked_cod> ]);
+Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_cod>, [ <ore:netherStar>, <minecraft:cooked_fish> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_mutton>, [ <ore:netherStar>, <minecraft:cooked_mutton> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_porkchop>, [ <ore:netherStar>, <minecraft:cooked_porkchop> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_rabbit>, [ <ore:netherStar>, <minecraft:cooked_rabbit> ]);
-Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_salmon>, [ <ore:netherStar>, <minecraft:cooked_salmon> ]);
+Blueprint.addRecipe('endless_food', <artifacts:everlasting_cooked_salmon>, [ <ore:netherStar>, <minecraft:cooked_fish:1> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_mutton>, [ <ore:netherStar>, <minecraft:mutton> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_porkchop>, [ <ore:netherStar>, <minecraft:porkchop> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_rabbit>, [ <ore:netherStar>, <minecraft:rabbit> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_rabbit_stew>, [ <ore:netherStar>, <minecraft:rabbit_stew> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_rotten_flesh>, [ <ore:netherStar>, <minecraft:rotten_flesh> ]);
-Blueprint.addRecipe('endless_food', <artifacts:everlasting_salmon>, [ <ore:netherStar>, <minecraft:salmon> ]);
+Blueprint.addRecipe('endless_food', <artifacts:everlasting_salmon>, [ <ore:netherStar>, <minecraft:fish:1> ]);
 Blueprint.addRecipe('endless_food', <artifacts:everlasting_spider_eye>, [ <ore:netherStar>, <minecraft:spider_eye> ]);
 
 // recipes.addShapeless(<immersiveengineering:blueprint>.withTag({blueprint: "sync_core"}), [

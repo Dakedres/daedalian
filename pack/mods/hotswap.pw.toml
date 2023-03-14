@@ -1,0 +1,13 @@
+name = "HotSwap"
+filename = "hotswap-1.12.2-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbafeff2e3b4b1e46f86a5e566ae00949fea73c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2724347
+project-id = 313661

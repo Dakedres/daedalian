@@ -1,0 +1,1 @@
+node index.js ../../pack/config/warpdrive/celestialObjects-daedalian.xml -o

@@ -146,8 +146,8 @@ module.exports = [
       nickel: oreDistribution(3),
       tungsten: oreDistribution(2, 4),
       thorium: oreDistribution(3),
-      platinum: oreDistribution(2, 8)
-      // coal: oreDistribution(30, 2, {
+      platinum: oreDistribution(2, 8),
+      // coal: oreDistribution(25, 2, {
       //   'min-height': 60,
       //   'max-height': 75
       // })
@@ -171,6 +171,13 @@ module.exports = [
       'lead-and-silver': oreDistribution(2),
       salt: {},
       'titanium': {}
+    },
+    sealevel: 80,
+    stone: {
+      name: "galaxyspace:barnarda_c_blocks",
+      properties: {
+        "type": "barnarda_c_stone"
+      }
     }
   },
   // {
@@ -190,4 +197,25 @@ module.exports = [
   //     }
   //   }
   // }
+  {
+    number: 13,
+    dimension: -23,
+    namespace: "midnight",
+    ores: {
+      zinc: {},
+      'fluorite-cave': oreDistribution(6, 6, {
+        'ground-level': 60
+      }),
+      'tin': {},
+      'coal': oreDistribution(5),
+      'magnesium': {},
+      'quartz': {
+        'min-height': 0,
+        'max-height': 35
+      }
+    },
+    stone: {
+      name: "midnight:nightstone"
+    }
+  }
 ]

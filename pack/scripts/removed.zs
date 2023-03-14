@@ -49,8 +49,6 @@ val craftingToRemove = [
   // Misty world portal
   <mist:portal_base>,
   <mist:portal_base:1>,
-  // Bittern can instead be harvested via immersive petroleum
-  <tofucraft:blocksaltpan>,
   // Can be quite broken for PvP
   <galaxyspace:gs_basic:18>,
   // You shouldn't need to auto buy anything

@@ -10,6 +10,7 @@ val jannsen = "jannsen";
 ItemStages.stageModItems(mist, "mist");
 ItemStages.stageModItems(glacidus, "glacidus");
 ItemStages.stageModItems(jannsen, "spacemod");
+ItemStages.stageModItems("midnight", "midnight");
 // ItemStages.stageModItems(defiled, "defiledlands");
 
 // SECRET SAUCE:
@@ -39,6 +40,7 @@ val dims = {
   triton : -1021,
   pluto: -1008,
   haumea: -1023,
+  midnight: -23
   // ceres : -1007,
 
 } as int[string];
@@ -59,8 +61,10 @@ val items = {
     <galaxyspace:barnarda_c_dandelions:*>,
     <galaxyspace:barnarda_c_leaves:*>,
     <galaxyspace:barnarda_c_farmland:*>,
-    <galaxyspace:br_basic:*>,
-    <galaxyspace:br_foods:*>
+    <galaxyspace:br_basic:0>,
+    <galaxyspace:br_basic:1>,
+    <galaxyspace:br_basic:2>,
+    <galaxyspace:br_foods:0>
   ],
   proxima_b: [
     <galaxyspace:proxima_b_blocks:*>,
@@ -95,7 +99,14 @@ val items = {
   miranda: [ <galaxyspace:mirandablocks:*> ],
   triton: [ <galaxyspace:tritonblocks:*> ],
   haumea: [ <galaxyspace:haumeablocks:*> ],
-  pluto: [ <galaxyspace:plutoblocks:*> ]
+  pluto: [
+    <galaxyspace:plutoblocks>,
+    <galaxyspace:plutoblocks:1>,
+    <galaxyspace:plutoblocks:2>,
+    <galaxyspace:plutoblocks:3>,
+    <galaxyspace:plutoblocks:4>,
+    <galaxyspace:plutoblocks:5>,
+  ]
 } as IItemStack[][string];
 
 for key in items {

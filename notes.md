@@ -9,6 +9,8 @@ Mods that have third-party downloads disabled and will need to be manually downl
 - https://www.curseforge.com/minecraft/mc-mods/beta-plus
 - https://www.curseforge.com/minecraft/mc-mods/misty-world
 - https://www.curseforge.com/minecraft/mc-mods/the-midnight
+- https://beta.curseforge.com/minecraft/mc-mods/giacomos-compass
+- Special Immersive Intelligence 0.3.0 jar
 
 # NuclearCraft Addons
 

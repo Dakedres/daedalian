@@ -5,6 +5,12 @@
       "distribution": "uniform",
       "generator": {
         "block": "contenttweaker:barnarda_c_uranium",
+        "material": {
+          "name": "galaxyspace:barnarda_c_blocks",
+          "properties": {
+            "type": "barnarda_c_stone"
+          }
+        },
         "cluster-size": 3
       },
       "cluster-count": 6,
@@ -23,6 +29,12 @@
       "distribution": "uniform",
       "generator": {
         "block": "contenttweaker:barnarda_c_thorium",
+        "material": {
+          "name": "galaxyspace:barnarda_c_blocks",
+          "properties": {
+            "type": "barnarda_c_stone"
+          }
+        },
         "cluster-size": 3
       },
       "cluster-count": 3,
@@ -41,6 +53,12 @@
       "distribution": "uniform",
       "generator": {
         "block": "contenttweaker:barnarda_c_boron",
+        "material": {
+          "name": "galaxyspace:barnarda_c_blocks",
+          "properties": {
+            "type": "barnarda_c_stone"
+          }
+        },
         "cluster-size": 4
       },
       "cluster-count": 5,
@@ -68,6 +86,12 @@
             "weight": 20
           }
         ],
+        "material": {
+          "name": "galaxyspace:barnarda_c_blocks",
+          "properties": {
+            "type": "barnarda_c_stone"
+          }
+        },
         "cluster-size": 8
       },
       "cluster-count": 2,
@@ -95,6 +119,12 @@
             "weight": 10
           }
         ],
+        "material": {
+          "name": "galaxyspace:barnarda_c_blocks",
+          "properties": {
+            "type": "barnarda_c_stone"
+          }
+        },
         "cluster-size": 8
       },
       "cluster-count": 2,
@@ -113,6 +143,12 @@
       "distribution": "underwater",
       "generator": {
         "block": "contenttweaker:barnarda_c_salt",
+        "material": {
+          "name": "galaxyspace:barnarda_c_blocks",
+          "properties": {
+            "type": "barnarda_c_stone"
+          }
+        },
         "cluster-size": 12
       },
       "cluster-count": 1,
@@ -131,6 +167,12 @@
       "distribution": "uniform",
       "generator": {
         "block": "contenttweaker:barnarda_c_titanium",
+        "material": {
+          "name": "galaxyspace:barnarda_c_blocks",
+          "properties": {
+            "type": "barnarda_c_stone"
+          }
+        },
         "cluster-size": 6
       },
       "cluster-count": 1,

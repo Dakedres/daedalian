@@ -69,7 +69,7 @@ file = "config/DLDungeonsJBG/themes/dank.cfg"
 hash = "1569c102535bd4301de077f29303e7b04d5b61973e194676cb9cf993c320ea5a"
 
 [[files]]
-file = "config/DLDungeonsJBG/themes/defiled.cfg"
+file = "config/DLDungeonsJBG/themes/defiled.cfg.ignore"
 hash = "a531c0bee6b3e74ad3cff7c1abfbb28ee142e9f01b9bf30334ea1134ac1a1e41"
 
 [[files]]
@@ -118,7 +118,7 @@ hash = "6bf237a57b21009089b41e58ec16f78fdba6c6337240c7d00e9719776f413892"
 
 [[files]]
 file = "config/GalaxySpace/core.conf"
-hash = "62b5dd577288314ec8fe9c9b1d5717e42343f9cb122e13aac075cd2d41ec69db"
+hash = "02130e9c7a17f80977e6c87c56295cdebbadb9462a160a2f91f2b22092789627"
 
 [[files]]
 file = "config/GalaxySpace/dimensions.conf"
@@ -206,7 +206,7 @@ hash = "86b707502222dcf946fddf9333a677c5a9066c5bccc54d2e336ccfed8e2426eb"
 
 [[files]]
 file = "config/UniversalTweaks.cfg"
-hash = "e979b2ff5e5e5378412a481e2103e4dfc1b7e0f7844ecf578968c7877e5b5841"
+hash = "d5ff17742b5fe6e23ebee342da990adeb4ef020bad0e6e33aed6317e8525f689"
 
 [[files]]
 file = "config/Weather2/Foliage.cfg"
@@ -242,11 +242,11 @@ hash = "31eb957e45085d5e9eeb938e4365c0f04e761258669da87498de7972af9b7a37"
 
 [[files]]
 file = "config/adminshop/shop.csv"
-hash = "6e2e756241d7e246c6e481d491466c0130e7ebc49246c847c3de0f83c428bc6d"
+hash = "0a74135a9506f9c0ebde1baa04ff96945bcc7c7eed8b5b491d7d42caab4e042a"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
-hash = "bf22ee9aee3b9464fdee57008c9deecfee15089d4b657eaa0af8dda54f132d80"
+hash = "d0390bc34b67b6400dcf17d20b0ecdda4b832f03f8f596ecbb7ec90aa3afe722"
 
 [[files]]
 file = "config/cerulan/healthhungertweaks_common.cfg"
@@ -322,7 +322,7 @@ hash = "924b4c30430ad5079987df126d037bad525becb570e0ee30fc4f466a7331c706"
 
 [[files]]
 file = "config/cofh_/world/helpers.dev/targets.js"
-hash = "5d5f6a65d0770a389f8313b2c7ab06e6860bf555ae79283f4c3830a78d5898e2"
+hash = "c88f4816ff43ebaa9a1cc93383692d2be5eacb5d42a4f96032c7d773a84c4f6d"
 
 [[files]]
 file = "config/cofh_/world/helpers.dev/templates.json"
@@ -341,6 +341,10 @@ file = "config/crossroads.cfg"
 hash = "ec6d90713a906c9fbe09cc5be493d6fb3966fa9e5edebc3c51b60cfe545e6d40"
 
 [[files]]
+file = "config/dsurround/dsurround.cfg"
+hash = "1155ea6612b4d01870d0516938c84bc4495237bbd0e0743154a85b0099a914e0"
+
+[[files]]
 file = "config/immersiveengineering.cfg"
 hash = "a8102f05c2a741f09b451c24079561f64f5cb17aea18229abb46f4bd41dfb48b"
 
@@ -350,7 +354,7 @@ hash = "94aaa1aa5219ef9bc2a6694b0a0e306480441590900542c97cb081b6932fa4eb"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
-hash = "b9ceb5d4ce8a9432ac8e209004c962fa83104c7313fd7043d37856bd89552e28"
+hash = "8067307412e48985935a0496fa41d055739b1eab2200117e317471062a171851"
 
 [[files]]
 file = "config/itemstages.cfg"
@@ -368,6 +372,10 @@ preserve = true
 [[files]]
 file = "config/justenoughdimensions/dimensions.json"
 hash = "237412b8ba9cac6e014bb74a6af146ca32002646b183118f5ffdb3b6308b4c31"
+
+[[files]]
+file = "config/midnight.cfg"
+hash = "d5f18c6650ed8767582af9c5e00b56c3160c3d372ace035e4f24bc685363fc01"
 
 [[files]]
 file = "config/mist.cfg"
@@ -394,15 +402,19 @@ file = "config/sync.cfg"
 hash = "e5c7ae67a5bc841fe6d99775fe73145b7c3a6ffc37c0f99387610c4e2e734a58"
 
 [[files]]
-file = "config/topography_/Topography.txt"
+file = "config/tombmanygraves.cfg"
+hash = "1f605305b9e9de34eb6947723dd92493a2f7fb6a4d0a0dba91b9534e3196b57f"
+
+[[files]]
+file = "config/topography/Topography.txt"
 hash = "8e70172095c9e07f35235a8c3ae9179888136cfbec5693dcad9d8ffafe6aa352"
 
 [[files]]
-file = "config/topography_/planets/defiledWorldGen.txt"
+file = "config/topography/planets/defiledWorldGen.txt.ignore"
 hash = "f01cb2babc9ad7cef9ed7f4b82b113b4e2e1772f5f327b0c1fe10739d0b9a5dc"
 
 [[files]]
-file = "config/topography_/planets/smallGiantWorldGen.txt"
+file = "config/topography/planets/smallGiantWorldGen.txt"
 hash = "e548174251feec0231c5165e6a16a83a0a3b9cbf3abf36052400e37cb47a01eb"
 
 [[files]]
@@ -415,7 +427,7 @@ hash = "48f252eb8c189c5f87bcd76a361ea872f5044a1b48a66de076bc58cede32b0d7"
 
 [[files]]
 file = "config/warpdrive/celestialObjects-daedalian.xml"
-hash = "1e87ef11e583951a823486e5bf3d4b01225641f7739ac45613d7c29a9d860af3"
+hash = "e8b248fc1289a00fb63c188265c1a5ae98a53eea8432e4265818600f32703e8e"
 
 [[files]]
 file = "config/warpdrive/dictionary.yml"
@@ -444,6 +456,10 @@ hash = "77302bec7685ff8be622db4e8c00cbe2ef70268fcf709cebd97353107a7b3a12"
 [[files]]
 file = "mods/55 Cancri e.jar"
 hash = "0ae6c1bc6fdb7bc53ccc3935a0c6d6761cfef6874d83d63a2a1955a646b31643"
+
+[[files]]
+file = "mods/GiacomosCompass-1.12.2-1.0.6.jar"
+hash = "48e8d51134b244c398a1d317a242a356cc432f854f2c696f55e884238207eec2"
 
 [[files]]
 file = "mods/MistyWorld-1.12.2-1.2.5.3.extra.jar"
@@ -539,6 +555,11 @@ hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
+file = "mods/blockcraftery.pw.toml"
+hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
+metafile = true
+
+[[files]]
 file = "mods/bnbgamingcore.pw.toml"
 hash = "9faf22e62525484ed6cfeb70e245ecf51696669ed7cf71267877970a23a2eeed"
 metafile = true
@@ -605,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e8d1cfc13226f6633ebd7fef08e6818471969453778bb4d7e99c8ca09250831a"
+hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
 metafile = true
 
 [[files]]
@@ -615,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "5a604eefd6d3e27579191c1a1ef1bd9c066b9ccbfdf02485c8f947bc7898d2ef"
+hash = "8aba088280df64de3f08076ee0277a4aad63303c19533fa8d2e5c329352f5757"
 metafile = true
 
 [[files]]
@@ -634,9 +655,8 @@ hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
 metafile = true
 
 [[files]]
-file = "mods/defiled-lands.pw.toml"
+file = "mods/defiled-lands.pw.toml.ignore"
 hash = "cb867f963595029a35120c2f02434a6985fab555f6508d3e6521d4ed080d9566"
-metafile = true
 
 [[files]]
 file = "mods/document-your-mod-mod.pw.toml"
@@ -651,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/dupefix-project.pw.toml"
 hash = "5ae0a469d75940c6f882ea235bdc812274cfe7eb18e391f01e60f3b4eca509ef"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "0957d945c91ef393b96c0ee0b25b51a22ee3db4a99af37755d3cbf39661dad5e"
 metafile = true
 
 [[files]]
@@ -685,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeendertech.pw.toml"
-hash = "7d83f4782137fcc91362cf0ca8ba2bb15fd42916df5ba1d7caf68d5d0e3f008a"
+hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
 
 [[files]]
@@ -695,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/galacticraft-legacy.pw.toml"
-hash = "fc9c489374f3aa9f32be40191d0d25e17d8906f6458a545e30cf4ff6b85ebaad"
+hash = "1e470a72b6e3b2c14dd377c1d34f962aa1efe603a61f4ca8db3afe7c8298b5b4"
 metafile = true
 
 [[files]]
@@ -714,11 +739,6 @@ hash = "58473bbbfb72a4e7aa553ecee24cc654756443860042af596ec94d2e94ac3be9"
 metafile = true
 
 [[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "a22c2f05309b2da313209a3ec2e55d85317e8ba9a34eb306d40c36a242d4d6fc"
-metafile = true
-
-[[files]]
 file = "mods/glacidus.pw.toml"
 hash = "e6b46872efeb7c4ca59bef246d6e1cae3a031f8b06bd8cfa30a9c8442d8fe5a9"
 metafile = true
@@ -726,11 +746,6 @@ metafile = true
 [[files]]
 file = "mods/gog-skybox.pw.toml"
 hash = "507eae4d2fb256149c7191f68e1f4f95b07b7471eda480287b54fcaca43dc6e3"
-metafile = true
-
-[[files]]
-file = "mods/gravity-gun.pw.toml"
-hash = "a25c4212034f33af7d6c03f09b64ea9b8756156e57e769a893b1acae207c0246"
 metafile = true
 
 [[files]]
@@ -754,6 +769,11 @@ hash = "efcdd70677801727950cc217b17de0d912655ac2657828f58f6e4091f3262749"
 metafile = true
 
 [[files]]
+file = "mods/hotswap.pw.toml"
+hash = "124ad7fcbe803e9f9cdd7b525c40df0e69016901e6dee2d2729c4e39287b2717"
+metafile = true
+
+[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
@@ -774,14 +794,13 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
-file = "mods/immersive-intelligence.pw.toml"
-hash = "833956aab26a0fdde90c4ced2ef929c7c6cf2053cccd56b0a380f36b746a8fab"
-metafile = true
-
-[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
 metafile = true
+
+[[files]]
+file = "mods/immersiveintelligence-0.3.0.jar"
+hash = "13c1304e9bf7bce39cfd075ca81ee55960e1113e5f093833c581ea5d0551596f"
 
 [[files]]
 file = "mods/in-control.pw.toml"
@@ -791,6 +810,11 @@ metafile = true
 [[files]]
 file = "mods/instantunify.pw.toml"
 hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
+metafile = true
+
+[[files]]
+file = "mods/interaction-wheel.pw.toml"
+hash = "cd0560662e26525aef4b77e03f68fe3e03ebc1fb880c4c8d4d43c6d90f698f47"
 metafile = true
 
 [[files]]
@@ -859,6 +883,11 @@ hash = "1092e44551f7481ba14fc244e1565940bcb162ccc5c9902daa01af8c7792706c"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "33c1876e295d9043c0c9dcf144203a10ec8d41554c5f9da5c19bd4994bd60f52"
+metafile = true
+
+[[files]]
 file = "mods/mcmultipart.pw.toml"
 hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
 metafile = true
@@ -889,23 +918,8 @@ hash = "df364896f3b4c1606f6dbcdedabd4ae596b450b1544cfc5aa2ad3da46ada80b6"
 metafile = true
 
 [[files]]
-file = "mods/multi-hotbar-core.pw.toml"
-hash = "7b072755a606aa257291259138f5fa2d06d4476318d00bd58f56a51550b8dd34"
-metafile = true
-
-[[files]]
-file = "mods/multi-hotbar.pw.toml"
-hash = "0c164b6a9f9d685b57bd8fa70b42ba86e4cef5b7d4f1e48e76fd7735b9b022fe"
-metafile = true
-
-[[files]]
 file = "mods/multi-mob-core.pw.toml"
 hash = "85d50f21eab2ecc882ce588247ffd8f84236d4475e07b46281589fee8eaf7907"
-metafile = true
-
-[[files]]
-file = "mods/mysterious-mountain-lib.pw.toml"
-hash = "809a174614ee40940e6939b2ae104f7741c9af746331785e220f31a76d082d69"
 metafile = true
 
 [[files]]
@@ -930,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/nothirium.pw.toml"
-hash = "bb471776e7ad711b4d627f635776dd5ab41ad99840e4af57a31a95a317bd3504"
+hash = "08c3b2ceb95ba395c1869c9a470c1205c4b510b0509907c3de862c5d674dbdc1"
 metafile = true
 
 [[files]]
@@ -941,6 +955,11 @@ metafile = true
 [[files]]
 file = "mods/obfuscate.pw.toml"
 hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
+metafile = true
+
+[[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
 
 [[files]]
@@ -955,7 +974,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-culling.pw.toml"
-hash = "4aa2f981dc95c7d1f5aa9cb619c9a588fe17877fe7472aa39052e3eb4545dd52"
+hash = "e84bb3cb2fe3d480cb82e18b693d039213bff28c5199197a8ed53103da14f714"
 metafile = true
 
 [[files]]
@@ -985,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
-hash = "62ec1c743bf1fe3edb9f27493abba27887def5b482afa0f5a57c00eae64d0903"
+hash = "78bc62f80a99269f9020c36901663b509914f961aa54b7b6fb4690a213c5bd58"
 metafile = true
 
 [[files]]
@@ -1009,12 +1028,12 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "f2af346d41c6ce133f66ecdf00a61c2f916d1705d9335b8b710bf699770d6c7e"
+hash = "a838f03dba134738d13747ea4f70a3dcdcc92fda838024fac85288e7c19c4e54"
 metafile = true
 
 [[files]]
 file = "mods/renderlib.pw.toml"
-hash = "ced540e808f9863c64c1c80a9905db5f892859516359ba9aa3051fd26bed3c14"
+hash = "a958f2df3c33f8991d8122400aeb7c1a52fee30af66867415655ab7cfa8aadc6"
 metafile = true
 
 [[files]]
@@ -1035,6 +1054,11 @@ metafile = true
 [[files]]
 file = "mods/sledgehammer.pw.toml"
 hash = "d17cd16d2a4091a7f3c4cafd60bb816e54f330d1fd7a977dd650f8eebde582ff"
+metafile = true
+
+[[files]]
+file = "mods/slower-backpedaling.pw.toml"
+hash = "d86fc855eb43ead9788842686005ec22454e54acc781ca2d982ba6487127ba47"
 metafile = true
 
 [[files]]
@@ -1059,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/stevekungs-lib.pw.toml"
-hash = "42e29342b3c0e21b47797583dcdee09e88a63e8b76829b913200ffd149c48c5b"
+hash = "50d06c55022b9dcdfe9d9564fd4d2ff38abbc227a57f1626f9ed6f8d006962c7"
 metafile = true
 
 [[files]]
@@ -1078,6 +1102,10 @@ hash = "677491503580c05655c2c29674dc21762ea49ee9badc380933eb6480bbbeb0c2"
 metafile = true
 
 [[files]]
+file = "mods/themidnight-0.3.5.jar"
+hash = "43d909842d543055376d13b4f484bcf47fba257d3cd62dd24359b48f9cc896fe"
+
+[[files]]
 file = "mods/tipthescales.pw.toml"
 hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
 metafile = true
@@ -1088,8 +1116,12 @@ hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
 metafile = true
 
 [[files]]
-file = "mods/tofucraftreload.pw.toml"
+file = "mods/tofucraftreload.pw.toml.ignore"
 hash = "adc1294b16b13dc9d3880281e32f32228f48f54ecf25c36657520fe09c87a3f1"
+
+[[files]]
+file = "mods/tomb-many-graves-2.pw.toml"
+hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
 metafile = true
 
 [[files]]
@@ -1104,12 +1136,17 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "b3f46040e6c0377d4defeca8adbdb400988e01308f8299c83b6db4b611bc17a2"
+hash = "713f6aba375603c334b791c8f617f025e1a0580220e96b86fbf48abad4233f6c"
 metafile = true
 
 [[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
+metafile = true
+
+[[files]]
+file = "mods/warpbacteria.pw.toml"
+hash = "6d4a14a3bb984a0b8ca6e2344fb4d1d3c5aa83fe5b578f259cda8e87250cbe17"
 metafile = true
 
 [[files]]
@@ -1134,17 +1171,22 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "25dd02aef60a85b95b8a4422be6f973dcc826c6295d1286c8b67f5ec7af028d9"
+hash = "adac1292665a446bc2dcd340c6f4918188eacf31a009be05cce1aa96847cad10"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c8db22d163218bcd032676aa4e08d1057e78389d362decdf68709641ee67e05c"
+hash = "2598153009b983278d66a751ba3ef898014ed2074d2cf416f0e388ac378cbd3f"
 metafile = true
 
 [[files]]
 file = "mods/xtones.pw.toml"
 hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
+metafile = true
+
+[[files]]
+file = "mods/zenscroll.pw.toml"
+hash = "2e79bd3be7130e449485dc708e7ce07be3e10a2eb49feb6c7ada231f296f6db5"
 metafile = true
 
 [[files]]
@@ -1410,6 +1452,14 @@ hash = "ae0eaedcdb39f5078dd3485bb5c7cfd2f199bf5ade7aaf829247edd061ca827d"
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/textures/skyboxes/sol/panorama_5.png"
 hash = "643b4e43e45095c3cd5f5fc9a782a3162d47b1d1551a111353558f79b8500b64"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/systems/sol.png"
+hash = "6e3f9ee1d174b9537e687913031c1b1b1f19706decc5bfaa9a5408505535e5af"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/systems/sol2.png"
+hash = "5fbd3e53d6de4dbb9afa905473573746c9e3bfcdafa3854e8f71e76ddc041f20"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/textures/title/background.png"
@@ -2043,11 +2093,11 @@ file = "resources/contenttweaker/textures/blocks/janssen_surface.png"
 hash = "86ba35b78215a6489bc3f6e4b2917120b93332918f7c6f3df754541a4240ec59"
 
 [[files]]
-file = "resources/contenttweaker/textures/item/interdimensional_core.mcmeta"
+file = "resources/contenttweaker/textures/items/interdimensional_core.mcmeta"
 hash = "06d5342273dfeebabc7fa3a06479b0094d3d887a1ec5d4e4e8337868c0e2101b"
 
 [[files]]
-file = "resources/contenttweaker/textures/item/interdimensional_core.png"
+file = "resources/contenttweaker/textures/items/interdimensional_core.png"
 hash = "8a9cc088a0e1d2c4a15c3c857535b5212fc71e8e302a8c95d37ab74649746c9a"
 
 [[files]]
@@ -2103,10 +2153,6 @@ file = "resources/minecraft/lang/ru_RU.lang"
 hash = "3eb995b21e6a38f5da710b1fb6b2bc8abaf6f4f22728c095e41204d53aa6c108"
 
 [[files]]
-file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/.DS_Store"
-hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
-
-[[files]]
 file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_actinium.json"
 hash = "f1cb73bf582f9f8c8afc5ac896e446bea6bdd0a498eb3090f291962b1c48597b"
 
@@ -2127,14 +2173,6 @@ file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fissi
 hash = "384242ac0938884300e5ec78f0962017a2283b2a297a0c664d6348d457310e37"
 
 [[files]]
-file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/.DS_Store"
-hash = "312959140b19a673b3b0818a496a7a53994cabca1aa28d0c1b49c9313c8f9f56"
-
-[[files]]
-file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/.DS_Store"
-hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
-
-[[files]]
 file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/cf_neutron_multiplier.json"
 hash = "66a117e90bc99b7b1cb708d321cd3f5bd775b570fc7eb57b75f4adabbb37b0ca"
 
@@ -2149,14 +2187,6 @@ hash = "575391c598a337c688525775b6b5a5eb63009e14705793a1ea58eab3a88ada7e"
 [[files]]
 file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/blockstates/water_mod.json"
 hash = "e02465f816861f1ca4ed4edfe5cda153451b3d01108f0f3ac0c536889800bc3e"
-
-[[files]]
-file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/.DS_Store"
-hash = "9d904532d76fbb3312375b0445291d57d2c777e3bf0deffbe224097bc52b16f6"
-
-[[files]]
-file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/blocks/.DS_Store"
-hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
 
 [[files]]
 file = "resources/nuclearcraft/addons/MoarReactorFunctionality/contenttweaker/textures/blocks/cf_neutron_multiplier.png"
@@ -2211,10 +2241,6 @@ file = "resources/nuclearcraft/addons/MoarReactorFunctionality/scripts/sources_a
 hash = "ac5d1da08e289ba9c78643e62adfbc1e29879d4e1d99d7186430591387f1a627"
 
 [[files]]
-file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/.DS_Store"
-hash = "8e8a484856277d2f3c016869f7be61a0ef1d4353389e4a2ae798c7a385d00057"
-
-[[files]]
 file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/blocks/source_actinium.png"
 hash = "13d3878502645b81ff4615e50c250fd417f8acd596bc8d9303b99099f7117bb2"
 
@@ -2236,11 +2262,11 @@ hash = "1745a63ae7d556e81399ff0c344a518a43c43b8cfd6c114d92615b2ae4cbcd84"
 
 [[files]]
 file = "scripts/gamestages.zs"
-hash = "13479751c7eb27f6c1cdecf41d36aee0af779b22ec94b0edc304361b05b0ffd1"
+hash = "7e6664031a0eb01027aef055c6707f0b2f2ac9aeedda7d6a738563c0128ce2f1"
 
 [[files]]
 file = "scripts/items.zs"
-hash = "915a208586af21b781152f910c3c539208e082f1e53dc97e1eca08a7ef608a5d"
+hash = "07ea242cb8cc2a114bac295b70ec6937f30bc9bf487688ecd5d2f270711da9cf"
 
 [[files]]
 file = "scripts/misty_world.zs"
@@ -2248,27 +2274,31 @@ hash = "644ab6e9cf466625878af4632bc34055001697878e763364a6d5ff4d35a1f5c1"
 
 [[files]]
 file = "scripts/ore_dict.zs"
-hash = "72d7b7060bb76d14cc0dd682bdf4f0ead3078cece553061545739cffaa1fa563"
+hash = "893a3052a5dc5ee213a115314a9678ea8d69a96a2d9b98f4d6b9c7d6800868c5"
 
 [[files]]
 file = "scripts/ore_setup.zs"
-hash = "b56a9a46f9fef06492beb772952b4e53fbf8e2a5be6dfb1c306ad03d3a784030"
+hash = "9181f74bd1e7e9f707c9daa1234415be3d54ec6e8c6e1b5b067b7c5de0f17ab3"
 
 [[files]]
 file = "scripts/ores.zs"
-hash = "5ccef63ee730169387190c3f9fa8076765c3185f0c4e9e79a65bf6821f941806"
+hash = "ff43cadc9024124b378e01d3983fbf4b9d2b67c49233e3e7af2952fc229eb27b"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "ac69a91ff976ff63df6c94dbdafd1a69df011c88a50a45150937f1bfa69a930f"
+hash = "08c7d42f92416bebaae63e7b370696fba4aa0448e6ae47f0679b7aed4530e5b7"
 
 [[files]]
 file = "scripts/removed.zs"
-hash = "0e8feda429ceba0278f4ddabfa50107bdf9b0ce8a4a62829eb48e464d387616b"
+hash = "c5c245072c308af8833a8a529177d31f125215460513c36a0c0d84f01c19278b"
 
 [[files]]
 file = "scripts/schematics.zs"
-hash = "307465b75df7c689e6a9654617e43166870e07561e678622e8bfc105fbd5dc78"
+hash = "4aad7da6753046ce0129c2fce67ef8fb1bfd92649e5a54ba8ba4ff84af9d2fc7"
+
+[[files]]
+file = "scripts/scrolling.zs"
+hash = "4636a84e3bcd7d56dd17d47371fcd64204eb8eb5cc9fe2e66742c3714df98061"
 
 [[files]]
 file = "scripts/tooltip.zs"

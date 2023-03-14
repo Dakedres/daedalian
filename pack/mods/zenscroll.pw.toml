@@ -1,0 +1,13 @@
+name = "ZenScroll"
+filename = "zenscroll-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7da05789cead4716f521d99d05c1dc495c76b7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2725737
+project-id = 317645

@@ -5,7 +5,6 @@ Sell Category Names:,Ingots,,
 ,,,
 ,,,
 "#buy or sell (from player's perspective)",Item/Fluid,Price,Category Index (starting from 0)
-buy,minecraft:iron_ore,30,0
 #,,,
 sell,ore:fuelCoke,6,0
 sell,liquid:oil,10,0

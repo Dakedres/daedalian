@@ -7,3 +7,4 @@ var core = VanillaFactory.createItem("interdimensional_core");
 
 core.rarity = "rare";
 core.register();
+

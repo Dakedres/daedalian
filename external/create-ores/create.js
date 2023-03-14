@@ -110,7 +110,7 @@ let main = async oreDump => {
     }
   }
   
-  let langOutPath = Path.join(assetDirPath, 'contenttweaker/lang/en_US.lang')
+  let langOutPath = Path.join(assetDirPath, 'contenttweaker/lang/en_us.lang')
 
   await insureDir(langOutPath)
   await FS.writeFile(langOutPath, langLines.join('\n'))
