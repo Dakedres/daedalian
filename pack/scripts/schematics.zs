@@ -24,9 +24,29 @@ createBlueprint('sync_core', <galacticraftcore:schematic:1>, <sync:item_placehol
   <minecraft:ender_eye>
 ]);
 
-createBlueprint('interdimensional_core', <galacticraftplanets:schematic>, <contenttweaker:interdimensional_core>, [
+createBlueprint('trade', <galacticraftplanets:schematic>, <contenttweaker:interdimensional_core>, [
   <matteroverdrive:dilithium_crystal>,
   <warpdrive:component:6>
+]);
+
+recipes.remove(<adminshop:shop>);
+Blueprint.addRecipe('trade', <adminshop:shop>, [
+  <ore:blockGlass>, <refinedstorage:core:1>,
+  <refinedstorage:core>, <ore:ingotIron>, 
+  <ore:ingotIron>, <ore:ingotIron>
+]);
+
+recipes.remove(<adminshop:atm>);
+Blueprint.addRecipe('trade', <adminshop:atm>, [
+  <ore:blockGlass>, <ore:ingotIron>,
+  <ore:ingotIron>,  <ore:ingotIron>,
+]);
+
+recipes.remove(<adminshop:seller>);
+Blueprint.addRecipe('trade', <adminshop:seller>, [
+  <refinedstorage:core:1>, <minecraft:redstone_block>,
+  <minecraft:bucket>, <minecraft:hopper>,
+  <ore:ingotIron>, <ore:ingotIron>
 ]);
 
 mods.galaxyspace.removeAssemblyRecipe(<galaxyspace:compressed_plates:4>);
