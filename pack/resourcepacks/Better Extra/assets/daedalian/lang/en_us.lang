@@ -1,7 +1,12 @@
-desc.immersiveengineering.info.blueprint.sync_core=Sync Core
+desc.immersiveengineering.info.blueprint.interstellar_compass=Interstellar Compass
+desc.immersiveengineering.info.blueprint.knockback_control=Knockback Control
+desc.immersiveengineering.info.blueprint.endless_food=Eternal Food
+desc.immersiveengineering.info.blueprint.cloud_jars=Double Jump
+desc.immersiveengineering.info.blueprint.drink_hat=Drink Hat
+desc.immersiveengineering.info.blueprint.pendants=Elemental Defensive Pendants
 desc.immersiveengineering.info.blueprint.high_pressure_alloy=High Pressure Alloy
 desc.immersiveengineering.info.blueprint.bullet_magazines=Bullet Magazines
+desc.immersiveengineering.info.blueprint.sync_core=Cloning
+desc.immersiveengineering.info.blueprint.trade=Interplanar Trade
 
 item.immersiveengineering.material.dust_saltpeter.name=Sodium Nitrate
-
-item.contenttweaker.interdimensional_core.name=Interplanar Core
