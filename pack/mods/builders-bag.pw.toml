@@ -1,0 +1,13 @@
+name = "Builder's Bag"
+filename = "buildersbag-1.12.2-1.4.2.25.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc4c4a8f8d6c4bca2070fa79a91abb56f46a8b7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3263908
+project-id = 381658

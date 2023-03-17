@@ -1,0 +1,13 @@
+name = "Screenshot to Clipboard"
+filename = "ScreenshotToClipboard-1.12.2-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.12.2-1.0.1/ScreenshotToClipboard-1.12.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "c570acf1e0e899446e984622e85b3a79dfefdb56"
+
+[update]
+[update.modrinth]
+mod-id = "1KiJRrTg"
+version = "A5ZMLJlL"

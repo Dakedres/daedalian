@@ -1,0 +1,13 @@
+name = "Dark Redstone"
+filename = "darkredstone-1.12.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "325285831945048980b9b599051438586c00bc60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361700
+project-id = 693547

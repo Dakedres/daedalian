@@ -1,0 +1,13 @@
+name = "Schematics"
+filename = "Schematics-1.12.2.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63d01abb9600609756090305bc09fc290e168bf3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2601927
+project-id = 294075
