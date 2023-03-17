@@ -1,10 +1,15 @@
 import mods.zenscroll.ZenScroll;
 import mods.jei.JEI;
+import mods.immersiveengineering.Blueprint;
+
+var lore = "§7Points to star systems in hyperspace";
+var name = "§rInterstellar Compass";
+var prefix = "§r§bTarget: ";
 
 var solCompass = <minecraft:compass>.withTag({
   RepairCost: 0,
   giacomosbussolaID: 1678126769228 as long,
-  display: {Name: "Inner Sol"},
+  display: {Name: name, Lore: [prefix ~ "Inner Sol", lore]},
   giacomosbussolaY: 0 as float,
   giacomosbussolaZ: 0 as float,
   giacomosbussolaX: 0 as float
@@ -15,7 +20,7 @@ ZenScroll.add(
   <minecraft:compass>.withTag({
     RepairCost: 0,
     giacomosbussolaID: 1678126769228 as long,
-    display: {Name: "Outer Sol"},
+    display: {Name: name, Lore: [prefix ~ "Outer Sol", lore]},
     giacomosbussolaY: 0 as float,
     giacomosbussolaZ: 0 as float,
     giacomosbussolaX: -22000 as float
@@ -23,7 +28,7 @@ ZenScroll.add(
   <minecraft:compass>.withTag({
     RepairCost: 0,
     giacomosbussolaID: 1678126769228 as long,
-    display: {Name: "Proxima Centauri"},
+    display: {Name: name, Lore: [prefix ~ "Proxima Centauri", lore]},
     giacomosbussolaY: -64000 as float,
     giacomosbussolaZ: 0 as float,
     giacomosbussolaX: -70000 as float
@@ -31,17 +36,12 @@ ZenScroll.add(
   <minecraft:compass>.withTag({
     RepairCost: 0,
     giacomosbussolaID: 1678126769228 as long,
-    display: {Name: "Barnard's System"},
+    display: {Name: name, Lore: [prefix ~ "Barnard's System", lore]},
     giacomosbussolaY: 20000 as float,
     giacomosbussolaZ: 0 as float,
     giacomosbussolaX: 20000 as float
   })
 );
-
-recipes.addShapeless(solCompass, [
-  <minecraft:paper>, <minecraft:compass>
-]);
-
 
 val tiers = [
   "basic",
@@ -90,3 +90,11 @@ for i, color in colors {
     );
   }
 }
+
+Blueprint.addRecipe('interstellar_compass', solCompass, [
+  <minecraft:compass>,
+  <warpdrive:component:6>,
+  <matteroverdrive:isolinear_circuit:0>
+]);
+
+JEI.addItem(solCompass);
