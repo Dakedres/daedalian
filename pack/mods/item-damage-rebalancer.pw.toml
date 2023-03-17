@@ -1,0 +1,13 @@
+name = "Item Damage Rebalancer"
+filename = "ItemDamageRebalancer-1.12.2.003.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a4f1695f0ab3167d9b03b239a5c11c0671d3a90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3105369
+project-id = 405996
