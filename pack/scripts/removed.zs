@@ -52,7 +52,20 @@ val craftingToRemove = [
   // Can be quite broken for PvP
   <galaxyspace:gs_basic:18>,
   // You shouldn't need to auto buy anything
-  <adminshop:buyer>
+  <adminshop:buyer>,
+  // Too easy of wireless item transport
+  <minecraft:ender_chest>,
+  <nuclearcraft:portable_ender_chest>,
+  // Promote other power gen
+  <matteroverdrive:fusion_reactor_controller>,
+  <matteroverdrive:fusion_reactor_coil>,
+  <matteroverdrive:fusion_reactor_io>,
+  // Disabled already
+  <tesslocator:advanced_fluid_tesslocator>,
+  <tesslocator:advanced_item_tesslocator>,
+  // Complicates things
+  <minecraft:enchanting_table>,
+  <minecraft:enchanted_book>
 ] as IItemStack[];
 
 
