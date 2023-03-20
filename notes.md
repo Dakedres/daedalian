@@ -1,3 +1,8 @@
+# Credits
+
+- https://github.com/malcolmriley/unused-textures
+- Some textures are edited from their respective mods
+
 # Repos
 
 PortalSuperCache
@@ -9,7 +14,7 @@ Mods that have third-party downloads disabled and will need to be manually downl
 - https://www.curseforge.com/minecraft/mc-mods/beta-plus
 - https://www.curseforge.com/minecraft/mc-mods/misty-world
 - https://www.curseforge.com/minecraft/mc-mods/the-midnight
-- https://beta.curseforge.com/minecraft/mc-mods/giacomos-compass
+- https://www.curseforge.com/minecraft/mc-mods/giacomos-compass
 - Special Immersive Intelligence 0.3.0 jar
 
 # NuclearCraft Addons
@@ -25,17 +30,12 @@ VanillaTweaks Settings
 - https://www.curseforge.com/minecraft/mc-mods/glacidus
 - Misty World
 
-Configs edited 
-- quark
-- AsmodeusCore core.cfg
-
 Util mods to make aware
 - Tesselocators
-- Carry On
 - Worse barrels
 - Superior Shields
-- Nomadic tents
 - Hooked
+- Builder's Bag
 
 Things to teach
 - Planets and moons without an atmosphere have radiation that must be accounted for

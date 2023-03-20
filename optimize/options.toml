@@ -1,0 +1,9 @@
+pack_directory = '/tmp/packsquash/pack'
+output_file_path = '/tmp/packsquash/resources.zip'
+
+# Force include any weird mod asset structures
+['**/*.png']
+  force_include=true
+
+['**/*.json']
+  force_include=true
