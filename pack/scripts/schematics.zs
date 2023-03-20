@@ -24,10 +24,7 @@ createBlueprint('sync_core', <galacticraftcore:schematic:1>, <sync:item_placehol
   <minecraft:ender_eye>
 ]);
 
-createBlueprint('trade', <galacticraftplanets:schematic>, <contenttweaker:interdimensional_core>, [
-  <matteroverdrive:dilithium_crystal>,
-  <warpdrive:component:6>
-]);
+schematicConversion('trade', <galacticraftplanets:schematic>);
 
 recipes.remove(<adminshop:shop>);
 Blueprint.addRecipe('trade', <adminshop:shop>, [
