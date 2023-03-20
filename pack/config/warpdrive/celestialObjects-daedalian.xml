@@ -122,7 +122,7 @@
 					generate defines the chance of different structures to generate
 					generate.group, generate.name: identify the structure from the related XML files (name is optional)
 				  -->
-				<generate group="asteroid" ratio="0.046" />
+				<generate group="asteroid" ratio="0.0046" />
 			</dimension>
 			
 			<!--
@@ -221,6 +221,7 @@
 			</celestialObject>
 			
 			<!-- Da moon. --> 
+
 			<celestialObject id="earth-moon" mods="galacticraftplanets" __colorKey="221,238,255">
 				<parent>
 					<center x="-4900" z="-1500" />
@@ -232,6 +233,21 @@
 				</dimension>
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/moon.png" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+
+			<!-- Moon 2 --> 
+
+			<celestialObject id="earth-end" mods="minecraft" __colorKey="255,254,135">
+				<parent>
+					<center x="3400" z="8000" />
+				</parent>
+				<name>???</name>
+				<size x="4000" z="4000" />
+				<dimension id="1" isBreathable="false" gravity="legacySpace">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="minecraft:textures/blocks/end_stone.png" />
+				<render red="0.43" green="0.16" blue="0.72" alpha="0.30" />
 			</celestialObject>
 
 			<!-- Mars & Phobos -->
@@ -775,10 +791,10 @@
 
 			<celestialObject id="midnight-moon" mods="galaxyspace" __colorKey="221,0,255">
 				<parent>
-					<center x="-4200" z="-5400" />
+					<center x="-3400" z="-6200" />
 				</parent>
 				<name>???</name>
-				<size x="2000" z="2000" />
+				<size x="3600" z="3600" />
 				<dimension id="-23" isBreathable="false" gravity="0.8">
 					<center x="0" z="0" />
 				</dimension>
