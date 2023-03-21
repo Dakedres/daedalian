@@ -4,7 +4,9 @@
     "nickel": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:proxima_b_nickel",
+        "block": {
+          "name": "contenttweaker:proxima_b_nickel"
+        },
         "material": {
           "name": "galaxyspace:proxima_b_blocks",
           "properties": {
@@ -28,7 +30,9 @@
     "tungsten": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:proxima_b_tungsten",
+        "block": {
+          "name": "contenttweaker:proxima_b_tungsten"
+        },
         "material": {
           "name": "galaxyspace:proxima_b_blocks",
           "properties": {
@@ -53,7 +57,9 @@
     "thorium": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:proxima_b_thorium",
+        "block": {
+          "name": "contenttweaker:proxima_b_thorium"
+        },
         "material": {
           "name": "galaxyspace:proxima_b_blocks",
           "properties": {
@@ -77,7 +83,9 @@
     "platinum": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:proxima_b_platinum",
+        "block": {
+          "name": "contenttweaker:proxima_b_platinum"
+        },
         "material": {
           "name": "galaxyspace:proxima_b_blocks",
           "properties": {

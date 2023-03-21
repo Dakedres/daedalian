@@ -38,5 +38,11 @@ module.exports = {
   'thorium': standard(),
   'salt': scattered(),
   'zinc': spotted(),
-  'quartz': base('serrated', 0.15)
+  'quartz': base('serrated', 0.15),
+  'iron': standard(),
+  'gold': standard(),
+  'emerald': spotted(),
+  'diamond': sparse(),
+  'sapphire': spotted(),
+  'ruby': sparse()
 }

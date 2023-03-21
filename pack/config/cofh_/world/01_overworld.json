@@ -357,7 +357,7 @@
 					"metadata": 3
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 12
+				"radius": 4
 			},
 			"cluster-count": 1,
 			"min-height": 55,

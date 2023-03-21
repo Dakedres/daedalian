@@ -4,7 +4,9 @@
     "copper-edge": {
       "distribution": "cave",
       "generator": {
-        "block": "contenttweaker:mist_up_copper",
+        "block": {
+          "name": "contenttweaker:mist_up_copper"
+        },
         "material": "mist:stone",
         "cluster-size": 4
       },

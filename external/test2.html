@@ -1,0 +1,46 @@
+<head>
+  <style>
+    textarea {
+      max-width: 26ch;
+      font-size: large;
+      width: 100%;
+      border: none;
+      outline: none;
+      background: #111;
+      color: #dde;
+
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-top: 10vh;
+    }
+
+    textarea:focus-visible {
+      border: none;
+    }
+
+    body {
+      background: #111;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    const updateHeight = ele => {
+      ele.style.height = "5px";
+      ele.style.height = (ele.scrollHeight)+"px";
+    }
+
+    let area = document.createElement('textarea')
+    document.body.appendChild(area)
+
+    area.value = localStorage.getItem('content')
+    updateHeight(area)
+  
+    area.addEventListener('input', function() {
+      localStorage.setItem('content', this.value)
+      // this.style.height = `${this.value.length / 25}ch`
+      updateHeight(this)
+    }, false);
+  </script>
+</body>

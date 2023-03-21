@@ -4,7 +4,9 @@
     "redstone": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:glacidus_bottom_redstone",
+        "block": {
+          "name": "contenttweaker:glacidus_bottom_redstone"
+        },
         "material": "glacidus:thawed_antinatric_stone",
         "cluster-size": 8
       },
@@ -23,7 +25,9 @@
     "quartz": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:glacidus_bottom_quartz",
+        "block": {
+          "name": "contenttweaker:glacidus_bottom_quartz"
+        },
         "material": "glacidus:thawed_antinatric_stone",
         "cluster-size": 2
       },

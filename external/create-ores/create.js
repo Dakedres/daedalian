@@ -1,7 +1,6 @@
 let Path = require('path'),
     FS = require('fs/promises')
 
-import { isAbsolute } from 'path'
 import Ronin from '/home/dakedres/Projects/Node/ronin/src/cli/Client.js'
 
 let getPlanets = require('/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/config/cofh/world/helpers.dev/generator.js')
@@ -11,18 +10,23 @@ let stageAliases = require('./stageAliases.json')
 
 const createPath = (subdir, ...nameParts) => {
   Path.isAbsolute(subdir)
-  console.log("🚀 ~ file: create.js:13 ~ createPath ~ Path.isAbsolute(subdir)", Path.isAbsolute(subdir))
 
   let dir = Path.isAbsolute(subdir) ? subdir : Path.join(__dirname, subdir)
 
   return Path.join(dir, nameParts.join('_') + '.png')
 }
 
+const access = async (path) => {
+  try {
+    await FS.access(path)
+    return true
+  } catch(e) {
+    return false
+  }
+}
+
 const insureDir = async (path) => {
   let dir = Path.dirname(path)
-  console.log("🚀 ~ file: create.js:19 ~ insureDir ~ dir", dir)
-
-  
 
   try {
     await FS.access(dir)
@@ -32,17 +36,20 @@ const insureDir = async (path) => {
 }
 
 let [ assetDirPath, scriptDirPath ] = process.argv.slice(2).map(path => Path.isAbsolute(path) ? path : Path.join(process.cwd(), path))
+let ronin = new Ronin(__dirname)
 
 let main = async oreDump => {
+  let allOresDump = Object.assign(oreDump, require('./extraGroups.js'))
+
   let ctLines = []
   let oreDictLines = []
   let itemStageLines = []
   let langLines = []
 
-  for(let planetName in oreDump) {
+  for(let planetName in allOresDump) {
     let stonePath = Path.join(__dirname, 'stones', planetName + '.png')
   
-    for(let oreName in oreDump[planetName]) {
+    for(let oreName in allOresDump[planetName].ores) {
       // console.log(oreName)
 
       // let oreName = planet.populate[oreName].generator
@@ -54,37 +61,40 @@ let main = async oreDump => {
 
   
       // let ore = planet.populate[featureName]
-      let textureName = oreDump[planetName][oreName]?.textureName ?? oreName
+      let planet = allOresDump[planetName]
+      let ore = planet.ores[oreName]
       let capitalizedOreName = oreName[0].toUpperCase() + oreName.slice(1)
-      let oreTextureSettings = textureSettings[textureName]
-  
-      console.log(`Generating "${oreName}" ore textures for planet "${planetName}", using texture "${textureName}"`)
 
-      let oreOverlayPath = createPath('overlays', textureName)
-      let shadowOverlayPath = createPath('overlays', oreTextureSettings.shape, 'shadow')
-      let lightOverlayPath = createPath('overlays', oreTextureSettings.shape, 'light')
-      let outPath = createPath(Path.join(assetDirPath, 'contenttweaker/textures/blocks'), planetName, oreName)
+      if(ore.render ?? true) {
+        let textureName = ore.textureName ?? oreName
+        let oreTextureSettings = textureSettings[textureName]
+    
+        console.log(`Generating "${oreName}" ore textures for planet "${planetName}", using texture "${textureName}"`)
 
-      await insureDir(outPath)
+        let oreOverlayPath = createPath('overlays', textureName)
+        let shadowOverlayPath = createPath('overlays', oreTextureSettings.shape, 'shadow')
+        let lightOverlayPath = createPath('overlays', oreTextureSettings.shape, 'light')
+        let outPath = createPath(Path.join(assetDirPath, 'contenttweaker/textures/blocks'), planetName, oreName)
 
-      let ronin = new Ronin(__dirname)
-  
-      await ronin.run([
-        stonePath,
-        shadowOverlayPath,
-        oreOverlayPath,
-        lightOverlayPath,
-        oreTextureSettings.shadowIntensity,
-        oreTextureSettings.lightIntensity,
-        outPath
-      ], textureGenerator)
+        await insureDir(outPath)        
+        await ronin.run([
+          stonePath,
+          shadowOverlayPath,
+          oreOverlayPath,
+          lightOverlayPath,
+          oreTextureSettings.shadowIntensity,
+          oreTextureSettings.lightIntensity,
+          outPath
+        ], textureGenerator)
+      }
 
       let blockName = planetName + '_' + oreName,
           blockItem = `<contenttweaker:${blockName}>`
 
-      ctLines.push(`createOre(${JSON.stringify(blockName)}, 0);`)
+      ctLines.push(`createOre(${JSON.stringify(blockName)}, 2);`)
       oreDictLines.push(`<ore:ore${capitalizedOreName}>.add(${blockItem});`)
-      itemStageLines.push(`ItemStages.addItemStage(${JSON.stringify(stageAliases[planetName] || planetName)}, ${blockItem});`)
+      if(planet.stage)
+        itemStageLines.push(`ItemStages.addItemStage(${JSON.stringify(stageAliases[planetName] || planetName)}, ${blockItem});`)
 
       langLines.push(`tile.contenttweaker.${blockName}.name=${capitalizedOreName} Ore`)
 
@@ -111,16 +121,24 @@ let main = async oreDump => {
   }
   
   let langOutPath = Path.join(assetDirPath, 'contenttweaker/lang/en_us.lang')
+  let langData = langLines.join('\n')
 
-  await insureDir(langOutPath)
-  await FS.writeFile(langOutPath, langLines.join('\n'))
+  if(await access(langOutPath) ) {
+    let data = await FS.readFile(langOutPath, { encoding: 'utf-8' })
+
+    await FS.writeFile(langOutPath, data.trim() + '\n' + langData)
+  } else {
+    await insureDir(langOutPath)
+    await FS.writeFile(langOutPath, langData)
+  }
+
+
 
   await FS.writeFile(Path.join(scriptDirPath, 'ores.zs'), `
 #loader contenttweaker
 
 import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
-import crafttweaker.oredict.IOreDictEntry;
 import mods.contenttweaker.ResourceLocation;
 import crafttweaker.game.IGame;
 
@@ -128,6 +146,7 @@ function createOre(name as string, toolLevel as int) {
   var ore = VanillaFactory.createBlock(name, <blockmaterial:rock>);
   ore.setBlockResistance(6.0);
   ore.setToolClass("pickaxe");
+  ore.setTranslucent(false);
   ore.setToolLevel(toolLevel);
   ore.register();
 }

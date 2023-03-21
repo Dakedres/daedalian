@@ -1,0 +1,1270 @@
+{
+  mercury: {
+    titanium: {
+      textureName: undefined
+    }
+  },
+  mars: {
+    boron: {
+      textureName: undefined
+    },
+    platinum: {
+      textureName: undefined
+    },
+    uranium: {
+      textureName: undefined
+    }
+  },
+  sol_asteroids: {
+    lithium: {
+      textureName: undefined
+    },
+    nickel: {
+      textureName: undefined
+    },
+    tungsten: {
+      textureName: undefined
+    }
+  },
+  venus: {
+    magnesium: {
+      textureName: undefined
+    },
+    zinc: {
+      textureName: undefined
+    }
+  },
+  mist_up: {
+    copper: {
+      textureName: undefined
+    }
+  },
+  mist_down: {
+    fluorite: {
+      textureName: undefined
+    },
+    boron: {
+      textureName: undefined
+    },
+    uranium: {
+      textureName: undefined
+    },
+    thorium: {
+      textureName: undefined
+    }
+  },
+  glacidus_middle: {
+    boron: {
+      textureName: undefined
+    },
+    silver: {
+      textureName: undefined
+    },
+    lead: {
+      textureName: undefined
+    },
+    gold: {
+      textureName: "gold-splotchy"
+    }
+  },
+  glacidus_bottom: {
+    redstone: {
+      textureName: undefined
+    },
+    quartz: {
+      textureName: undefined
+    }
+  },
+  proxima_b: {
+    nickel: {
+      textureName: undefined
+    },
+    tungsten: {
+      textureName: undefined
+    },
+    thorium: {
+      textureName: undefined
+    },
+    platinum: {
+      textureName: undefined
+    }
+  },
+  barnarda_c: {
+    uranium: {
+      textureName: undefined
+    },
+    thorium: {
+      textureName: undefined
+    },
+    boron: {
+      textureName: undefined
+    },
+    silver: {
+      textureName: undefined
+    },
+    lead: {
+      textureName: undefined
+    },
+    salt: {
+      textureName: undefined
+    },
+    titanium: {
+      textureName: undefined
+    }
+  },
+  midnight: {
+    zinc: {
+      textureName: undefined
+    },
+    fluorite: {
+      textureName: undefined
+    },
+    tin: {
+      textureName: undefined
+    },
+    coal: {
+      textureName: undefined
+    },
+    magnesium: {
+      textureName: undefined
+    },
+    quartz: {
+      textureName: undefined
+    }
+  }
+}
+{
+  mercury: {
+    titanium: {
+      textureName: undefined
+    }
+  },
+  mars: {
+    boron: {
+      textureName: undefined
+    },
+    platinum: {
+      textureName: undefined
+    },
+    uranium: {
+      textureName: undefined
+    }
+  },
+  sol_asteroids: {
+    lithium: {
+      textureName: undefined
+    },
+    nickel: {
+      textureName: undefined
+    },
+    tungsten: {
+      textureName: undefined
+    }
+  },
+  venus: {
+    magnesium: {
+      textureName: undefined
+    },
+    zinc: {
+      textureName: undefined
+    }
+  },
+  mist_up: {
+    copper: {
+      textureName: undefined
+    }
+  },
+  mist_down: {
+    fluorite: {
+      textureName: undefined
+    },
+    boron: {
+      textureName: undefined
+    },
+    uranium: {
+      textureName: undefined
+    },
+    thorium: {
+      textureName: undefined
+    }
+  },
+  glacidus_middle: {
+    boron: {
+      textureName: undefined
+    },
+    silver: {
+      textureName: undefined
+    },
+    lead: {
+      textureName: undefined
+    },
+    gold: {
+      textureName: "gold-splotchy"
+    }
+  },
+  glacidus_bottom: {
+    redstone: {
+      textureName: undefined
+    },
+    quartz: {
+      textureName: undefined
+    }
+  },
+  proxima_b: {
+    nickel: {
+      textureName: undefined
+    },
+    tungsten: {
+      textureName: undefined
+    },
+    thorium: {
+      textureName: undefined
+    },
+    platinum: {
+      textureName: undefined
+    }
+  },
+  barnarda_c: {
+    uranium: {
+      textureName: undefined
+    },
+    thorium: {
+      textureName: undefined
+    },
+    boron: {
+      textureName: undefined
+    },
+    silver: {
+      textureName: undefined
+    },
+    lead: {
+      textureName: undefined
+    },
+    salt: {
+      textureName: undefined
+    },
+    titanium: {
+      textureName: undefined
+    }
+  },
+  midnight: {
+    zinc: {
+      textureName: undefined
+    },
+    fluorite: {
+      textureName: undefined
+    },
+    tin: {
+      textureName: undefined
+    },
+    coal: {
+      textureName: undefined
+    },
+    magnesium: {
+      textureName: undefined
+    },
+    quartz: {
+      textureName: undefined
+    }
+  }
+}
+Generating "titanium" ore textures for planet "mercury", using texture "titanium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mercury.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/titanium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mercury_titanium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mercury.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/titanium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "boron" ore textures for planet "mars", using texture "boron"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mars.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.2)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mars_boron.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mars.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "platinum" ore textures for planet "mars", using texture "platinum"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mars.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/platinum.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mars_platinum.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mars.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/platinum.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png
+Exporting!
+Generating "uranium" ore textures for planet "mars", using texture "uranium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mars.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/uranium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mars_uranium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mars.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/uranium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png
+Exporting!
+Generating "lithium" ore textures for planet "sol_asteroids", using texture "lithium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/sol_asteroids.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/lithium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/sol_asteroids_lithium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/sol_asteroids.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/lithium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_light.png
+Exporting!
+Generating "nickel" ore textures for planet "sol_asteroids", using texture "nickel"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/sol_asteroids.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/nickel.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/sol_asteroids_nickel.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/sol_asteroids.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/nickel.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png
+Exporting!
+Generating "tungsten" ore textures for planet "sol_asteroids", using texture "tungsten"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/sol_asteroids.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/tungsten.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/sol_asteroids_tungsten.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/sol_asteroids.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/tungsten.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png
+Exporting!
+Generating "magnesium" ore textures for planet "venus", using texture "magnesium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/venus.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.2)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/magnesium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/venus_magnesium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/venus.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/magnesium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "zinc" ore textures for planet "venus", using texture "zinc"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/venus.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/zinc.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/venus_zinc.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/venus.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/zinc.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png
+Exporting!
+Generating "copper" ore textures for planet "mist_up", using texture "copper"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_up.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/gouged_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/copper.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/gouged_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mist_up_copper.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_up.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/gouged_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/copper.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/gouged_light.png
+Exporting!
+Generating "fluorite" ore textures for planet "mist_down", using texture "fluorite"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/fluorite.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png" frame 0.3)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mist_down_fluorite.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/fluorite.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png
+Exporting!
+Generating "boron" ore textures for planet "mist_down", using texture "boron"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.2)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mist_down_boron.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "uranium" ore textures for planet "mist_down", using texture "uranium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/uranium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mist_down_uranium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/uranium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png
+Exporting!
+Generating "thorium" ore textures for planet "mist_down", using texture "thorium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/thorium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/mist_down_thorium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/mist_down.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/thorium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "boron" ore textures for planet "glacidus_middle", using texture "boron"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.2)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/glacidus_middle_boron.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "silver" ore textures for planet "glacidus_middle", using texture "silver"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/silver.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/glacidus_middle_silver.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/silver.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png
+Exporting!
+Generating "lead" ore textures for planet "glacidus_middle", using texture "lead"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/lead.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/glacidus_middle_lead.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/lead.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png
+Exporting!
+Generating "gold" ore textures for planet "glacidus_middle", using texture "gold-splotchy"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/gold-splotchy.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png" frame 0.3)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/glacidus_middle_gold.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_middle.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/gold-splotchy.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png
+Exporting!
+Generating "redstone" ore textures for planet "glacidus_bottom", using texture "redstone"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_bottom.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/redstone.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/glacidus_bottom_redstone.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_bottom.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/redstone.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "quartz" ore textures for planet "glacidus_bottom", using texture "quartz"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_bottom.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/quartz.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_light.png" frame 0.3)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/glacidus_bottom_quartz.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/glacidus_bottom.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/quartz.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_light.png
+Exporting!
+Generating "nickel" ore textures for planet "proxima_b", using texture "nickel"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/nickel.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/proxima_b_nickel.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/nickel.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png
+Exporting!
+Generating "tungsten" ore textures for planet "proxima_b", using texture "tungsten"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/tungsten.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/proxima_b_tungsten.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/tungsten.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png
+Exporting!
+Generating "thorium" ore textures for planet "proxima_b", using texture "thorium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/thorium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/proxima_b_thorium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/thorium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "platinum" ore textures for planet "proxima_b", using texture "platinum"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/platinum.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/proxima_b_platinum.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/proxima_b.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/platinum.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/sparse_light.png
+Exporting!
+Generating "uranium" ore textures for planet "barnarda_c", using texture "uranium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/uranium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/barnarda_c_uranium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/uranium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png
+Exporting!
+Generating "thorium" ore textures for planet "barnarda_c", using texture "thorium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/thorium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/barnarda_c_thorium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/thorium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "boron" ore textures for planet "barnarda_c", using texture "boron"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.2)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/barnarda_c_boron.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/boron.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "silver" ore textures for planet "barnarda_c", using texture "silver"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/silver.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/barnarda_c_silver.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/silver.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png
+Exporting!
+Generating "lead" ore textures for planet "barnarda_c", using texture "lead"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/lead.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/barnarda_c_lead.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/lead.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png
+Exporting!
+Generating "salt" ore textures for planet "barnarda_c", using texture "salt"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/salt.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/barnarda_c_salt.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/salt.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_light.png
+Exporting!
+Generating "titanium" ore textures for planet "barnarda_c", using texture "titanium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/titanium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/barnarda_c_titanium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/barnarda_c.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/titanium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "zinc" ore textures for planet "midnight", using texture "zinc"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/zinc.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/midnight_zinc.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/zinc.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/spotted_light.png
+Exporting!
+Generating "fluorite" ore textures for planet "midnight", using texture "fluorite"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/fluorite.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png" frame 0.3)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/midnight_fluorite.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/fluorite.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/splotchy_light.png
+Exporting!
+Generating "tin" ore textures for planet "midnight", using texture "tin"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/tin.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/midnight_tin.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/tin.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/scattered_light.png
+Exporting!
+Generating "coal" ore textures for planet "midnight", using texture "coal"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.1)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/coal.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/midnight_coal.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/coal.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "magnesium" ore textures for planet "midnight", using texture "magnesium"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png" frame 0.2)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/magnesium.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png" frame 0.25)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/midnight_magnesium.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/magnesium.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/standard_light.png
+Exporting!
+Generating "quartz" ore textures for planet "midnight", using texture "quartz"
+$0 0
+0
+$1 1
+1
+$4 4
+4
+$2 2
+2
+$3 3
+3
+$5 5
+5
+$6 6
+6
+(def "frame" (open "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png"))
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_shadow.png" frame 0.15)
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/quartz.png")
+(blend-mode "soft-light")
+(import "/home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_light.png" frame 0.3)
+(export "png" 1.0 "/home/dakedres/.local/share/multimc/instances/Daedalian2/.minecraft/resourcepacks/Better Extra_/assets/contenttweaker/textures/blocks/ores/midnight_quartz.png")
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/stones/midnight.png
+Surface Resize: 16x16
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_shadow.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/quartz.png
+Evaluation: Stored /home/dakedres/Projects/Modpacks/daedalian2/external/create-ores/overlays/serrated_light.png
+Exporting!
+Done!

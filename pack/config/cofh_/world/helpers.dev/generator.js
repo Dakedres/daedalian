@@ -84,11 +84,14 @@ const getOreBlocks = (oreName, planet, template) => {
     let planetDump = oreDump[planet.namespace]
 
     if(!planetDump)
-      planetDump = oreDump[planet.namespace] = {}
+      planetDump = oreDump[planet.namespace] = {
+        stage: planet.stage ?? true,
+        ores: {}
+      }
 
-    planetDump[newName] = { textureName: templateOre['__texture-name'] }
+    planetDump.ores[newName] = { textureName: templateOre['__texture-name'] }
 
-    return templateOre['weight'] ? { name, weight: templateOre['weight'] } : name
+    return templateOre['weight'] ? { name, weight: templateOre['weight'] } : { name }
   }
 
   if(template == undefined)
@@ -127,7 +130,7 @@ const createOres = planet => {
     }
 
     // Prevent nasty interference when we merge
-    templateCopy.generator.block = []
+    templateCopy.generator.block = Array.isArray(inferredOverrides.generator.block) ? [] : {}
     
     out[oreName] = merge(templateCopy, inferredOverrides, overrides)
   }

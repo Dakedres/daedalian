@@ -4,7 +4,9 @@
     "titanium-cavewall": {
       "distribution": "cave",
       "generator": {
-        "block": "contenttweaker:mercury_titanium",
+        "block": {
+          "name": "contenttweaker:mercury_titanium"
+        },
         "material": {
           "name": "galaxyspace:mercury_blocks",
           "properties": {

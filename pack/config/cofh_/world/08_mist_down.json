@@ -4,7 +4,9 @@
     "fluorite-cave": {
       "distribution": "cave",
       "generator": {
-        "block": "contenttweaker:mist_down_fluorite",
+        "block": {
+          "name": "contenttweaker:mist_down_fluorite"
+        },
         "material": "mist:stone_porous",
         "cluster-size": 5
       },
@@ -22,7 +24,9 @@
     "boron": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:mist_down_boron",
+        "block": {
+          "name": "contenttweaker:mist_down_boron"
+        },
         "material": "mist:stone_porous",
         "cluster-size": 4
       },
@@ -41,7 +45,9 @@
     "uranium-cave": {
       "distribution": "cave",
       "generator": {
-        "block": "contenttweaker:mist_down_uranium",
+        "block": {
+          "name": "contenttweaker:mist_down_uranium"
+        },
         "material": "mist:stone_porous",
         "cluster-size": 3
       },
@@ -59,7 +65,9 @@
     "thorium": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:mist_down_thorium",
+        "block": {
+          "name": "contenttweaker:mist_down_thorium"
+        },
         "material": "mist:stone_porous",
         "cluster-size": 3
       },

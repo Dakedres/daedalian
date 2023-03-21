@@ -4,7 +4,9 @@
     "boron": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:glacidus_middle_boron",
+        "block": {
+          "name": "contenttweaker:glacidus_middle_boron"
+        },
         "material": "glacidus:frozen_antinatric_stone",
         "cluster-size": 4
       },
@@ -51,7 +53,9 @@
     "gold-cave": {
       "distribution": "cave",
       "generator": {
-        "block": "contenttweaker:glacidus_middle_gold",
+        "block": {
+          "name": "contenttweaker:glacidus_middle_gold"
+        },
         "material": "glacidus:frozen_antinatric_stone",
         "cluster-size": 2
       },

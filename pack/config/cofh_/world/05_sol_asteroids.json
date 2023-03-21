@@ -4,7 +4,9 @@
     "lithium": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:sol_asteroids_lithium",
+        "block": {
+          "name": "contenttweaker:sol_asteroids_lithium"
+        },
         "material": {
           "name": "galacticraftplanets:asteroids_block",
           "properties": {
@@ -28,7 +30,9 @@
     "nickel": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:sol_asteroids_nickel",
+        "block": {
+          "name": "contenttweaker:sol_asteroids_nickel"
+        },
         "material": {
           "name": "galacticraftplanets:asteroids_block",
           "properties": {
@@ -52,7 +56,9 @@
     "tungsten": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:sol_asteroids_tungsten",
+        "block": {
+          "name": "contenttweaker:sol_asteroids_tungsten"
+        },
         "material": {
           "name": "galacticraftplanets:asteroids_block",
           "properties": {

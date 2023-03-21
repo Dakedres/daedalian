@@ -59,7 +59,6 @@ Templates:
 0, 
 0, _________________________
 0, The Cosmos     [ Page 3 ]
-
 1,     The Solar System
 1, _________________________
 3, 
@@ -80,8 +79,6 @@ Templates:
 0, you like long, hot, 
 1, _________________________
 1, The Cosmos     [ Page 3 ]
-
-
 1,     The Solar System
 1, _________________________
 3, 
@@ -101,10 +98,9 @@ Templates:
 0, █████████████████████████
 0, ████████████████. Perhaps
 0, Earth's inhabitants will
-0, be fairer to her.    HA
+0, be fairer to her...    HA
 1, _________________________
 1, The Cosmos     [ Page 3 ]
-
 1,     The Solar System
 1, _________________________
 0,
@@ -126,20 +122,19 @@ Templates:
 3, 1.3.1. The Moon    
 1, _________________________
 1, The Cosmos     [ Page 3 ]
-
 1,     The Solar System
 1, _________________________
 0,
-0,    Earth's first moon.
-0, The colonies apparently
-0, survived the war by
-0, hunkering down here, but
-2, it seems they've evolved
-0, into something
-0, unrecognizable from their
-0, ancestors. There's some
-2, weird temples will long
-2, hallways here. Rumor has
+0,    The Overworld's
+0, first moon. Colonies
+0, apparently survived the 
+0, war by unkering down
+0, here, but it seems
+0, they've evolved into
+0, something unrecognizable
+0, from their ancestors.
+0, There's some weird temples
+0, with long hallways here. Rumor has
 1, it the temples were to
 2, some time gate which ████
 1, █████████████████████████
@@ -148,7 +143,6 @@ Templates:
 1, in scope over the eons.
 1, _________________________
 1, The Cosmos     [ Page 3 ]
-
 1,     The Solar System
 1, _________________________
 0, 
@@ -170,7 +164,6 @@ Templates:
 1, Fine by me
 1, _________________________
 1, The Cosmos     [ Page 3 ]
-
 5, 1.4. Mars
 1,      
 0,
@@ -189,7 +182,6 @@ Templates:
 2, giant ▓▓▓▒▒▒▒▒▒░░░░░.
 0,
 0,
-
 1,     The Solar Sy  em
 0, 
 1, 1    upiter
@@ -209,7 +201,6 @@ Templates:
 4,        rest is penned
 4,         in from what I
 4,         can read)
-
 1,     The Solar System
 0, 
 0,
@@ -231,7 +222,6 @@ Templates:
 4, ] Scanners detect an
 1, ___              ________
 4,                     Pg. 4
-
 0,
 0, 
 4, abundance of oil below

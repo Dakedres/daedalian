@@ -4,7 +4,9 @@
     "boron": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:mars_boron",
+        "block": {
+          "name": "contenttweaker:mars_boron"
+        },
         "material": {
           "name": "galacticraftplanets:mars",
           "properties": {
@@ -28,7 +30,9 @@
     "platinum": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:mars_platinum",
+        "block": {
+          "name": "contenttweaker:mars_platinum"
+        },
         "material": {
           "name": "galacticraftplanets:mars",
           "properties": {
@@ -53,7 +57,9 @@
     "uranium": {
       "distribution": "uniform",
       "generator": {
-        "block": "contenttweaker:mars_uranium",
+        "block": {
+          "name": "contenttweaker:mars_uranium"
+        },
         "material": {
           "name": "galacticraftplanets:mars",
           "properties": {
