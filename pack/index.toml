@@ -206,7 +206,7 @@ hash = "86b707502222dcf946fddf9333a677c5a9066c5bccc54d2e336ccfed8e2426eb"
 
 [[files]]
 file = "config/UniversalTweaks.cfg"
-hash = "d5ff17742b5fe6e23ebee342da990adeb4ef020bad0e6e33aed6317e8525f689"
+hash = "ba7a3fb2e8cf779e60d448d5f2bc7a2f32039333473bcb9d6b2d288ca4c9e0ed"
 
 [[files]]
 file = "config/Weather2/Foliage.cfg"
@@ -241,8 +241,16 @@ file = "config/Weather2/Wind.cfg"
 hash = "31eb957e45085d5e9eeb938e4365c0f04e761258669da87498de7972af9b7a37"
 
 [[files]]
+file = "config/adminshop/adminshop.cfg"
+hash = "676fda7c73e919142e4681e72efe1ed93d397580048745242cd0234e5fdec9bc"
+
+[[files]]
 file = "config/adminshop/shop.csv"
-hash = "0a74135a9506f9c0ebde1baa04ff96945bcc7c7eed8b5b491d7d42caab4e042a"
+hash = "9329fb424f813aa0cbbce1aeee1d803ded3bf22ce648ccba9e40e60779585f45"
+
+[[files]]
+file = "config/adminshop/shop.csv.ignore"
+hash = "bf26505b87d09fdbd15f674a422c09bce9a435d0808d8c8a47367ff25617593f"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
@@ -253,16 +261,176 @@ file = "config/cerulan/healthhungertweaks_common.cfg"
 hash = "fb2269d81ee8c1513799f2289aabe7d7e6896eb3914c54fc67426992c645f857"
 
 [[files]]
+file = "config/cofh_/world.ignore/00_minecraft.json"
+hash = "b7d5c66f34b7f7b7d51b9043bdac045ca75cf4b6ce9b25d5d43fa6ab5a6dbe83"
+
+[[files]]
+file = "config/cofh_/world.ignore/01_overworld.json"
+hash = "005c31baf2cfff507eac62688abc3cd4a70a204eb953d747e69217b507c3a5f1"
+
+[[files]]
+file = "config/cofh_/world.ignore/02_mars.json"
+hash = "21df4f02774847a5dd2fe7372a5f8171d80d0817c9b0550a1eb37a31a0f79b78"
+
+[[files]]
+file = "config/cofh_/world.ignore/02_mars.json.old"
+hash = "5f8539b0176d066ef2c9780e1be0a949dee762a3d08a7b463b587cd61254e129"
+
+[[files]]
+file = "config/cofh_/world.ignore/03_janssen.json"
+hash = "21e1814d17322e2dc4edd2b5a2ebacf95a6e3836191d7d2e680720ac20f9c206"
+
+[[files]]
+file = "config/cofh_/world.ignore/04_mercury.json"
+hash = "bae8b099002bdde1c527df33cd94186b574829081fa26d69cbe459218e601eb0"
+
+[[files]]
+file = "config/cofh_/world.ignore/05_sol_asteroids.json"
+hash = "c5459119ad2d68f60586be37a8a1c5fd4680cc22b32ca33887ecd19747b829f9"
+
+[[files]]
+file = "config/cofh_/world.ignore/06_venus.json"
+hash = "0c078b3b665c063da745bb8b905d3468b5adf680b98d83fab30448e387e24851"
+
+[[files]]
+file = "config/cofh_/world.ignore/07_mist_up.json"
+hash = "ba9c17a4de86e8f3a36116d22b3be423a2e8454b155c55b6d21869c8090dc2fe"
+
+[[files]]
+file = "config/cofh_/world.ignore/08_mist_down.json"
+hash = "e90cfe0461053caa0cbfa092e1e9149267400f78e5b855d4a18d9e7a9355dd0d"
+
+[[files]]
+file = "config/cofh_/world.ignore/09_glacidus_middle.json"
+hash = "1b5b347d2fbd03698d50c374a915f8a580b396d9ad656b7d4c23371765d45c85"
+
+[[files]]
+file = "config/cofh_/world.ignore/10_glacidus_bottom.json"
+hash = "366deba0b298041b320504b59033177c6704fad27bd3f147107dbfd83aebb925"
+
+[[files]]
+file = "config/cofh_/world.ignore/11_proxima_b.json"
+hash = "cc36cfcfa051c01f2dc3ba9127ab6f2d463850c7fc8b75b96b0fbd516851d6fe"
+
+[[files]]
+file = "config/cofh_/world.ignore/12_barnarda_c.json"
+hash = "4da480a219546cd0254af9985a8edae92227085b9ca4e459bb09f1e87f77d3eb"
+
+[[files]]
+file = "config/cofh_/world.ignore/13_defiled.json"
+hash = "f51a7962a24d13ff9babc1062c45adbbdd5e63b487e6fe0358bcb33fdba113b3"
+
+[[files]]
+file = "config/cofh_/world.ignore/config.cfg"
+hash = "7cd72fb3b8cae95058e33b07656982c34769122975e0208d38f163e01d32bf02"
+
+[[files]]
+file = "config/cofh_/world.ignore/helpers.dev/generator.js"
+hash = "924b4c30430ad5079987df126d037bad525becb570e0ee30fc4f466a7331c706"
+
+[[files]]
+file = "config/cofh_/world.ignore/helpers.dev/targets.js"
+hash = "c88f4816ff43ebaa9a1cc93383692d2be5eacb5d42a4f96032c7d773a84c4f6d"
+
+[[files]]
+file = "config/cofh_/world.ignore/helpers.dev/templates.json"
+hash = "eacbedfb902e5b752c6c8f038f2d34357bd315082b5a430f6e4bab94df3813e9"
+
+[[files]]
+file = "config/cofh_/world.ignore/helpers.dev/test.js"
+hash = "937002c4360c8f802bd3e2ea4ebdad886baa32d5cfda784f87536de1f9852b3f"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/00_minecraft.json"
+hash = "b7d5c66f34b7f7b7d51b9043bdac045ca75cf4b6ce9b25d5d43fa6ab5a6dbe83"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/01_overworld.json"
+hash = "005c31baf2cfff507eac62688abc3cd4a70a204eb953d747e69217b507c3a5f1"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/02_mars.json"
+hash = "21df4f02774847a5dd2fe7372a5f8171d80d0817c9b0550a1eb37a31a0f79b78"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/02_mars.json.old"
+hash = "5f8539b0176d066ef2c9780e1be0a949dee762a3d08a7b463b587cd61254e129"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/03_janssen.json"
+hash = "21e1814d17322e2dc4edd2b5a2ebacf95a6e3836191d7d2e680720ac20f9c206"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/04_mercury.json"
+hash = "bae8b099002bdde1c527df33cd94186b574829081fa26d69cbe459218e601eb0"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/05_sol_asteroids.json"
+hash = "c5459119ad2d68f60586be37a8a1c5fd4680cc22b32ca33887ecd19747b829f9"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/06_venus.json"
+hash = "0c078b3b665c063da745bb8b905d3468b5adf680b98d83fab30448e387e24851"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/07_mist_up.json"
+hash = "ba9c17a4de86e8f3a36116d22b3be423a2e8454b155c55b6d21869c8090dc2fe"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/08_mist_down.json"
+hash = "e90cfe0461053caa0cbfa092e1e9149267400f78e5b855d4a18d9e7a9355dd0d"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/09_glacidus_middle.json"
+hash = "1b5b347d2fbd03698d50c374a915f8a580b396d9ad656b7d4c23371765d45c85"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/10_glacidus_bottom.json"
+hash = "366deba0b298041b320504b59033177c6704fad27bd3f147107dbfd83aebb925"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/11_proxima_b.json"
+hash = "cc36cfcfa051c01f2dc3ba9127ab6f2d463850c7fc8b75b96b0fbd516851d6fe"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/12_barnarda_c.json"
+hash = "66af7f5d76509e4cd588a493437b0c4bbef746bd2fbd7e2dce3cc3a65d193355"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/13_midnight.json"
+hash = "73c3fcba27eaec83ce6c9d02043870d68cfbc14b4b49294694ff0c43169314b3"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/config.cfg"
+hash = "7cd72fb3b8cae95058e33b07656982c34769122975e0208d38f163e01d32bf02"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/helpers.dev/generator.js"
+hash = "924b4c30430ad5079987df126d037bad525becb570e0ee30fc4f466a7331c706"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/helpers.dev/targets.js"
+hash = "015097bbaef1f5e334da140c9feef2832cd8e911a4ee5acf838269190abf0047"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/helpers.dev/templates.json"
+hash = "eacbedfb902e5b752c6c8f038f2d34357bd315082b5a430f6e4bab94df3813e9"
+
+[[files]]
+file = "config/cofh_/world.old.ignore/helpers.dev/test.js"
+hash = "937002c4360c8f802bd3e2ea4ebdad886baa32d5cfda784f87536de1f9852b3f"
+
+[[files]]
 file = "config/cofh_/world/00_minecraft.json"
 hash = "b7d5c66f34b7f7b7d51b9043bdac045ca75cf4b6ce9b25d5d43fa6ab5a6dbe83"
 
 [[files]]
 file = "config/cofh_/world/01_overworld.json"
-hash = "005c31baf2cfff507eac62688abc3cd4a70a204eb953d747e69217b507c3a5f1"
+hash = "7e38d4dabc3d930fca9183d691a379407fdf2ac23c54173fa472eb96286a481f"
 
 [[files]]
 file = "config/cofh_/world/02_mars.json"
-hash = "21df4f02774847a5dd2fe7372a5f8171d80d0817c9b0550a1eb37a31a0f79b78"
+hash = "0ddbf225a14a2538f5a8a9a6d34ccead6760011867ac41c122eba4b943c226fe"
 
 [[files]]
 file = "config/cofh_/world/02_mars.json.old"
@@ -274,43 +442,43 @@ hash = "21e1814d17322e2dc4edd2b5a2ebacf95a6e3836191d7d2e680720ac20f9c206"
 
 [[files]]
 file = "config/cofh_/world/04_mercury.json"
-hash = "bae8b099002bdde1c527df33cd94186b574829081fa26d69cbe459218e601eb0"
+hash = "a7278f0914529fa9d606ed5c8d2b6d0ad1ec164be7d241fcf944bc1683719437"
 
 [[files]]
 file = "config/cofh_/world/05_sol_asteroids.json"
-hash = "c5459119ad2d68f60586be37a8a1c5fd4680cc22b32ca33887ecd19747b829f9"
+hash = "a26eed3809657d1a390da26704e67b9d99f3c0ba2811d8005ec683c483c420d7"
 
 [[files]]
 file = "config/cofh_/world/06_venus.json"
-hash = "0c078b3b665c063da745bb8b905d3468b5adf680b98d83fab30448e387e24851"
+hash = "096968ee7e16b47c2303165a29077ac6bf4020ddecf4c2fbd362b3b4781dad0d"
 
 [[files]]
 file = "config/cofh_/world/07_mist_up.json"
-hash = "ba9c17a4de86e8f3a36116d22b3be423a2e8454b155c55b6d21869c8090dc2fe"
+hash = "d16e1450b41b5aedf3a7c51536c0774288d5dd92b1cee71235e7c1d8edc20ca4"
 
 [[files]]
 file = "config/cofh_/world/08_mist_down.json"
-hash = "e90cfe0461053caa0cbfa092e1e9149267400f78e5b855d4a18d9e7a9355dd0d"
+hash = "f6f06c53e3a39e609573fac5e67302aac523c2e8396da3cf32126742bf5f4db2"
 
 [[files]]
 file = "config/cofh_/world/09_glacidus_middle.json"
-hash = "1b5b347d2fbd03698d50c374a915f8a580b396d9ad656b7d4c23371765d45c85"
+hash = "9ed9f2c04ccdb2ebee1b5c54116c0c6749155feae5a02096cd1ddffc93d5af63"
 
 [[files]]
 file = "config/cofh_/world/10_glacidus_bottom.json"
-hash = "366deba0b298041b320504b59033177c6704fad27bd3f147107dbfd83aebb925"
+hash = "c3e56bc9ebf6c59b91ddb265dea16010d9fc93d3aa76a6e44fb339ac64f0d887"
 
 [[files]]
 file = "config/cofh_/world/11_proxima_b.json"
-hash = "cc36cfcfa051c01f2dc3ba9127ab6f2d463850c7fc8b75b96b0fbd516851d6fe"
+hash = "1c70d942d9dfae9a3de1bff607ac1a2a52070020b77160a0d696c80b5e0e3867"
 
 [[files]]
 file = "config/cofh_/world/12_barnarda_c.json"
-hash = "4da480a219546cd0254af9985a8edae92227085b9ca4e459bb09f1e87f77d3eb"
+hash = "1c2ba23b81765efadc46caa18e117119538f53ec44f4cf0275bc357d24e513ee"
 
 [[files]]
-file = "config/cofh_/world/13_defiled.json"
-hash = "f51a7962a24d13ff9babc1062c45adbbdd5e63b487e6fe0358bcb33fdba113b3"
+file = "config/cofh_/world/13_midnight.json"
+hash = "e6259c6864345c8da9018c83922abdff7138808c3d7cd9f9ced0a3888a01a432"
 
 [[files]]
 file = "config/cofh_/world/config.cfg"
@@ -318,15 +486,15 @@ hash = "7cd72fb3b8cae95058e33b07656982c34769122975e0208d38f163e01d32bf02"
 
 [[files]]
 file = "config/cofh_/world/helpers.dev/generator.js"
-hash = "924b4c30430ad5079987df126d037bad525becb570e0ee30fc4f466a7331c706"
+hash = "4c1d06da6228a94eb44fae381fab83fecdab459332eda58709cc081faf600d67"
 
 [[files]]
 file = "config/cofh_/world/helpers.dev/targets.js"
-hash = "c88f4816ff43ebaa9a1cc93383692d2be5eacb5d42a4f96032c7d773a84c4f6d"
+hash = "015097bbaef1f5e334da140c9feef2832cd8e911a4ee5acf838269190abf0047"
 
 [[files]]
 file = "config/cofh_/world/helpers.dev/templates.json"
-hash = "eacbedfb902e5b752c6c8f038f2d34357bd315082b5a430f6e4bab94df3813e9"
+hash = "dfcb451666dd7db70699ce1ab5a93993288730dca7493020e5fc89693745842f"
 
 [[files]]
 file = "config/cofh_/world/helpers.dev/test.js"
@@ -334,7 +502,7 @@ hash = "937002c4360c8f802bd3e2ea4ebdad886baa32d5cfda784f87536de1f9852b3f"
 
 [[files]]
 file = "config/consolehud.cfg"
-hash = "41b496050dd2519dfe9ae581e5696100eb3ce961bd560008a5bc44b9cefb114b"
+hash = "b9a049689d6d56f0740ea3224d6a38db2c89bc71d8205ef72ff8323efaa39def"
 
 [[files]]
 file = "config/crossroads.cfg"
@@ -355,6 +523,10 @@ hash = "94aaa1aa5219ef9bc2a6694b0a0e306480441590900542c97cb081b6932fa4eb"
 [[files]]
 file = "config/immersivepetroleum.cfg"
 hash = "8067307412e48985935a0496fa41d055739b1eab2200117e317471062a171851"
+
+[[files]]
+file = "config/itemdamagerebalancer.cfg"
+hash = "a0482ba72020591b4064970d651d389da9c05ccf87ff870dc0ebf4001626c3f7"
 
 [[files]]
 file = "config/itemstages.cfg"
@@ -388,6 +560,10 @@ hash = "6bfedc8ec602e63b267f8bda69cd0c9d203cc1a0239d49512f0961ca1107b380"
 [[files]]
 file = "config/nuclearcraft.cfg"
 hash = "19200b417b72f8aad82041d0f57650446c77d5d4ede369a09e5839039a100424"
+
+[[files]]
+file = "config/rebind.ignore/keybindings.json"
+hash = "f071a1d3877703050a3f8888d85c8a0baae5f3674e568442fabaf4cbc64fc017"
 
 [[files]]
 file = "config/sereneseasons/cropfertility.cfg"
@@ -427,11 +603,15 @@ hash = "48f252eb8c189c5f87bcd76a361ea872f5044a1b48a66de076bc58cede32b0d7"
 
 [[files]]
 file = "config/warpdrive/celestialObjects-daedalian.xml"
-hash = "e8b248fc1289a00fb63c188265c1a5ae98a53eea8432e4265818600f32703e8e"
+hash = "3395ba4188b248c348580802cd2dba9422cd68474316e6544ac5af9aec1464c4"
 
 [[files]]
 file = "config/warpdrive/dictionary.yml"
 hash = "5026dafdd6fe1dc5126154d9d0bd9f75c86a1c5611c4a285889e8ba94d10fdd0"
+
+[[files]]
+file = "config/warpdrive/fillerSets-default.xml"
+hash = "27dc082dff8c0c4eca40411ab883dc8bdd2d52b7882be39326f13c0ebb984991"
 
 [[files]]
 file = "config/worldtooltips.cfg"
@@ -496,11 +676,6 @@ hash = "319f27c1fc84133f6879aae531e8cd0a6b2639f7c7837382618f23c553cf2abf"
 metafile = true
 
 [[files]]
-file = "mods/architecturecraft-tridev.pw.toml"
-hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
 metafile = true
@@ -523,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/baubley-elytra.pw.toml"
+hash = "4790dd1b78378e9d843dc3f9216b8049696acad2b5ad26d799b087867da24efe"
 metafile = true
 
 [[files]]
@@ -580,6 +760,11 @@ hash = "36c91e63beab5d3c889c036135ffcf0fb701cb79c71aa34ccd73833876173d92"
 metafile = true
 
 [[files]]
+file = "mods/builders-bag.pw.toml"
+hash = "25151db41037fdb9228d33d73c0314275c61c0e759dade4e837b7574aa6631ad"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
@@ -611,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/console-experience.pw.toml"
-hash = "b9b09311beddade14d0ef76b210ac31d2befa89441bd8126dbb048a1bd1b1611"
+hash = "3c9bd07104e9a19886de94571a8339547708fdc432bd9d107a81006d6a55659b"
 metafile = true
 
 [[files]]
@@ -652,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
 hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
+metafile = true
+
+[[files]]
+file = "mods/darkredstone.pw.toml"
+hash = "b384674717a40ce63c93be41f903f9fecd2bd7f18d0b6f74f69d12852916e7b9"
 metafile = true
 
 [[files]]
@@ -696,6 +886,11 @@ metafile = true
 [[files]]
 file = "mods/essentials.pw.toml"
 hash = "dc1252b2d6eb8696db32904a61bb707284e74d49d82f61124546d98a48d3290c"
+metafile = true
+
+[[files]]
+file = "mods/fantastic-lib.pw.toml"
+hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
 metafile = true
 
 [[files]]
@@ -784,11 +979,6 @@ hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
 
 [[files]]
-file = "mods/immersive-cables.pw.toml"
-hash = "cd34b6d93fe3cd7e1195ffc74047473a8cf5d15d31e2ad39065016028701d989"
-metafile = true
-
-[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
@@ -813,11 +1003,6 @@ hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
 metafile = true
 
 [[files]]
-file = "mods/interaction-wheel.pw.toml"
-hash = "cd0560662e26525aef4b77e03f68fe3e03ebc1fb880c4c8d4d43c6d90f698f47"
-metafile = true
-
-[[files]]
 file = "mods/invclosefix.pw.toml"
 hash = "208b225f9b5602a088cca7cb636648947af810670911d4f00a6ad40210b4ccff"
 metafile = true
@@ -825,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/inventoryneko.pw.toml"
 hash = "f189c53747930a523603ad2e87adaa78979e0c115bdd89928869b2fcb84d7fc5"
+metafile = true
+
+[[files]]
+file = "mods/item-damage-rebalancer.pw.toml"
+hash = "365ea5a79382a98d08f4b7df2ad7ad39a2dc628fbf258116eea38d0ed7f34e3f"
 metafile = true
 
 [[files]]
@@ -890,6 +1080,11 @@ metafile = true
 [[files]]
 file = "mods/mcmultipart.pw.toml"
 hash = "df210172539a4f8d42e93e6d8c309cad92645abac12b57f7d99c782d559a5128"
+metafile = true
+
+[[files]]
+file = "mods/minemenu.pw.toml"
+hash = "e3af043d80b766bd958c0eec2d9a871a8726eee750aa15598d9b22f9f36da34b"
 metafile = true
 
 [[files]]
@@ -1027,6 +1222,11 @@ hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
 
 [[files]]
+file = "mods/reach-fix.pw.toml"
+hash = "506e1889c378e2a6fdd1895794156b47ed65e2c6ff0d524f9e9280d3707d0075"
+metafile = true
+
+[[files]]
 file = "mods/reauth.pw.toml"
 hash = "a838f03dba134738d13747ea4f70a3dcdcc92fda838024fac85288e7c19c4e54"
 metafile = true
@@ -1034,6 +1234,16 @@ metafile = true
 [[files]]
 file = "mods/renderlib.pw.toml"
 hash = "a958f2df3c33f8991d8122400aeb7c1a52fee30af66867415655ab7cfa8aadc6"
+metafile = true
+
+[[files]]
+file = "mods/schematics.pw.toml"
+hash = "9684bcb79f77d80df15e64f335fea47ecc3835171a51e1534ecc4a2193ac1d4e"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "7784b5c3a35938bb31d4334c349c085793a37e0b3fb7cadff59b291204d509ab"
 metafile = true
 
 [[files]]
@@ -1092,6 +1302,11 @@ hash = "48b5445508e8a7b56f99cb554936b42d7037a884fd6775715e0c405ad3fbf2e2"
 metafile = true
 
 [[files]]
+file = "mods/teams.pw.toml"
+hash = "14aa95497a5a25afbf491e748635f77fdd43faeb48a02531c609490902083277"
+metafile = true
+
+[[files]]
 file = "mods/tellme.pw.toml"
 hash = "6d6bdb8090019e850f3d912e810001ebbdecdf963f506522b3d7421a47c89bef"
 metafile = true
@@ -1145,11 +1360,6 @@ hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
 metafile = true
 
 [[files]]
-file = "mods/warpbacteria.pw.toml"
-hash = "6d4a14a3bb984a0b8ca6e2344fb4d1d3c5aa83fe5b578f259cda8e87250cbe17"
-metafile = true
-
-[[files]]
 file = "mods/warpdrive.pw.toml"
 hash = "1beb9edeb11b4f0e265596aa55818d15eae3350ab9f564a78ae45b99192ed6db"
 metafile = true
@@ -1190,6 +1400,11 @@ hash = "2e79bd3be7130e449485dc708e7ce07be3e10a2eb49feb6c7ada231f296f6db5"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "717a2ca1a90bd632a2ea735acc9bc6ee65cd87f7fb6ba8d73b8a4580fd18723a"
+preserve = true
+
+[[files]]
 file = "resourcepacks/Authentic+Shadows_1.11-1.12.zip"
 hash = "b26d00f96a161f8f4537f85c56725a562059446d6e71e7255491601c4e654980"
 
@@ -1207,7 +1422,7 @@ hash = "d620adbe5fefa301ba539cb96d1153429ae4d1707f2f5c72bb0b26c362518e3d"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/contenttweaker/lang/en_us.lang"
-hash = "f9486e8bac5816f97b9718b3d517fd1356c53045db5df866d79c8ed7ae99d6e5"
+hash = "aa8b6cf09b43b35c5f3622b69c781d7f88a61a1ba2d1c41fc50e4767209f9665"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/barnarda_c_boron.png"
@@ -1236,26 +1451,6 @@ hash = "e92a05b1493810c94a792cf4918df221ce92f9e4b67da9ddf2b03c7fc555c9c1"
 [[files]]
 file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/barnarda_c_uranium.png"
 hash = "70a3c42484573808974b071ffe9484ec0f1e7c9de74d0d3b9716b0dfe63cb844"
-
-[[files]]
-file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/defiled_coal.png"
-hash = "27d7041dcaff1040e35a509afbff90eff1ee6fccb51d91b2b077d251af4a56aa"
-
-[[files]]
-file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/defiled_fluorite.png"
-hash = "dccd6d79e7e96095f2071dd7c9fa5afd0ac0afb74d15832c8a42f1252a9a58f7"
-
-[[files]]
-file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/defiled_quartz.png"
-hash = "e56878719dd5295ec9d591f97a8f6f23347cd7ea16b9ba2c079b51bbca824fad"
-
-[[files]]
-file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/defiled_tin.png"
-hash = "73aa2340e2969a48cd02f88366f525f16fd0d226b96306d2339524cefb30c37a"
-
-[[files]]
-file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/defiled_zinc.png"
-hash = "83d443ec02a0027db0088c9be1c1ae87e4ece836587aeaba606d05aa6632ee32"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/glacidus_bottom_quartz.png"
@@ -1296,6 +1491,30 @@ hash = "917b0accd533e7144055814bda488648ba3089760b0308f9107fc7936ca1bb2f"
 [[files]]
 file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/mercury_titanium.png"
 hash = "5e6859f551f937d71a3c9ed742e8b3a7c5d13526cef3ae90d29d98cbf0e10d94"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/midnight_coal.png"
+hash = "83f6993daaf5f79e660d62e1c9cc9280f52438c0aa81cc724bcd119a539ad484"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/midnight_fluorite.png"
+hash = "bc309a1d616d26e6972a25a4657782ddcffd688b2a6de7eb0043dfa8b2525ef5"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/midnight_magnesium.png"
+hash = "4185a13c0a88f777827f4ee950d446fab93c3531091f6a0920796290f8ed6d52"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/midnight_quartz.png"
+hash = "cc05dbcef82b1d1b0e7c1d1c17d36304c05548703a7471be793a8b51c21950af"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/midnight_tin.png"
+hash = "2635b65dce4056ce829be07a993c55f85c4ed1d097d1e1280062bff4cfe59d06"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/midnight_zinc.png"
+hash = "7305038f7f20ed623da35e43b7d7e7a8a6f54b6a87bc83ee1ac13a0f67d451bb"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/contenttweaker/textures/blocks/mist_down_boron.png"
@@ -1355,7 +1574,7 @@ hash = "6234f9a2157079048662ebfe20bd948959aaf97cadbff91ab7e5864ed19dbc33"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/lang/en_us.lang"
-hash = "33b355b8701640a8193de49399208d8192ba331fbc50ee00b4bf09472e4bba92"
+hash = "ba92148fa0407d329bb9bf9f5e5ae9d559807240c4c7de3817a071061d406018"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/texts/splashes.txt"
@@ -1368,6 +1587,14 @@ hash = "592b253bd9afff258bc1dddc12a5213854bb8081fb28f94044fbea7b84c71d72"
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/asteroid-belt.xcf"
 hash = "01d8c16317aeb7dd9120a790bf481fd0cc9bf052d27b98236b710582966dd585"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/barnarda.png"
+hash = "9773c601bf2843c5ac7741ba47d89ca4a61bb52f4524222e666f5f76a0f92135"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/barnarda.xcf"
+hash = "20ced85ebf1385374bfbd19e1dcf185fe587eff8fd3eac1444b6c6b427d3c95d"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/barnarda_c.png"
@@ -1400,6 +1627,26 @@ hash = "2486b1cd567d42f06bf24a8577758a9d1796ea7b7d84f8bab3f341c068ffd758"
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/mist.xcf"
 hash = "1897f32d158099cea9b5c3d4e51651fd447254a0a2bd2c7b54aeb6283c5ff73c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/proxima.png"
+hash = "354d975bf0a39588cd086e160e1cc89604bc4e0128f62ae04366eb7058b46cb5"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/proxima.xcf"
+hash = "c5fbde2d65cafbcd09151dc9489c2dfb31f5eff7037fccd6313085cf70d1e443"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/sol.png"
+hash = "7841b81296869b842fa3704b57c21fbea3b13b545610f28c1315ed482c9d5a6d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/sol.xcf"
+hash = "cb06aee795077a0eb8738a1b98df1a84db556f5bc8a812ae6695aee4769489f7"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/sol2.png"
+hash = "c60e13be0662262d2c701267c1c0f8a47cc3ee67f0b3139e47ca1156fb6002c1"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/textures/planets/tofu.png"
@@ -1458,10 +1705,6 @@ file = "resourcepacks/Better Extra/assets/daedalian/textures/systems/sol.png"
 hash = "6e3f9ee1d174b9537e687913031c1b1b1f19706decc5bfaa9a5408505535e5af"
 
 [[files]]
-file = "resourcepacks/Better Extra/assets/daedalian/textures/systems/sol2.png"
-hash = "5fbd3e53d6de4dbb9afa905473573746c9e3bfcdafa3854e8f71e76ddc041f20"
-
-[[files]]
 file = "resourcepacks/Better Extra/assets/daedalian/textures/title/background.png"
 hash = "b5d72a0bed2f167118e0830edcec5870850f66ae1be46de964ae2054aeaa4ab8"
 
@@ -1495,7 +1738,11 @@ hash = "30121871ab25a1e237fc28983e286076bb6dbaac26cd9148465de02acbe8e040"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/gogskybox/textures/planet2.png"
-hash = "cba0b9bb7c11dfd7697b54ac8085b77a262223ec98a0b74e7913b4a0925cf994"
+hash = "57d4e91f0e127cefbb5d18b64408b9354714dec84ec7f9bc65232216b3a1fef8"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/gogskybox/textures/planet2.xcf"
+hash = "49aeb37f503fd33a78b3707dd0d0a8c75591a8582eb42ead1e026b17eef9768b"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/gogskybox/textures/planet3.png"
@@ -1503,15 +1750,11 @@ hash = "ba066bff96c0bfa2c3d83ac0643b4d2d9ee9c8d535bf02eda81a6e2d90f8d2c2"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/gogskybox/textures/planet4.png"
-hash = "6346f55f8a002bf09fa6afed03213fa35764224d52b0c236074b6d2caa6103ee"
+hash = "49850184a98539255dc92c5ad4b7eed9be5ecb9f7732fd5cba3f04c2a2684ad1"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/gogskybox/textures/planet4.xcf"
-hash = "3e3abaabe99f1d03ef3a40d470661df3669ac854dee5888c2573ce95105982b6"
-
-[[files]]
-file = "resourcepacks/Better Extra/assets/matteroverdrive/info/android_names.txt"
-hash = "c1ee4b58ab6bd9461191380f30e66325d80e4cfd6afb931bb69b78005178beda"
+hash = "81f264cc285b49bacb7e4dace4a4e0948868b3d0a419736de7db1c2d826c1b96"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/minecraft/blockstates/grass.json"
@@ -1668,6 +1911,18 @@ hash = "486359c1e89e7577d853872787456dca7a3a477586ebf00dc7db970d2876259b"
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/glass-white.xcf"
 hash = "21d63ac0ff70d1b9426104bf95aa6e952a2ebf44a1f3bbb8b056265e078503c3"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/h/tiled-green.png"
+hash = "bbf1900c136ead2a4951d76d1f328777d26b2684dc6ac803ba072bfa9f16e822"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/h/tiled-green.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/h/tiled-green.xcf"
+hash = "43e8d6ece740e3cdac7d5f69093eb0415f95a12fb7e065635f31250ce96e6087"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/_other/plain-black.png"
@@ -1839,7 +2094,7 @@ hash = "d6d8aa7e452218db0e8fc1dbe2d11160da7d64068ad2d84265e57101b1f17d26"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-blue.png"
-hash = "13329a0d61a2c13264632e813c3f85ff42bc7d83486a1296fda82f15e902a0e6"
+hash = "491652479211892addf94f40b8f6760d3a0b2541425a1a0161523628f17e7227"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-blue.png.mcmeta"
@@ -1847,15 +2102,15 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-blue.xcf"
-hash = "3dba1f7b0d4a9b12129f96898727a8357da79eb62eb4ed16ffeecd4d7a5cd169"
+hash = "edfa02483c009dcdb87d194d006e72876ab85e486bb49b68897e4157b3a7f47a"
 
 [[files]]
-file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-brown.png copy.mcmeta"
-hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-brown.png"
+hash = "2bea87cff1c9d3cbc8d743d719aa0532a8f6d832b9df5a1b6435556cd4609744"
 
 [[files]]
-file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-brown.png.mcmeta"
-hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-brown.xcf"
+hash = "82172cdce12b4435032834e810102e987f3506a41f1a7d1c23333de4d9a74601"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-cyan.png.mcmeta"
@@ -1874,8 +2129,16 @@ file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-l
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-lime.png"
+hash = "85b062bf52f08b25417a90c6764377057e3776786f25b3ba2d8019210765a2f2"
+
+[[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-lime.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-lime.xcf"
+hash = "41a584bec920546ae18197d0f3e477ae590db2650aa391e885d0946493c82ed5"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-magenta.png.mcmeta"
@@ -1886,8 +2149,16 @@ file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-o
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-pink.png"
+hash = "1cb3823d02bbc3074da75a821606d33d8778fb1360b29440ba6fef1e31365e8c"
+
+[[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-pink.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-pink.xcf"
+hash = "a2a7f24702edd6b6408041b3da7ea6b3af540c0bf2e3f04f9a7aa314f324b0b1"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-purple.png.mcmeta"
@@ -1910,8 +2181,52 @@ file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/plain-y
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-black.png"
+hash = "dfbc9727acc24365abbf7d375d2065a716cf1e2fff7a832d4266351de4de9460"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-black.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-black.xcf"
+hash = "791c7c606b50ae6fa642b21f628da133b4ebd994bc9940fda3118f0987adce99"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-blue.png"
+hash = "111420594457cd24e751ec606df2696dadc95e7c0ceb76609595976edcba31cf"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-blue.xcf"
+hash = "1bc653d994ff0855f902ec6a7266207fb54fa35bee01afe93605196e4d8926c0"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-brown.png"
+hash = "96206f92424d8750a66e1113e20fdde3c4447b31f6e97ed6f069aa14df79817a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-brown.xcf"
+hash = "72e14553e0716046da82ff0a0ffe1f16f5b58e11cd619beba2a5c6d9542e6ee1"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-cyan.png"
+hash = "babb4762fe77240036539699a829f13f650dabcb23fb39951d0a697b7985d63b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-cyan.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-cyan.xcf"
+hash = "27c30e720149c033f7a095996ff795be0adbfff783c9f2fa6fdbb25fce168849"
+
+[[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-gray.png"
-hash = "5c84e32864bb5549c48f792637e9769f32be1c2cfc26c8ad66268dbda49728d3"
+hash = "0621d9c6b7fe4f0612c4e914121fc31fa7598c3dfddb52f7cefa478f68441a32"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-gray.png.mcmeta"
@@ -1919,19 +2234,103 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-gray.xcf"
-hash = "d78f5c2d4f8eda56175adb175804eb2607d6070db7ec7bb0642dac71ff5d816c"
+hash = "ad3e1a36743631189ab99a64df18ca24e61692f39e7d7c759618121092035e23"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-green.png"
+hash = "9fc4e0c8eba49af8c71f48521f2e89449ed3339896dc08507286741b3c65c83a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-green.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-green.xcf"
+hash = "670dd87e98376f8de1ab163f7ca0ac9e2a025ddaea5904837fb9b5fe2fcd9500"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-light_blue.png"
+hash = "ab7bcd7b2ed10c5b06b1e956af5ddfe6e39df0c041838fd09c5c051d868b1d6c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-light_blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-light_blue.xcf"
+hash = "8f4f704fc73f08d24891e08a5d2f9d1a9dfec99ade03ef6f06ddb7f014a9dbef"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-lime.png"
+hash = "6fe7b4f2b32ea164aa30e5fe98886a3960b866d04da4ca9fcab0d724bf05a945"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-lime.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-lime.xcf"
+hash = "d240068a85d123636ace23cbbb445c9a018d545036ed8aad739e68faf4053601"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-lime_vertical.png"
+hash = "0e87e944a9427efc54e75787191f0e69b692378d3db8623aef49b1a2a6db9c35"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-lime_vertical.xcf"
+hash = "f711ee3d0068215c91543cf42255fbb1607a814d4d7e35d0a1f38e6a2c2f2f42"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-magenta.png"
+hash = "289eaeaf4d2448cc3c54cf64be17120f068c409a03ac9042e585f21206e65f4a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-magenta.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-magenta.xcf"
+hash = "61a0d42cb9d324033e79d46aff0ae66c06131af365585a7f8b0677744f04d972"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-orange.png"
+hash = "d5549179ef1455bb85a4e8254cdd7008727e2de124cb0bb0f738538cbd8316b0"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-orange.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-orange.xcf"
+hash = "9b4a174adfd38bef87db0c17083c4bc7a7a5c802fed35c5344f36d00a1371b45"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-pink.png"
+hash = "c601eac9ebddf695bbb89f4a69b04b2c6b92ba10dec32cc077eb9cbceff11f44"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-pink.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-pink.xcf"
+hash = "be9032c56c7ce376db27e40b949102995bee5b500baa7944ee424dc23003180a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-purple.png"
-hash = "67cb661aaf373e3942f8ef0a843c3aef0ded83ffc800524a7ee679e9a7379e3c"
+hash = "09765af620666183b764b8380159828505c4c0962f69ad53cf3a5090dc57b9d6"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-purple.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-purple.xcf"
-hash = "427dacf00b49e04931a8e82e8bd6efe07be29bbb42261006e25710b34ff4e36b"
+hash = "ee34aa601589ab5457be16559f19f3e5ee6fd9748684b5660db1064921f85297"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-red.png"
-hash = "bc558734fcc89b077c5f442bc06d50c54d96ec68b0d62faaf684267f41ce7b05"
+hash = "30a038185dfb0d3761449b1f158f93a7471b1f2fd92c88bde560256f8d7d6953"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-red.png.mcmeta"
@@ -1939,11 +2338,91 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-red.xcf"
-hash = "43a15b65986a8cb955f92e1094a467d9c1c0536ee568c70223ff1e699670bb65"
+hash = "46010da2a2e1afaa947323e484d03df88e85b0f063585805a4312674c0d1488d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-silver.png"
+hash = "64a227584838cd24bd9a936a5b3dc4ae8ff55dcd7b7f324a788bfc284d5c446b"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-silver.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-silver.xcf"
+hash = "c17e6932c6886041ab10e94ce461ffb5b36b19c9bf530c5488823e68536ea79d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-white.png"
+hash = "13101ea1ea9aec77be2212b070757f79eec64073c23750d463833d6f0d6c59cf"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-white.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-white.xcf"
+hash = "c221218f5950a9e9e6451158a74b508d37050015177d17bea2a7e9f45149abed"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-yellow.png"
+hash = "96c49f9ab996c1c626f36d177ecdbc0ee52c3def43851fd91651636358556f1d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-yellow.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled-yellow.xcf"
+hash = "7f8f48f3703cbb6cd5a2547dcec846cc1d702ea9e46cc63862d4bc5c111e48cc"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizonal-light_blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-black.png"
+hash = "e19c50777a95a0214cd3e928b385343a6d018c6d00693f5f88de7eefe3c766b2"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-black.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-black.xcf"
+hash = "860e822947b6377779688cf3938f5c4635a57f1e71275e527112bb01110204c2"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-blue.png"
+hash = "8deb587bb56c13fd5aa680582f3125ad8b079ef8498539048de3fa98d1d1eb1e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-blue.xcf"
+hash = "28d4c30085daa7c7127b5a114f46cce3b0c7c08f128fd56e53de682f7e27ecf5"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-brown.png"
+hash = "66f425b466e6a4e5f53757213b0cfcbf5eeb13579b10135541ec0568ef898798"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-brown.xcf"
+hash = "272d8dc24a8e949bc11bcbefd7db50b04814d1b4604a1445ddb6ecf9dc6f5e07"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-cyan.png"
+hash = "b4bff2de7fed7ca3304a9c7a25abab4b05530d078f0431ea3939b636643e5a57"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-cyan.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-cyan.xcf"
+hash = "bd9b706d370aff9e1841a2e6323bb9efe8f1fba98c0ef911a94027fd6486ddb8"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-gray.png"
@@ -1959,7 +2438,7 @@ hash = "8915cd721a8414acfffa2c13c7526b0e54d13e7b4cc17c4ea1f7db37fa83b695"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.png"
-hash = "dc2f659199f7295026ca3764198196bd08be50ed57111776496f345aafd4befc"
+hash = "98611ff13e21bba0da6a21640af77331039e7ac337f54db1f256e2ba7742b51d"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.png.mcmeta"
@@ -1967,7 +2446,67 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.xcf"
-hash = "c8c08f9c2a03d54bf3517865344088785240dcb1d13d6c890c4bed27b308889e"
+hash = "e7887d83e8f5125c2dd7756a8711b2975c165f6068cf09a52e6e27b23ed6bc25"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-light_blue.png"
+hash = "6c2dbcc4c22d687a396836cdde61075135d31d3c005217a11a03307287745a55"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-light_blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-light_blue.xcf"
+hash = "886d3dc07aef18ad013f80f7d50ab0b686509201735c88222f9862c0cb429370"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-lime.png"
+hash = "669ee7f64ba2875a08c79f436c7352d90590e3b257358225e8a50fbe543300e4"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-lime.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-lime.xcf"
+hash = "2fb6756050260c6f3c8e4b548f3987ebd0c280bbd021aa1b368358a83782e14a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-magenta.png"
+hash = "add59f29ebfbb1705c37be5bdf0528a36aac99e30d1e552ed34c9f51844bc452"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-magenta.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-magenta.xcf"
+hash = "6f85821a1c1badc69497ee46e23a2716a3356fd12d80427e92c936d9e03265ea"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-orange.png"
+hash = "dd75d3e874beb5ade7de5c47ab66335aed63016a172c4ee9c654f2e407aebf4c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-orange.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-orange.xcf"
+hash = "7eb2938ac3367e6d4947869480790e390eb88e7ba21f936051f624047cf8a932"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-pink.png"
+hash = "04af954291159bf90fac16773d167ad93a49489ffcb89772bda57167591ccb49"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-pink.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-pink.xcf"
+hash = "0e7592ac8c9928b5743609e57c082bd6f71e7260fea25ef438a18d2342d97ec0"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-purple.png"
@@ -1983,7 +2522,7 @@ hash = "9fb920298a872df222e88e70414bce027979ea5d9e4ac5e9df05992ee5874cc7"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.png"
-hash = "a40fb9eb588c625acb9bf8ae74d7e78c9d299116412341105c777c2807a23931"
+hash = "594ce444faba1571462a938014f23e1de28e804cd1fd7d5de0c08189e1feca43"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.png.mcmeta"
@@ -1991,11 +2530,91 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.xcf"
-hash = "7f2ac032ec404b4fe75c215b6dba3f375353178081ef97c869d7c020f1ab4c6c"
+hash = "a5041c53166b690b2634d28f5ec20283458fe33512646f428f2c4bd40f6b4eb6"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-silver.png"
+hash = "de87309d24a1e3dc89fca94a8d0e190a395fb6f374797a2aa4f5b887efd4a982"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-silver.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-silver.xcf"
+hash = "a3908ae310e3c577e0d4f64368874493378212ebf71a49d127c2e5a6e250f51e"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-white.png"
+hash = "25f00f5a2dd566d71374f70b3f9d6cf9fedd5db2546a875f0dfb34ccd88f644c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-white.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-white.xcf"
+hash = "4b54a7f3bfadff50017e16aa8ac9bd8876492fa76cc6f9eedeb190aaea34b66f"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-yellow.png"
+hash = "ea6da22f29cd3d8904f5ef3e8d3ec5ecaa748b748d662df1b8e02388d3c1ab41"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-yellow.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_horizontal-yellow.xcf"
+hash = "dd3186a8d25d560322048dec881e90124d86904c3ba048edbce6d9729642f588"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-black.png"
+hash = "f8408a06f45c77ff63f92e44dad208aadf84a7a042251d5d66a20034eac71afd"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-black.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-black.xcf"
+hash = "f0500752d8ac9d0d57fb4937c76a1a827b2b801bd53b0eec90e12e8e0d33cccb"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-blue.png"
+hash = "132484320f278683bb183b1ea25699c98c890a75939de7f5df1af2268bb678c1"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-blue.xcf"
+hash = "b159555aef889454c9569562599cfca673a02275464e0fbe30092796e1863842"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-brown.png"
+hash = "a5f22780e59879fdc5db9ba351ad401fed02dfb11237a8bc704fc9607b080202"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-brown.xcf"
+hash = "adf72bdb2d3af3d49330fd8d3a8cf5f743c595a97efcb0992f2b2780dc2567de"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-cyan.png"
+hash = "dfdd1b9f686cf15d4dd796a3c53735f354b63a2416c097b2b83f6584ead002c9"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-cyan.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-cyan.xcf"
+hash = "a0b7f88bf8948b5494e6b61e92e1ed637106e700fe74d0027ec0e3b3f0a79906"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.png"
-hash = "d9c247a19396fc70c997a9409e8cf901de7e1db6d7f1bb6a3d4f22da95b92f23"
+hash = "928f85a05c26ccd8f33eca9cd37a745c8a9b5898187a52fc32b426143c2d1ed0"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.png.mcmeta"
@@ -2003,11 +2622,11 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.xcf"
-hash = "656c774774c2f538bd2401ea6a6b5be88c78d9543d3e70213ea610f20bd59a2a"
+hash = "c925e703c598c891f96e841c84ea28c730ea7d60c3d198b815ff2bc84b1e9a32"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.png"
-hash = "b415176dd56b3b25ba78168e49fce20d78fecf654f7b2e8f1e0aa7e11a9b7111"
+hash = "44e663a7dd631b416bdc4c7c23067cb4d9c8b35ccd5fdafa361f989e1430da0e"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.png.mcmeta"
@@ -2015,7 +2634,67 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.xcf"
-hash = "466820ce7b90a5085354ba1214648a1850017b7d8f227ff961ac24d56e99b869"
+hash = "a28f04f794112a428e9f6b5a576df4cc70d16a48a85c58efbbea3986c0835afc"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-light_blue.png"
+hash = "d5a317142fd259682880fa84d6dea8d34b8e33cd10bff69773c5d89e3f9f60a9"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-light_blue.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-light_blue.xcf"
+hash = "030ff1fa86c03e06fc54dec71f32c2fa7f35d64a9f228a7f55d5de4fc3aa3e25"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-lime.png"
+hash = "b23e3184fe4f0eab79906fadac82b3f46baefd307c5e9b27469578e6b254d9e5"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-lime.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-lime.xcf"
+hash = "b3e85db6efc2151cf60a1df823af1a145e3d4493cbe60d49914552cdf0dddd7c"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-magenta.png"
+hash = "465040194b42d5e7de31114753568a3ed734f160250b3adbb2dc91fe50db4095"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-magenta.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-magenta.xcf"
+hash = "6ecd07f0efb0a502a26a155dd3a8716b69a13d71f6df2f483384e5f75b6d06b3"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-orange.png"
+hash = "212e79d8731a6c6dbde38100198f6adf38486cf75076ed35120b821841f9cde8"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-orange.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-orange.xcf"
+hash = "8fab8314f0b2b1c5060be4d7ac3bfe925d589d389e681c9cc7d5e682bfe41fd8"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-pink.png"
+hash = "37137bed5212074b32c8a69b8f83daf0d06b8b0a5d68a59c0156cc079ab2a59a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-pink.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-pink.xcf"
+hash = "f8f0012e177eca05564ff5ed737793d905f249c3ced30878935edb72548f43e8"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-purple.png"
@@ -2031,7 +2710,7 @@ hash = "f8d31f8f877cc08e05141d11647908deae527881f491dedf80e653f9ad9e55d7"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.png"
-hash = "a568fbf15b1f65c3070073ca14324c777d58531309fc25b0852eec67b9daea50"
+hash = "0048006a4e83b5f04c49581c07fcdae23454a83f9c2c7222f3be739894caa90d"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.png.mcmeta"
@@ -2039,7 +2718,43 @@ hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.xcf"
-hash = "1b24ad7d55987dd532c1201fe9ad63552fd7a254b1ee40fb859fc4c19f519316"
+hash = "e101da50446099e899128ad334176f08d562a6556dc2c20db023bcfebdcdd967"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-silver.png"
+hash = "7183627044317ec24685be9ac68278775bc5f4ac2fa258e43a49dd39e52a5e7b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-silver.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-silver.xcf"
+hash = "f4e53b6672160e68d293b87842f5710025dae5b17131b11d0530c1a9ecc5966d"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-white.png"
+hash = "305ab3b2b48676d7483c3037f2101b71bbe17175e212f17beef076a2f3eb5ba4"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-white.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-white.xcf"
+hash = "e2d47ced37264c6c1e0ef6a2a407876d668c6a400b5cef21c538ac1c6512735b"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-yellow.png"
+hash = "786df5b867330b78e655e321e3ed5ebbf638edc2e0d7294debb62127131cfd02"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-yellow.png.mcmeta"
+hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
+
+[[files]]
+file = "resourcepacks/Better Extra/assets/warpdrive/textures/blocks/hull/tiled_vertical-yellow.xcf"
+hash = "ad8d9882823a361b136a6bbd061b60eab75a32d3704eb6b20035ad83bc65af4f"
 
 [[files]]
 file = "resourcepacks/Better Extra/assets/xaerobetterpvp/gui/minimap_frame.png"
@@ -2077,27 +2792,27 @@ hash = "aeac215e2536279fb9e80b5854f15b80af59f9755cfeca50f8a67bc39adbd362"
 metafile = true
 
 [[files]]
-file = "resources/contenttweaker/textures/blocks/janssen_magma.png"
+file = "resources/contenttweaker.ignore/textures/blocks/janssen_magma.png"
 hash = "a15f84b572a0a66dae5895a8f76ddd6537f41400766f352761ec9f5e5adab584"
 
 [[files]]
-file = "resources/contenttweaker/textures/blocks/janssen_magma.png.mcmeta"
+file = "resources/contenttweaker.ignore/textures/blocks/janssen_magma.png.mcmeta"
 hash = "aaf0ed9c58bc8aed21cd08c751722c0262242919da2014ec484f3ddaa96e88c5"
 
 [[files]]
-file = "resources/contenttweaker/textures/blocks/janssen_stone.png"
+file = "resources/contenttweaker.ignore/textures/blocks/janssen_stone.png"
 hash = "e761fe5acf34e4120315860bc766a0293402f51fcdfb55fc7ca6180ba720db5d"
 
 [[files]]
-file = "resources/contenttweaker/textures/blocks/janssen_surface.png"
+file = "resources/contenttweaker.ignore/textures/blocks/janssen_surface.png"
 hash = "86ba35b78215a6489bc3f6e4b2917120b93332918f7c6f3df754541a4240ec59"
 
 [[files]]
-file = "resources/contenttweaker/textures/items/interdimensional_core.mcmeta"
+file = "resources/contenttweaker.ignore/textures/items/interdimensional_core.mcmeta"
 hash = "06d5342273dfeebabc7fa3a06479b0094d3d887a1ec5d4e4e8337868c0e2101b"
 
 [[files]]
-file = "resources/contenttweaker/textures/items/interdimensional_core.png"
+file = "resources/contenttweaker.ignore/textures/items/interdimensional_core.png"
 hash = "8a9cc088a0e1d2c4a15c3c857535b5212fc71e8e302a8c95d37ab74649746c9a"
 
 [[files]]
@@ -2141,16 +2856,8 @@ file = "resources/lostcities.ignore/citydata/railparts.json"
 hash = "9e26611f957fcbc349c3f11ad5747781efaf73cdbdfbf1ce41e0f93fc8d2d8d5"
 
 [[files]]
-file = "resources/matteroverdrive/info/android_names.txt"
+file = "resources/matteroverdrive.ignore/info/android_names.txt"
 hash = "c1ee4b58ab6bd9461191380f30e66325d80e4cfd6afb931bb69b78005178beda"
-
-[[files]]
-file = "resources/minecraft/lang/en_US.lang"
-hash = "2628317d39a501e63e2e5af6aa8bad2df86edc64e51287be1818852153a70985"
-
-[[files]]
-file = "resources/minecraft/lang/ru_RU.lang"
-hash = "3eb995b21e6a38f5da710b1fb6b2bc8abaf6f4f22728c095e41204d53aa6c108"
 
 [[files]]
 file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_actinium.json"
@@ -2261,12 +2968,12 @@ file = "resources/nuclearcraft/addons/MoarReactorFunctionality/textures/blocks/s
 hash = "1745a63ae7d556e81399ff0c344a518a43c43b8cfd6c114d92615b2ae4cbcd84"
 
 [[files]]
-file = "scripts/gamestages.zs"
-hash = "7e6664031a0eb01027aef055c6707f0b2f2ac9aeedda7d6a738563c0128ce2f1"
+file = "scripts/blocks.zs"
+hash = "afa16572d70f00a1e3acd59b7907a68cacc9c325bc3688aea84b2e362548c79a"
 
 [[files]]
-file = "scripts/items.zs"
-hash = "07ea242cb8cc2a114bac295b70ec6937f30bc9bf487688ecd5d2f270711da9cf"
+file = "scripts/gamestages.zs"
+hash = "7e6664031a0eb01027aef055c6707f0b2f2ac9aeedda7d6a738563c0128ce2f1"
 
 [[files]]
 file = "scripts/misty_world.zs"
@@ -2274,31 +2981,27 @@ hash = "644ab6e9cf466625878af4632bc34055001697878e763364a6d5ff4d35a1f5c1"
 
 [[files]]
 file = "scripts/ore_dict.zs"
-hash = "893a3052a5dc5ee213a115314a9678ea8d69a96a2d9b98f4d6b9c7d6800868c5"
+hash = "fe82fb9a7c005c5a1b7ed4b5f891de4955be2358c9a7a386c14bc178ce8ffe35"
 
 [[files]]
 file = "scripts/ore_setup.zs"
-hash = "9181f74bd1e7e9f707c9daa1234415be3d54ec6e8c6e1b5b067b7c5de0f17ab3"
+hash = "d13ee690514ba3e722046e1a4377f510a4c8dbe7768fc7c61735d9572d9abfa4"
 
 [[files]]
 file = "scripts/ores.zs"
-hash = "ff43cadc9024124b378e01d3983fbf4b9d2b67c49233e3e7af2952fc229eb27b"
-
-[[files]]
-file = "scripts/recipes.zs"
-hash = "08c7d42f92416bebaae63e7b370696fba4aa0448e6ae47f0679b7aed4530e5b7"
+hash = "20edd32f059a60b5a83ab6e00251ed2a37c3bfeb950b127bebf7b2c773b5a3cb"
 
 [[files]]
 file = "scripts/removed.zs"
-hash = "c5c245072c308af8833a8a529177d31f125215460513c36a0c0d84f01c19278b"
+hash = "9004f54ee98739cab12e0fa374e73c1b7b832e5016435d4a4e9cdc186c153c0d"
 
 [[files]]
 file = "scripts/schematics.zs"
-hash = "4aad7da6753046ce0129c2fce67ef8fb1bfd92649e5a54ba8ba4ff84af9d2fc7"
+hash = "428e8d73015231539bca7bfc1cc7c6dca1f59fca693a9b59c249d22e9be4ee95"
 
 [[files]]
 file = "scripts/scrolling.zs"
-hash = "4636a84e3bcd7d56dd17d47371fcd64204eb8eb5cc9fe2e66742c3714df98061"
+hash = "2b0b3e0eebb11611eeccaecf22cba4d20899f1d60582186d627aa1bf464aaf6e"
 
 [[files]]
 file = "scripts/tooltip.zs"
