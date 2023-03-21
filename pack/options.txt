@@ -1,10 +1,10 @@
+resourcePacks:["Modded 16x v2.0.zip","NCO16-1.0.0.zip","Galacticraft 16x.zip","Authentic+Shadows_1.11-1.12.zip","VanillaTweaks_r848401.zip","Better Extra_"]
 key_key.xtones.scroll:42
 key_key.elenaidodge.dodge:56
 key_key.hooked.fire:46
 key_smoothfont.key.guiOpen:0
 key_key.reveal:0
 key_key.toastcontrol.clear:0
-key_key.openwheel:45
 key_waila.keybind.recipe:19
 key_waila.keybind.usage:22
 key_key.jei.showRecipe:19
@@ -18,3 +18,11 @@ key_ping.key.alert:0
 key_ping.key.mine:0
 key_ping.key.look:0
 key_ping.key.goto:0
+key_Galaxy Map:0
+key_Open Spaceship Inventory:0
+key_Toggle Sensor Goggles Mode:0
+key_teamsmod.keycompass.desc:0
+key_teamsmod.keyaccept.desc:0
+key_teamsmod.keyswitch.desc:20:SHIFT
+key_keybind.mist.mask_inventory:48:SHIFT
+key_key.elenaidodge.dodge:-96
