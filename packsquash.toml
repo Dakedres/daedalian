@@ -1,5 +1,5 @@
-pack_directory = '/tmp/packsquash/pack'
-output_file_path = '/tmp/packsquash/resources.zip'
+pack_directory = './pack/resourcepacks/Daedalian'
+output_file_path = './dist/resourcepacks/Daedalian.zip'
 
 # Force include any weird mod asset structures
 ['**/*.png']

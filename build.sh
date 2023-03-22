@@ -1,8 +1,10 @@
 rm -rf dist/*
-cd optimize
-./optimize.sh
-cd ../
-find pack/ -maxdepth 1 -mindepth 1 ! -name resources -exec  cp -rt dist/ {}  \;
+rsync -av \
+  --exclude='resourcepacks/Daedalian' \
+  --exclude='*.ignore' \
+  --exclude='*.xcf' \
+  ./pack/* ./dist
+packsquash packsquash.toml
 cd dist
 packwiz refresh
 echo "Pack distribution ready!"

@@ -1,4 +1,4 @@
-resourcePacks:["Modded 16x v2.0.zip","NCO16-1.0.0.zip","Galacticraft 16x.zip","Authentic+Shadows_1.11-1.12.zip","VanillaTweaks_r848401.zip","Better Extra_"]
+resourcePacks:["Modded 16x v2.0.zip","NCO16-1.0.0.zip","Galacticraft 16x.zip","Authentic+Shadows_1.11-1.12.zip","VanillaTweaks_r848401.zip","Daedalian.zip"]
 key_key.xtones.scroll:42
 key_key.elenaidodge.dodge:56
 key_key.hooked.fire:46
