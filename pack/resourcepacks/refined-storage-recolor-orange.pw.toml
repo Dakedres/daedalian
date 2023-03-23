@@ -1,0 +1,13 @@
+name = "Refined Storage Recolor - Orange"
+filename = "RSRecolor - Orange.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99f0d18d43d857562bbfdd3d18a27befe00e479f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2628335
+project-id = 268993
