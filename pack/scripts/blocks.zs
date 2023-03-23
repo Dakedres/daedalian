@@ -30,6 +30,13 @@ obsidianSandBlaze.setBlockResistance(10.0);
 obsidianSandBlaze.setToolClass("pickaxe");
 obsidianSandBlaze.register();
 
+obsidianSandBlaze.setDropHandler(function(drops, world, position, state, fortune) {
+	drops.add(<item:contenttweaker:obsidian_sand>);
+	drops.add(<item:minecraft:blaze_rod>);
+
+	return;
+});
+
 var composite = VanillaFactory.createBlock("composite", <blockmaterial:rock>);
 
 composite.setBlockHardness(0.7);
