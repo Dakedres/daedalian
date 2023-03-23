@@ -53,7 +53,6 @@
 		  -->
 		<size x="400000" z="400000" />
 		<name>Hyperspace</name>
-		<description>Your ship warp bubble is your\nonly protection.</description>
 		
 		<!--
 		  dimension defines an actual game world. If it's missing, that celestialObject remains visible but you can't "land" on it.  
@@ -99,7 +98,7 @@
 		
 
 		<!-- Second level is space, typically a star system. -->
-		<celestialObject id="inner-sol" __imagePath="./celestial_maps/celestial-map.png" __imageScale="200">
+		<celestialObject id="inner-sol" __imagePath="./celestial_maps.dev/celestial-map.png" __imageScale="200">
 			<!--
 			  parent defines the relation with a bigger enveloping celestial object.
 			  parent.id (optional): when using multiple files, you can attach to a parent by its id.
@@ -110,7 +109,6 @@
 			</parent>
 			<size x="20000" z="20000" />
 			<name>Sol</name>
-			<description>The void, filled with §6resources§r.</description>
 			<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="daedalian:textures/planets/sol.png" />
 			<render red="0.36" green="0.08" blue="0.80" alpha="0.08" texture="warpdrive:textures/celestial/surface_metallic1.png" periodU="-40" periodV="140" additive="true" />
 			<render red="0.12" green="0.13" blue="0.80" alpha="0.08" texture="warpdrive:textures/celestial/surface_magma1.png" periodU="24" periodV="-35" additive="true" />
@@ -122,7 +120,7 @@
 					generate defines the chance of different structures to generate
 					generate.group, generate.name: identify the structure from the related XML files (name is optional)
 				  -->
-				<generate group="asteroid" ratio="0.0046" />
+				<generate group="asteroid" ratio="0.023" />
 			</dimension>
 			
 			<!--
@@ -309,45 +307,44 @@
 
 			<celestialObject id="ceres" mods="galaxyspace" __colorKey="119,119,119">
 				<parent>
-					<center x="1200" z="-9000" />
+					<center x="1200" z="-7800" />
 				</parent>
 				<name>Ceres</name>
 				<size x="2000" z="2000" />
-				<dimension id="-30" isBreathable="false" gravity="normal">
+				<dimension id="-1007" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/ceres.png" />
-
-				<celestialObject id="ceres-actual" mods="galaxyspace" __colorKey="0,0,255">
-					<parent>
-						<center x="0" z="0" />
-					</parent>
-					<name>???</name>
-					<size x="2000" z="2000" />
-					<dimension id="-1007" isBreathable="false" gravity="normal">
-						<center x="0" z="0" />
-					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="starsources:textures/gui/celestialbodies/acentauri/centauri_b.png" />
-					<render red="1.00" green="0.70" blue="0.50" alpha="0.30" />
-				</celestialObject>
 			</celestialObject>
 
-
+			<celestialObject id="asteroids" mods="galaxyspace" __colorKey="93,236,245">
+				<parent>
+					<center x="-1300" z="-8500" />
+				</parent>
+				<name>Asteroid belt</name>
+				<size x="3000" z="3000" />
+				<dimension id="-30" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="daedalian:textures/planets/asteroid-belt.png" />
+			</celestialObject>
 			
 		</celestialObject>
 
 
-		<celestialObject id="outer-sol" __imageScale="200" __imagePath="./celestial_maps/celestial-map-outer-sol.png" > 
+		<celestialObject id="outer-sol" __imageScale="200" __imagePath="./celestial_maps.dev/celestial-map-outer-sol.png" > 
 			<dimension id="-102" isBreathable="false" gravity="legacySpace">
 				<center x="0" z="0" />
 				<provider type="WarpDriveSpace" />
+				<generate group="asteroid" ratio="0.0032" />
+				<generate group="asteroids_field" ratio="0.0016" />
 			</dimension>
 
 			<parent>
 				<center x="0" z="-22000" />
 			</parent>
 			<size x="20000" z="24000" />
-			<name>Outer Sol</name>
+			<name>Sol</name>
 
 			<skybox>
 				<backgroundColor red="0.0" green="0.0" blue="0.0" />
@@ -578,13 +575,12 @@
 		</celestialObject>
 
 
-		<celestialObject id="centauri" __imagePath="./celestial_maps/centauri.png" __imageScale="200">
+		<celestialObject id="centauri" __imagePath="./celestial_maps.dev/centauri.png" __imageScale="200">
 			<parent>
 				<center x="-64000" z="-70000" />
 			</parent>
 			<size x="20000" z="20000" />
 			<name>Centauri</name>
-			<description>The void, filled with §6resources§r.</description>
 			<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="daedalian:textures/planets/proxima.png" />
 			<render red="0.36" green="0.18" blue="0.80" alpha="0.08" texture="warpdrive:textures/celestial/surface_metallic1.png" periodU="-400" periodV="140" additive="true" />
 			<render red="0.12" green="0.23" blue="0.80" alpha="0.08" texture="warpdrive:textures/celestial/surface_magma1.png" periodU="240" periodV="-35" additive="true" />
@@ -698,13 +694,12 @@
 		
 		</celestialObject>
 
-		<celestialObject id="barnarda" __imagePath="./celestial_maps/barnarda.png" __imageScale="200">
+		<celestialObject id="barnarda" __imagePath="./celestial_maps.dev/barnarda.png" __imageScale="200">
 			<parent>
 				<center x="120000" z="-110000" />
 			</parent>
 			<size x="20000" z="20000" />
 			<name>Barnard's System</name>
-			<description>The void, filled with §6resources§r.</description>
 			<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="daedalian:textures/planets/barnarda.png" />
 			<render red="0.75" green="0.80" blue="0.12" alpha="0.08" texture="warpdrive:textures/celestial/surface_icy2.png" periodU="-20" periodV="104" additive="true" />
 			<render red="0.36" green="0.08" blue="0.80" alpha="0.08" texture="warpdrive:textures/celestial/surface_metallic1.png" periodU="-40" periodV="140" additive="true" />
@@ -834,7 +829,7 @@
 
 		</celestialObject>
 
-		<!-- <celestialObject id="tauceti" __imagePath="./celestial_maps/tauceti.png" __imageScale="200">
+		<!-- <celestialObject id="tauceti" __imagePath="./celestial_maps.dev/tauceti.png" __imageScale="200">
 			<parent>
 				<center x="-120000" z="110000" />
 			</parent>
