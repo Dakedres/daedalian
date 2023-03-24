@@ -399,7 +399,7 @@ hash = "6bfedc8ec602e63b267f8bda69cd0c9d203cc1a0239d49512f0961ca1107b380"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
-hash = "19200b417b72f8aad82041d0f57650446c77d5d4ede369a09e5839039a100424"
+hash = "65859f33b1f6850c945a30e79dbb545e5a032a1dd37ca27077d268510df6be17"
 
 [[files]]
 file = "config/rebind.ignore/keybindings.json"
@@ -443,7 +443,7 @@ hash = "48f252eb8c189c5f87bcd76a361ea872f5044a1b48a66de076bc58cede32b0d7"
 
 [[files]]
 file = "config/warpdrive/celestialObjects-daedalian.xml"
-hash = "eb933d71981450c6121c33e2ee8ee2b335fb545641fb897d94d2ccd1532fe349"
+hash = "7f7f34e302adaf01a138044b7d0631bdd2159c63b78e3530d6d50a5ced586b41"
 
 [[files]]
 file = "config/warpdrive/celestial_maps.dev/barnarda.png"
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "8aba088280df64de3f08076ee0277a4aad63303c19533fa8d2e5c329352f5757"
+hash = "291c0fb899021b77ff20b1a3bb545a39f87ceebf1d0e69111b12ebd6b2d81944"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "7616c53901196cf27261e127db97510e3d1afee30cc884e3297da44ee4671b4f"
+hash = "f0c5ae320620b6ba2a41458324f332767a1e1539c63c7967fffef5198c1d76e7"
 metafile = true
 
 [[files]]
@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "93bb7ceddd7ab173b75e6759f71b627bdf07bbee3e6d37dbdf2296c3d12e09f0"
+hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
 metafile = true
 
 [[files]]
@@ -1019,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/nothirium.pw.toml"
-hash = "08c3b2ceb95ba395c1869c9a470c1205c4b510b0509907c3de862c5d674dbdc1"
+hash = "64df10bdf6074fad460d08cab90950aecf391e73c8e72b90f3d76b174e7e9396"
 metafile = true
 
 [[files]]
@@ -1049,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-culling.pw.toml"
-hash = "e84bb3cb2fe3d480cb82e18b693d039213bff28c5199197a8ed53103da14f714"
+hash = "4731615e45979e1eee2e5439777e6390aba9b8d8bf11c4299723a1659bf5c115"
 metafile = true
 
 [[files]]
@@ -1261,12 +1261,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "adac1292665a446bc2dcd340c6f4918188eacf31a009be05cce1aa96847cad10"
+hash = "41098d31f4092a226d568f39771f1ddd8f5e7ec997b6c2b91c0176abc7841f85"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2598153009b983278d66a751ba3ef898014ed2074d2cf416f0e388ac378cbd3f"
+hash = "ebcd24afc8b30d3fab11441f452d0e4fefddb1bb566ee8f83d7561362368e9fb"
 metafile = true
 
 [[files]]
@@ -1298,7 +1298,11 @@ hash = "f89516d1144c4b715b0d81e9e18b598d5ce8aff3d60544cb7da9bd3db7dd1c1a"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/alabaster_brick.png"
-hash = "b90666d6e4e6c2cdea739d6d28abac9c025701d39156243bec1bfc5e6057c3c4"
+hash = "2e1f63c48d2a44a69264cbc29739a39e7af611301ba536bf3e4b3b0751a3f48f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/alabaster_brick.xcf"
+hash = "03a4e3b556f4ee5e44d7874e45fbe2422f2d8a54b353a61f09ddb7ac33c6547f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_boron.png"
@@ -1769,18 +1773,6 @@ file = "resourcepacks/Daedalian/assets/minecraft/blockstates/sand.json.disabled"
 hash = "25712812e88fabcc637b038222b319d2daceb35c929387c09206f35d526d3004"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/_disabled/world0.png"
-hash = "858ae24a1d71ef32578840dea57a70cabd65802db71557e32c45d550f742dab2"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/_disabled/world0_rain.png"
-hash = "a83297fee699a5c0905f0512b33d568a2fded9596eb32aadf0bdf81caeef6855"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/_disabled/world0_thunder.png"
-hash = "7ce789ad82c0ad6ac18aedec9eab033098923126ba29faaa9ebfcb5b2e281d18"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-1.png"
 hash = "73a3c8aa07a0117ab379f0931b6a7b5cccdeef46550c62f5ae2aa129e292baf8"
 
@@ -1794,11 +1786,11 @@ hash = "8c2d281b0fa622ff41915451a0dd055a5969fdb5f2d629303f4557963fc201b1"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-101.png"
-hash = "74efb1d3c03d7416b1a807a95d70cafe1ded67488933ec5fd53136759db81e23"
+hash = "e20dc2a82889e293168274db61feeef8611be0b61b0248e36fe4b598d9401d01"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-101.xcf"
-hash = "9ef9202f2f79412ae5107822f8ea0319c85218a4e93db55935b27de0c4c29f8a"
+hash = "791b218fc3b7c185df7b71f4eb4b8ababf7dd46700aa77630e258112f73ecbef"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-102.png"
@@ -1809,8 +1801,20 @@ file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-102.xc
 hash = "914e1af397902891d90e3d9158b777a88aeed8f6238d73186a9f625e11689f87"
 
 [[files]]
+file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-103.png"
+hash = "6e15bbe3b1098993c3d220ed8e8219d8ad27d2ecc2c743be65a647befe9ef5e6"
+
+[[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-103.xcf"
-hash = "cc62ccbe7379bd2bd5590ad8293f392d8f12da005f6ee25884954b4351347c9e"
+hash = "9892549b75b40ae68ec89036a5e740ad8585c97ace9a90cd49879c53bbab89ef"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-104.png"
+hash = "d00c706192f879b9794f396163ac363a158dcfb1614f0a20024ad6867b64d8a9"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-104.xcf"
+hash = "d7640a75190ef1b7f078778d77858f565e405c69b405a2707c377224b69b4c18"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world0.png"
@@ -3018,7 +3022,7 @@ hash = "2b0b3e0eebb11611eeccaecf22cba4d20899f1d60582186d627aa1bf464aaf6e"
 
 [[files]]
 file = "scripts/stone_processing.zs"
-hash = "8f681a65a30297a6a55f2b9701e83fcab41171ed9b445007cffbb114a201331a"
+hash = "3e33db94ea7b913841d73bc5e406c6e49fb38356caa9227cea47cde1f9807e29"
 
 [[files]]
 file = "scripts/tooltip.zs"

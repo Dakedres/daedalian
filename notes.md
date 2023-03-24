@@ -26,7 +26,6 @@ Moar Reactor Functionality
 
 VanillaTweaks Settings
 - https://vanillatweaks.net/share#bwEksk
-
 - https://www.curseforge.com/minecraft/mc-mods/glacidus
 - Misty World
 
@@ -40,6 +39,12 @@ Util mods to make aware
 Things to teach
 - Planets and moons without an atmosphere have radiation that must be accounted for
 - You will always respawn in the overworld
+
+# Information
+
+## Lightmaps
+The top 16^2 area is for placed lights, the rightmost line of pixels are for lightning.
+The bottom area is for natural light.
 
 # Planets
 
