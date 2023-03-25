@@ -9,13 +9,15 @@ PortalSuperCache
   - https://github.com/LucunJi/PortalSuperCacheForge112/releases
 
 # Unincldued Jars
-Mods that have third-party downloads disabled and will need to be manually downloaded when hosting the pack
 
+These mods either have third-party downloads disabled, or require the jar to be distributed manually for some reason. Their jars are included in this repository.
 - https://www.curseforge.com/minecraft/mc-mods/beta-plus
-- https://www.curseforge.com/minecraft/mc-mods/misty-world
 - https://www.curseforge.com/minecraft/mc-mods/the-midnight
-- https://www.curseforge.com/minecraft/mc-mods/giacomos-compass
+- https://www.curseforge.com/minecraft/mc-mods/misty-world
 - Special Immersive Intelligence 0.3.0 jar
+
+Mods that could not be downloaded from a 3rd party and have a restrictive license, requiring them to be added to the pack
+- https://www.curseforge.com/minecraft/mc-mods/giacomos-compass
 
 # NuclearCraft Addons
 
