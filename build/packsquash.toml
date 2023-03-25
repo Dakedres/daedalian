@@ -1,5 +1,5 @@
-pack_directory = './pack/resourcepacks/Daedalian'
-output_file_path = './dist/resourcepacks/Daedalian.zip'
+pack_directory = '../pack/resourcepacks/Daedalian'
+output_file_path = '../dist/packwiz/resourcepacks/Daedalian.zip'
 
 # Force include any weird mod asset structures
 ['**/*.png']
