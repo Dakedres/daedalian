@@ -1,98 +1,87 @@
 {
     "images": {
         "title": {
-        "image": "daedalian:textures/title/daedalian.png",
-        "posX": -200,
-        "posY": 95,
-        "width": 400,
-        "height": 52,
-        "alignment": "top_center"
+            "image": "daedalian:textures/title/daedalian.png",
+            "posX": -200,
+            "posY": 95,
+            "width": 400,
+            "height": 52,
+            "alignment": "top_center"
         },
         "edition": {
-        "image": "daedalian:textures/title/edition.png",
-        "posX": -100,
-        "posY": 130,
-        "width": 200,
-        "height": 33,
-        "alignment": "top_center"
+            "image": "daedalian:textures/title/edition.png",
+            "posX": -100,
+            "posY": 130,
+            "width": 200,
+            "height": 33,
+            "alignment": "top_center"
         }
     },
     "buttons": {
         "singleplayer": {
-        "text": "menu.singleplayer",
-        "posX": -100,
-        "posY": 83,
-        "width": 200,
-        "height": 20,
-        "action": {
-            "type": "openGui",
-            "gui": "singleplayer"
+            "text": "menu.singleplayer",
+            "posX": -100,
+            "posY": 83,
+            "width": 200,
+            "height": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "singleplayer"
         }
         },
         "multiplayer": {
-        "text": "menu.multiplayer",
-        "posX": -100,
-        "posY": 107,
-        "width": 200,
-        "height": 20,
-        "action": {
-            "type": "openGui",
-            "gui": "multiplayer"
-        }
+            "text": "menu.multiplayer",
+            "posX": -100,
+            "posY": 107,
+            "width": 200,
+            "height": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
         },
         "mods": {
-        "text": "fml.menu.mods",
-        "posX": -100,
-        "posY": 131,
-        "width": 200,
-        "height": 20,
-        "action": {
-            "type": "openGui",
-            "gui": "mods"
-        }
+            "text": "fml.menu.mods",
+            "posX": -100,
+            "posY": 131,
+            "width": 200,
+            "height": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "mods"
+          }
         },
         "options": {
-        "text": "menu.options",
-        "posX": -100,
-        "posY": 167,
-        "width": 98,
-        "height": 20,
-        "action": {
-            "type": "openGui",
-            "gui": "options"
-        }
+            "text": "menu.options",
+            "posX": -100,
+            "posY": 167,
+            "width": 98,
+            "height": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "options"
+            }
         },
         "quit": {
-        "text": "menu.quit",
-        "posX": 2,
-        "posY": 167,
-        "width": 98,
-        "height": 20,
-        "action": {
-            "type": "quit"
-        }
+            "text": "menu.quit",
+            "posX": 2,
+            "posY": 167,
+            "width": 98,
+            "height": 20,
+            "action": {
+                "type": "quit"
+            }
         },
         "language": {
-        "text": "",
-        "posX": -124,
-        "posY": 167,
-        "width": 20,
-        "height": 20,
-        "action": {
-            "type": "openGui",
-            "gui": "languages"
-        }
-        },
-        "refresh": {
-        "text": "",
-        "posX": -154,
-        "posY": 167,
-        "width": 20,
-        "height": 20,
-        "texture": "custommainmenu:textures/gui/buttons.png",
-        "action": {
-            "type": "refresh"
-        }
+            "text": "",
+            "posX": -124,
+            "posY": 167,
+            "width": 20,
+            "height": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "languages"
+            }
         }
     },
     "labels": {
@@ -119,26 +108,26 @@
     },
     "other": {
         "splash-text": {
-        "posX": 120,
-        "posY": 335,
-        "color": -256,
-        "alignment": "top_center",
-        "texts": "file:daedalian:texts/splashes.txt"
-        },
-        "background": {
-        "image": "",
-        "slideshow": {
-            "images": [
-            "daedalian:textures/title/screenshots/0.png",
-            "daedalian:textures/title/screenshots/1.png",
-            "daedalian:textures/title/screenshots/2.png"
-            ],
-            "shuffle": true,
-            "displayDuration": 600,
-            "fadeDuration": 30
-        },
-        "mode": "fill",
-        "posY": null
+            "posX": 120,
+            "posY": 335,
+            "color": -256,
+            "alignment": "top_center",
+            "texts": "file:daedalian:texts/splashes.txt"
+            },
+            "background": {
+            "image": "",
+            "slideshow": {
+                "images": [
+                "daedalian:textures/title/screenshots/0.png",
+                "daedalian:textures/title/screenshots/1.png",
+                "daedalian:textures/title/screenshots/2.png"
+                ],
+                "shuffle": true,
+                "displayDuration": 600,
+                "fadeDuration": 30
+            },
+            "mode": "fill",
+            "posY": null
         }
     }
 }
