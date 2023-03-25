@@ -343,6 +343,7 @@ hash = "937002c4360c8f802bd3e2ea4ebdad886baa32d5cfda784f87536de1f9852b3f"
 [[files]]
 file = "config/consolehud.cfg"
 hash = "b9a049689d6d56f0740ea3224d6a38db2c89bc71d8205ef72ff8323efaa39def"
+preserve = true
 
 [[files]]
 file = "config/crossroads.cfg"
@@ -351,6 +352,7 @@ hash = "ec6d90713a906c9fbe09cc5be493d6fb3966fa9e5edebc3c51b60cfe545e6d40"
 [[files]]
 file = "config/dsurround/dsurround.cfg"
 hash = "1155ea6612b4d01870d0516938c84bc4495237bbd0e0743154a85b0099a914e0"
+preserve = true
 
 [[files]]
 file = "config/immersiveengineering.cfg"

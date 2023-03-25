@@ -1,13 +1,13 @@
 # Convenience
 *.html
-.ignore
+*.ignore
 
 # Workflow
 .vscode
-.dev
+*.dev
 
 # Images
-.xcf
+*.xcf
 config/warpdrive/celestial_maps
 
 # Workflow
