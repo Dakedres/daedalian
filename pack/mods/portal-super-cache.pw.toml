@@ -1,0 +1,8 @@
+name = "Portal Super Cache"
+filename = "portalsupercache-0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LucunJi/PortalSuperCacheForge112/releases/download/Alpha-0.2/portalsupercache-0.2.jar"
+hash-format = "sha1"
+hash = "aac464f626538ce2f4baad09bf6f8b6a9e308581"
