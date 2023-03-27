@@ -14,7 +14,7 @@ hash = "99998c94d4ec98783861b285647a54216e489254fe06566360b54ff183d565aa"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "41a54b4cbe609ad5a329e4a4261a0076647c6e57634dd95ad9d20a36179019fe"
+hash = "43980142f30ec8ee17b658916552f61667e68120307a3238ade7b502b4395aa3"
 
 [[files]]
 file = "config/DLDungeonsJBG/BlockFamilies/crumbling_walls1.json"
@@ -67,10 +67,6 @@ hash = "fb4dde6503ea56d6da90ad0b216b67f0d54a34e82d2afd3534a373392131c497"
 [[files]]
 file = "config/DLDungeonsJBG/themes/dank.cfg"
 hash = "1569c102535bd4301de077f29303e7b04d5b61973e194676cb9cf993c320ea5a"
-
-[[files]]
-file = "config/DLDungeonsJBG/themes/defiled.cfg.ignore"
-hash = "a531c0bee6b3e74ad3cff7c1abfbb28ee142e9f01b9bf30334ea1134ac1a1e41"
 
 [[files]]
 file = "config/DLDungeonsJBG/themes/desert.cfg"
@@ -249,10 +245,6 @@ file = "config/adminshop/shop.csv"
 hash = "9329fb424f813aa0cbbce1aeee1d803ded3bf22ce648ccba9e40e60779585f45"
 
 [[files]]
-file = "config/adminshop/shop.csv.ignore"
-hash = "bf26505b87d09fdbd15f674a422c09bce9a435d0808d8c8a47367ff25617593f"
-
-[[files]]
 file = "config/aquaacrobatics.cfg"
 hash = "d0390bc34b67b6400dcf17d20b0ecdda4b832f03f8f596ecbb7ec90aa3afe722"
 
@@ -325,24 +317,8 @@ file = "config/cofh/world/config.cfg"
 hash = "7cd72fb3b8cae95058e33b07656982c34769122975e0208d38f163e01d32bf02"
 
 [[files]]
-file = "config/cofh/world/helpers.dev/generator.js"
-hash = "4c1d06da6228a94eb44fae381fab83fecdab459332eda58709cc081faf600d67"
-
-[[files]]
-file = "config/cofh/world/helpers.dev/targets.js"
-hash = "015097bbaef1f5e334da140c9feef2832cd8e911a4ee5acf838269190abf0047"
-
-[[files]]
-file = "config/cofh/world/helpers.dev/templates.json"
-hash = "dfcb451666dd7db70699ce1ab5a93993288730dca7493020e5fc89693745842f"
-
-[[files]]
-file = "config/cofh/world/helpers.dev/test.js"
-hash = "937002c4360c8f802bd3e2ea4ebdad886baa32d5cfda784f87536de1f9852b3f"
-
-[[files]]
 file = "config/consolehud.cfg"
-hash = "b9a049689d6d56f0740ea3224d6a38db2c89bc71d8205ef72ff8323efaa39def"
+hash = "32ba16229d2fd5d09ec1b5e405e290426c7630f05ea774e884ff8d4ff7716ef1"
 preserve = true
 
 [[files]]
@@ -404,10 +380,6 @@ file = "config/nuclearcraft.cfg"
 hash = "65859f33b1f6850c945a30e79dbb545e5a032a1dd37ca27077d268510df6be17"
 
 [[files]]
-file = "config/rebind.ignore/keybindings.json"
-hash = "f071a1d3877703050a3f8888d85c8a0baae5f3674e568442fabaf4cbc64fc017"
-
-[[files]]
 file = "config/sereneseasons/cropfertility.cfg"
 hash = "b04436101f2e63b82e7b5daa7c214320182b5c92670c8b163d21e78e3b4e30e1"
 
@@ -428,10 +400,6 @@ file = "config/topography/Topography.txt"
 hash = "8e70172095c9e07f35235a8c3ae9179888136cfbec5693dcad9d8ffafe6aa352"
 
 [[files]]
-file = "config/topography/planets/defiledWorldGen.txt.ignore"
-hash = "f01cb2babc9ad7cef9ed7f4b82b113b4e2e1772f5f327b0c1fe10739d0b9a5dc"
-
-[[files]]
 file = "config/topography/planets/smallGiantWorldGen.txt"
 hash = "e548174251feec0231c5165e6a16a83a0a3b9cbf3abf36052400e37cb47a01eb"
 
@@ -448,44 +416,8 @@ file = "config/warpdrive/celestialObjects-daedalian.xml"
 hash = "7f7f34e302adaf01a138044b7d0631bdd2159c63b78e3530d6d50a5ced586b41"
 
 [[files]]
-file = "config/warpdrive/celestial_maps.dev/barnarda.png"
-hash = "1ffc21b90935fae4c60ff553fd008dc55e0b49a16975a8e249467ce696a49b15"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/barnarda.xcf"
-hash = "34b67b2bae2046917768a5d8ec3008a84236df6e335b5ee6a3b80f5f6c223154"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/celestial-map-outer-sol.png"
-hash = "ef2aa3b4ecebe67e19b750c76760b95fd970de2959ee83a9ea6b66cf0e44abf9"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/celestial-map-outer-sol.xcf"
-hash = "b4249c2167bd3db8e49b3aff21ec91724437ab90b548744da2a2e1951e6a440f"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/celestial-map.png"
-hash = "091a9d20b266912e40511d0b147e61ba7fa0e28f0b746c4d9ff12e7492c2fc1b"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/celestial-map.xcf"
-hash = "76dc74d6575cc0b540e7d2d89cf6b0b1f7c56a115a3d4b798dcdf17e7a485a1e"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/centauri.png"
-hash = "a892a1d047452d0d9ac39078d2b8bce76faaa305c8672f74adb07d9b3f3665b4"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/centauri.xcf"
-hash = "a38ad865fcf6a3144d234c860d6915f917446f19a9b2d899c9ebdf0d7ac78798"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/tauceti.png"
-hash = "a24a741d8faac4c36ae6c511a8cbd1958d6216eb0e8036affcf810112b4aa157"
-
-[[files]]
-file = "config/warpdrive/celestial_maps.dev/tauceti.xcf"
-hash = "93dba55680fe54ade6531267574338c6ccbf1f412f6c8bf91a45edaef89a9423"
+file = "config/warpdrive/config.yml"
+hash = "fece1ade528768b216bb00e4e71e9f9f88c02783c0bc35579bba8bc982446cd8"
 
 [[files]]
 file = "config/warpdrive/dictionary.yml"
@@ -504,18 +436,6 @@ file = "config/xaerominimap.txt"
 hash = "5944e4124e601da961ce91286b93f26e098453a4695aee992b3ae8ba12ea38c4"
 
 [[files]]
-file = "datapacks.ignore/daedalian/data/minecraft/functions/gamestage_mist.json"
-hash = "3b072fe4869b3d2e47ef9b63ed58bf6598b3f5e5b52d424fd515913055e84fd4"
-
-[[files]]
-file = "datapacks.ignore/daedalian/data/mist/advancements/story/first_breath.json"
-hash = "a1983bd32180db1fd98f2065ac0597a2162631ff9bbb44dd63b5e08cbb166c46"
-
-[[files]]
-file = "datapacks.ignore/daedalian/pack.mcmeta"
-hash = "77302bec7685ff8be622db4e8c00cbe2ef70268fcf709cebd97353107a7b3a12"
-
-[[files]]
 file = "mods/55 Cancri e.jar"
 hash = "0ae6c1bc6fdb7bc53ccc3935a0c6d6761cfef6874d83d63a2a1955a646b31643"
 
@@ -524,7 +444,7 @@ file = "mods/GiacomosCompass-1.12.2-1.0.6.extra.jar"
 hash = "48e8d51134b244c398a1d317a242a356cc432f854f2c696f55e884238207eec2"
 
 [[files]]
-file = "mods/MistyWorld-1.12.2-1.2.5.3.extra.jar"
+file = "mods/MistyWorld-1.12.2-1.2.5.3.jar"
 hash = "65b0048eada9ac8b6de452b53a6e687b1296f2e1c55957ab88c1cd621eac32a9"
 
 [[files]]
@@ -593,7 +513,7 @@ hash = "4b7290dedeb3e3cfe25710c8456c32d3110e804d101169e8a4b14646429b5278"
 metafile = true
 
 [[files]]
-file = "mods/betaplus-0.3.extra.jar"
+file = "mods/betaplus-0.3.jar"
 hash = "e0dfbb6ba1e8569cbf467da7efa48118360c3ac6d3994fd427c5ba9b88a98ccd"
 
 [[files]]
@@ -727,10 +647,6 @@ hash = "b384674717a40ce63c93be41f903f9fecd2bd7f18d0b6f74f69d12852916e7b9"
 metafile = true
 
 [[files]]
-file = "mods/defiled-lands.pw.toml.ignore"
-hash = "cb867f963595029a35120c2f02434a6985fab555f6508d3e6521d4ed080d9566"
-
-[[files]]
 file = "mods/document-your-mod-mod.pw.toml"
 hash = "60a7eee8b113bde689b4a050bfb6489da9b986f95e1158faade38248bea8b63c"
 metafile = true
@@ -782,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix.pw.toml"
-hash = "f6ff217ec5ec15eb4d2290cfb56d087fd11ac9ceeeb7f58d852c7b574fdd9857"
+hash = "0edc3c9ddf7e32bd7e3521476489dbe48f2743311f38250f9a37c69f6f3e2643"
 metafile = true
 
 [[files]]
@@ -1085,8 +1001,9 @@ hash = "78bc62f80a99269f9020c36901663b509914f961aa54b7b6fb4690a213c5bd58"
 metafile = true
 
 [[files]]
-file = "mods/portalsupercache-0.2.jar"
-hash = "cc9976be536946fb40b27524beb86b019b9d401636281f9c143b4e48750c4ccb"
+file = "mods/portal-super-cache.pw.toml"
+hash = "a0eb1a81525417c3c164cbdb7821237ac219fbe0307929f84f2d3aa3e5d78eb4"
+metafile = true
 
 [[files]]
 file = "mods/primitive-mobs.pw.toml"
@@ -1213,10 +1130,6 @@ hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
 metafile = true
 
 [[files]]
-file = "mods/tofucraftreload.pw.toml.ignore"
-hash = "adc1294b16b13dc9d3880281e32f32228f48f54ecf25c36657520fe09c87a3f1"
-
-[[files]]
 file = "mods/tomb-many-graves-2.pw.toml"
 hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
 metafile = true
@@ -1303,10 +1216,6 @@ file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/alabaster_
 hash = "2e1f63c48d2a44a69264cbc29739a39e7af611301ba536bf3e4b3b0751a3f48f"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/alabaster_brick.xcf"
-hash = "03a4e3b556f4ee5e44d7874e45fbe2422f2d8a54b353a61f09ddb7ac33c6547f"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_boron.png"
 hash = "093727f78c9184e362613e72296f1148b25eaca567447476cbad96e70434dc43"
 
@@ -1337,30 +1246,6 @@ hash = "5418bcc00751f0ed5f3292db86cf9f2cd73f12ed8588245d5c3c1de23aeb74b8"
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/composite.png"
 hash = "bcc417d97d6975775a458b839d2c5034a5caea3409da7e8b8daabce235d81e67"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/composite.xcf"
-hash = "d291f7e12244476570d0886773cd44801a1bc28869be2563be63b0ddd04212c6"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/disable.ignore/space_copper.png"
-hash = "1bf06bc35c5a964a5616c34aebee491995995c95fcd58a5d7d65f16012b8964d"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/disable.ignore/space_gold.png"
-hash = "376ff2347e1047c1f8c8f2589f8ceebf5aa0d540548e3da7a4861b28b2a9e63b"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/disable.ignore/space_iron.png"
-hash = "303698eef932c640faad5a268193e95d8307df5e5f386c68f5f31fc5e2af3e20"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/disable.ignore/space_lead.png"
-hash = "29bbb17a9264a9bc66a53297bdca383ea06439d731095c96cc87d8fc28517587"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/disable.ignore/space_lead.xcf"
-hash = "81dc9e8037510d13f6025e01614f1fd29fbfe6b00776764676f608a54beb88cb"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_bottom_quartz.png"
@@ -1495,16 +1380,8 @@ file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/slade.png"
 hash = "00eedfaee11859108e2a297fd2e8b92ecb5e0ac04835692790337f4a66d42ed3"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/slade.xcf"
-hash = "cb6fb3cd687b0dda16489a716ddbd4cbb9d7612b4a6ecca6d00bab88df1232b8"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/slade_brick.png"
 hash = "89ed4545968ff835de132de81a9cdbf5dd308097f31d6b5e549f1aa54dab17e2"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/slade_brick.xcf"
-hash = "b257982ad8edfab2ebf04b26d9cfc0802074671e41e14a0e303ff419c99c858a"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/slade_carved.png"
@@ -1603,16 +1480,8 @@ file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/asteroid-belt.
 hash = "ad75a6d8b5615d2fc055719c42f632be2698c82726e7cb3af40e38da1a5b2b08"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/asteroid-belt.xcf"
-hash = "19212d18b0ebef91517148063b6cd95254d66ef6787dd9da756dfda06c1c77da"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/barnarda.png"
 hash = "9773c601bf2843c5ac7741ba47d89ca4a61bb52f4524222e666f5f76a0f92135"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/barnarda.xcf"
-hash = "20ced85ebf1385374bfbd19e1dcf185fe587eff8fd3eac1444b6c6b427d3c95d"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/barnarda_c.png"
@@ -1627,40 +1496,20 @@ file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/lotr2.png"
 hash = "bceaaad160f16e952db224e095464a6bb8ba0b09dc1bd94ba83fd6ddbf60704d"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/lotr2.xcf"
-hash = "1dd1f15944cde4291ed5f7c8dd380af90fdafa0866019737308120f37ab9e874"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/midnight.png"
 hash = "1691016c93a40089ae60dca686d83b5c032e2e0d982044b7957a7333d87a64c6"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/midnight.xcf"
-hash = "a94a0c3d090d89e171ae20d2469f0519cb115c0027e02fb8e77c697ea9f33e96"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/mist.png"
 hash = "2486b1cd567d42f06bf24a8577758a9d1796ea7b7d84f8bab3f341c068ffd758"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/mist.xcf"
-hash = "1897f32d158099cea9b5c3d4e51651fd447254a0a2bd2c7b54aeb6283c5ff73c"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/proxima.png"
 hash = "354d975bf0a39588cd086e160e1cc89604bc4e0128f62ae04366eb7058b46cb5"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/proxima.xcf"
-hash = "c5fbde2d65cafbcd09151dc9489c2dfb31f5eff7037fccd6313085cf70d1e443"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/sol.png"
 hash = "7841b81296869b842fa3704b57c21fbea3b13b545610f28c1315ed482c9d5a6d"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/sol.xcf"
-hash = "cb06aee795077a0eb8738a1b98df1a84db556f5bc8a812ae6695aee4769489f7"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/sol2.png"
@@ -1671,24 +1520,12 @@ file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/tofu.png"
 hash = "7690f53884633191f5690d6a20ed963b63066547ec49b8985756f40120dc5b6a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/tofu.xcf"
-hash = "3c7cd40446857eedab9ea9df7be4110ae78babf545ab46aa8fe711ba40396ff9"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/planets/venus.png"
 hash = "5d7afa0e698cca80b3708f12c06bf6b0f9cebaf0d30d977e303a46308635dccd"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/skyboxes/sol/centauri.xcf"
-hash = "4af34d9b521358c704b6df8d08d50a1fd56c8e46e2ae92a27733e99a8073a250"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/skyboxes/sol/centauri_3.png"
 hash = "2d68d6598ec95aef6c8c67369aff572db4c4a40e65826aa664fb5c77e05219cb"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/skyboxes/sol/inner-sol-3.xcf"
-hash = "2b9148274fe487208cabb9c42ac7832710b27a3613b471cf6bbbc7294861fd4f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/skyboxes/sol/outer_sol_3.png"
@@ -1723,10 +1560,6 @@ file = "resourcepacks/Daedalian/assets/daedalian/textures/title/daedalian.png"
 hash = "c3c22992009f4b9cc7278875c598eb427d3b6a710f4a24836df8ddfccd8bca1d"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/daedalian/textures/title/daedalian.xcf"
-hash = "16d5cc3f84e3e12fde96436222348264aad63eab82c9a9b458f6c864046556d2"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/textures/title/edition.png"
 hash = "b99041cbebcd843a89efdc1c2e11f8b1569243ae7efd11793dd8b8986cb17f72"
 
@@ -1751,20 +1584,12 @@ file = "resourcepacks/Daedalian/assets/gogskybox/textures/planet2.png"
 hash = "8a2281e07872d0b65bc346d576306dd2051dd8e70e004c3acf952a2e47b8fa6a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/gogskybox/textures/planet2.xcf"
-hash = "7e7ff62cd1395ffc43fa70442d3d1dd29c666ee285cdca68e216a84cb2db15b4"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/gogskybox/textures/planet3.png"
 hash = "ba066bff96c0bfa2c3d83ac0643b4d2d9ee9c8d535bf02eda81a6e2d90f8d2c2"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/gogskybox/textures/planet4.png"
 hash = "30e4dd45f31b1de6a296caab6264e7c4b91b77d1901774c2f4ab5defcf5b2fd6"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/gogskybox/textures/planet4.xcf"
-hash = "5b425d4163bfb386540e752f1c43c9e363b71735ff5103b4e3be976e19bd57d0"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/blockstates/grass.json"
@@ -1783,48 +1608,24 @@ file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-100.pn
 hash = "fe214b7d52008f2ffa91f02fe51206f2a77fe2013c3b187a2e37d595c81ee218"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-100.xcf"
-hash = "8c2d281b0fa622ff41915451a0dd055a5969fdb5f2d629303f4557963fc201b1"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-101.png"
 hash = "e20dc2a82889e293168274db61feeef8611be0b61b0248e36fe4b598d9401d01"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-101.xcf"
-hash = "791b218fc3b7c185df7b71f4eb4b8ababf7dd46700aa77630e258112f73ecbef"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-102.png"
 hash = "c7241932c677e5a3c340d2766cd84dd9788e3cb724be90a7e7962e4ffe54e031"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-102.xcf"
-hash = "914e1af397902891d90e3d9158b777a88aeed8f6238d73186a9f625e11689f87"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-103.png"
 hash = "6e15bbe3b1098993c3d220ed8e8219d8ad27d2ecc2c743be65a647befe9ef5e6"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-103.xcf"
-hash = "9892549b75b40ae68ec89036a5e740ad8585c97ace9a90cd49879c53bbab89ef"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-104.png"
 hash = "d00c706192f879b9794f396163ac363a158dcfb1614f0a20024ad6867b64d8a9"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world-104.xcf"
-hash = "d7640a75190ef1b7f078778d77858f565e405c69b405a2707c377224b69b4c18"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world0.png"
 hash = "7f0c504f740f2d2269e34252f7dbbc60b652ca248598a283eca2bdc860f2d537"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/mcpatcher/lightmap/world0.xcf"
-hash = "263743578f396ee87e3f52f57ce68a67fce94a770648a4801c4a4663b7c81e7b"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/models/block/grass_normal_0.json"
@@ -1871,224 +1672,12 @@ file = "resourcepacks/Daedalian/assets/minecraft/textures/gui/widgets.png"
 hash = "01e32010077fb1fe22e2d988cc257aaca3428d1d4eefd8e870ab1af22f2a0796"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/minecraft/textures/gui/widgets.xcf"
-hash = "d85b34854c0089ae2d0bc1acdf75902564c080670ebe5df9a2d5b282d5109f15"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/minecraft/textures/items/bucket_water.png"
 hash = "7af8e447e647425e805ed3f1ab7b1ed95e5a8cbc6f5fc44efacc05573f8706b6"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/mist/textures/environment/moon_phases.png"
 hash = "c819a41b734cd5bc20dda1c083ea03402ba87a7de06359535e4ff616ccc9fa0f"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/mist/textures/environment/moon_phases.xcf"
-hash = "314a8d7c42489e1e99694ea44c2e7ff8880aa15f7a1699a4ceba15af1572488d"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/mist/textures/environment/moon_phases_alt.xcf"
-hash = "3749609a492bacc72f7b3b1ff7c639bf65e433ce029fb47d94aa26681f558b57"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/mist/textures/environment/moon_phases_big.xcf"
-hash = "6420c38783e4f78271be94e89d357fb709ce2af1528d9120c2455e839ea2376b"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/mist/textures/environment/moon_phases_big_alt.xcf"
-hash = "a1713d00a1014bf0d17abc273c43d1ec9637930c3f7ea5fa5d6c6248be5cc149"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/glass-gray.png"
-hash = "7170f128198fca747e34552251420c685e98662053f05585d35b10f7086606cb"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/glass-gray.png.mcmeta"
-hash = "eadb7749baa0f75b751c98168277226f99bcebc3fe337605a50581b625feb512"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/glass-orange.png"
-hash = "b9899f4d0a5762c6a77ada4ccd7b053313af6c6bd17582717e703ab8fe2c186c"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/glass-orange.xcf"
-hash = "1c63129b0a5dbce01852a1207ec157550d2254bfafa504022965338c8d6d25aa"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/glass-white.png"
-hash = "486359c1e89e7577d853872787456dca7a3a477586ebf00dc7db970d2876259b"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/glass-white.xcf"
-hash = "21d63ac0ff70d1b9426104bf95aa6e952a2ebf44a1f3bbb8b056265e078503c3"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/h/tiled-green.png"
-hash = "bbf1900c136ead2a4951d76d1f328777d26b2684dc6ac803ba072bfa9f16e822"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/h/tiled-green.png.mcmeta"
-hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/h/tiled-green.xcf"
-hash = "43e8d6ece740e3cdac7d5f69093eb0415f95a12fb7e065635f31250ce96e6087"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-black.png"
-hash = "d572f5d1a0806e38fdc9c601eee8404aec475fbbd2167666339b968518a01e66"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-blue.png"
-hash = "f3cffe8c1694773636f4e6b5c287d128da9cc576c7849fbef5b9d4938e51bf07"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-brown.png"
-hash = "2bea87cff1c9d3cbc8d743d719aa0532a8f6d832b9df5a1b6435556cd4609744"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-brown.xcf"
-hash = "82172cdce12b4435032834e810102e987f3506a41f1a7d1c23333de4d9a74601"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-gray.png"
-hash = "f49a60abc063c1f7a02793d85f4391b8b7bbca2415d29fa4b7b50b4d8c8c3728"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-green.png"
-hash = "c24e1a906884c8d5c180f9fd59f08d3bc1eef85ac0e6aba29677184cd15df051"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-light_blue.png.disabled"
-hash = "49011230e0ab69425b8766400c5e282c92fdb2e99bec12b6b8457e8aef9fd6cc"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-lime.png"
-hash = "a2f13fd8a80cd8865fc701ab199c25315b892c758a7a9b19f79f6046c12e5fc0"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-magenta.png"
-hash = "485b4a4d92f45ecf8a74ce02823ed9dd0bc75ee20afcc05ca1a93726640ece5c"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-orange.png"
-hash = "3aaedcdeeea10df089d0831675a6fd684be07d246413ce2a622b0d32a3b516aa"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-orange.xcf"
-hash = "4eae1240b579b1067e8b7cc2079dba526b78d46980e24c4f9cf8030c9da2f74c"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-red.png.disabled"
-hash = "c586cebfc696db361311355ce3acc3dd469c00fcdd8bc2afd4b312fb9130be29"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-white.png"
-hash = "7f3c41318cce694181c119097223f51e2499c0d02bb2fd8716d6e2ad1610bd07"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-white.xcf"
-hash = "73f0de271276360243152d9c39d56a8ff46ac9f3473c9f54b7672a9d2f38c00c"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/plain-yellow.png"
-hash = "dbfc6f297cba2575324ca15555ddc705bd02014e9750f2e7d12bfba499f00376"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled-brown.png"
-hash = "96206f92424d8750a66e1113e20fdde3c4447b31f6e97ed6f069aa14df79817a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled-brown.xcf"
-hash = "72e14553e0716046da82ff0a0ffe1f16f5b58e11cd619beba2a5c6d9542e6ee1"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled-gray.png"
-hash = "2df16e1b195fa9bb70f4504748cea27bb9ab2eb2ffc6c1634b67ba591035648e"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled-orange.png"
-hash = "e3742b4dfc73f6a28bb7a6e67ae8c4e7c017707e8b457cc15620e7d8641f03b1"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled-orange.xcf"
-hash = "f8129736ec77f400acea7d620f9784c59678d04854fe409b468ae2e1f5874e7e"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled-white.png"
-hash = "b60b3c3c6bf4544d6888ecc5b4af69fab61db227c49b7e1114bcc665d7b74a18"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled-white.xcf"
-hash = "42cd77e3aebe90663f41619bf9e944aaa2529b673ed9dd0b5cb1aa4982146d2a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-brown.png"
-hash = "66f425b466e6a4e5f53757213b0cfcbf5eeb13579b10135541ec0568ef898798"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-brown.xcf"
-hash = "272d8dc24a8e949bc11bcbefd7db50b04814d1b4604a1445ddb6ecf9dc6f5e07"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-gray.png"
-hash = "8282cd7b95442001e743368e378bdd52162663ce8546110cf2f161624c9e38b7"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-gray.xcf"
-hash = "008dd74826b019133c2ae1cdd706ed5040a2f674b54feb4043a402518ec608ef"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-orange.png"
-hash = "d3164780efbff57edbfd14d41573fcac75490abd0784560be5781661c337d1f6"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-orange.xcf"
-hash = "8771afc346979be37a781f0a974890c91a462dd66b368049f8634d3f403a39ee"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-white.png"
-hash = "3fa0a0b7375e771bfb3170322a6343d20121be43600bc6c19886472620565bf2"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_horizontal-white.xcf"
-hash = "0e14b23ed5066ee5eaf9b7b209795c58905dc617cfaaf643f0476e23997dddf3"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-brown.png"
-hash = "a5f22780e59879fdc5db9ba351ad401fed02dfb11237a8bc704fc9607b080202"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-brown.xcf"
-hash = "adf72bdb2d3af3d49330fd8d3a8cf5f743c595a97efcb0992f2b2780dc2567de"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-gray.png"
-hash = "69e9d86ccdd1fc799149c7e889c4a12da244a46a2c52b589c6ad230f03d66c24"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-gray.xcf"
-hash = "66250be637a9cf9ebd52d35ffb4de6f454f6660393ca1aa9e966e6fd365aa10e"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-orange.png"
-hash = "ee3a37e06da58c116dc6536f754750b33c1a5c93edc97b62aa0cc45708683444"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-orange.xcf"
-hash = "c628ac45219fd1872699fd5625cd30eca0fee55f60acf923ab66e506148a570e"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-white.png"
-hash = "7bc5f234ebd33097191fb18a2f2d3e4f081a7f5faff75f40c436ccd7e3434d29"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical-white.xcf"
-hash = "3b4f44c8651f4933dbca99e3c0c2c60af631e1cf8426e3faca25102c43e910a9"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/_other.ignore/tiled_vertical_white.xcf"
-hash = "3b4f44c8651f4933dbca99e3c0c2c60af631e1cf8426e3faca25102c43e910a9"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-black.png"
@@ -2099,10 +1688,6 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-blac
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-black.xcf"
-hash = "d6d8aa7e452218db0e8fc1dbe2d11160da7d64068ad2d84265e57101b1f17d26"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-blue.png"
 hash = "491652479211892addf94f40b8f6760d3a0b2541425a1a0161523628f17e7227"
 
@@ -2111,16 +1696,8 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-blue
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-blue.xcf"
-hash = "edfa02483c009dcdb87d194d006e72876ab85e486bb49b68897e4157b3a7f47a"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-brown.png"
 hash = "2bea87cff1c9d3cbc8d743d719aa0532a8f6d832b9df5a1b6435556cd4609744"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-brown.xcf"
-hash = "82172cdce12b4435032834e810102e987f3506a41f1a7d1c23333de4d9a74601"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-cyan.png.mcmeta"
@@ -2147,10 +1724,6 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-lime
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-lime.xcf"
-hash = "41a584bec920546ae18197d0f3e477ae590db2650aa391e885d0946493c82ed5"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-magenta.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
@@ -2165,10 +1738,6 @@ hash = "1cb3823d02bbc3074da75a821606d33d8778fb1360b29440ba6fef1e31365e8c"
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-pink.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-pink.xcf"
-hash = "a2a7f24702edd6b6408041b3da7ea6b3af540c0bf2e3f04f9a7aa314f324b0b1"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-purple.png.mcmeta"
@@ -2199,10 +1768,6 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-blac
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-black.xcf"
-hash = "791c7c606b50ae6fa642b21f628da133b4ebd994bc9940fda3118f0987adce99"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-blue.png"
 hash = "111420594457cd24e751ec606df2696dadc95e7c0ceb76609595976edcba31cf"
 
@@ -2211,16 +1776,8 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-blue
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-blue.xcf"
-hash = "1bc653d994ff0855f902ec6a7266207fb54fa35bee01afe93605196e4d8926c0"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-brown.png"
 hash = "96206f92424d8750a66e1113e20fdde3c4447b31f6e97ed6f069aa14df79817a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-brown.xcf"
-hash = "72e14553e0716046da82ff0a0ffe1f16f5b58e11cd619beba2a5c6d9542e6ee1"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-cyan.png"
@@ -2231,20 +1788,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-cyan
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-cyan.xcf"
-hash = "27c30e720149c033f7a095996ff795be0adbfff783c9f2fa6fdbb25fce168849"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-gray.png"
 hash = "0621d9c6b7fe4f0612c4e914121fc31fa7598c3dfddb52f7cefa478f68441a32"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-gray.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-gray.xcf"
-hash = "ad3e1a36743631189ab99a64df18ca24e61692f39e7d7c759618121092035e23"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-green.png"
@@ -2255,20 +1804,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-gree
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-green.xcf"
-hash = "670dd87e98376f8de1ab163f7ca0ac9e2a025ddaea5904837fb9b5fe2fcd9500"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-light_blue.png"
 hash = "ab7bcd7b2ed10c5b06b1e956af5ddfe6e39df0c041838fd09c5c051d868b1d6c"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-light_blue.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-light_blue.xcf"
-hash = "8f4f704fc73f08d24891e08a5d2f9d1a9dfec99ade03ef6f06ddb7f014a9dbef"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-lime.png"
@@ -2279,16 +1820,8 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-lime
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-lime.xcf"
-hash = "d240068a85d123636ace23cbbb445c9a018d545036ed8aad739e68faf4053601"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-lime_vertical.png"
 hash = "0e87e944a9427efc54e75787191f0e69b692378d3db8623aef49b1a2a6db9c35"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-lime_vertical.xcf"
-hash = "f711ee3d0068215c91543cf42255fbb1607a814d4d7e35d0a1f38e6a2c2f2f42"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-magenta.png"
@@ -2299,20 +1832,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-mage
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-magenta.xcf"
-hash = "61a0d42cb9d324033e79d46aff0ae66c06131af365585a7f8b0677744f04d972"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-orange.png"
 hash = "d5549179ef1455bb85a4e8254cdd7008727e2de124cb0bb0f738538cbd8316b0"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-orange.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-orange.xcf"
-hash = "9b4a174adfd38bef87db0c17083c4bc7a7a5c802fed35c5344f36d00a1371b45"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-pink.png"
@@ -2323,20 +1848,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-pink
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-pink.xcf"
-hash = "be9032c56c7ce376db27e40b949102995bee5b500baa7944ee424dc23003180a"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-purple.png"
 hash = "09765af620666183b764b8380159828505c4c0962f69ad53cf3a5090dc57b9d6"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-purple.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-purple.xcf"
-hash = "ee34aa601589ab5457be16559f19f3e5ee6fd9748684b5660db1064921f85297"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-red.png"
@@ -2347,20 +1864,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-red.
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-red.xcf"
-hash = "46010da2a2e1afaa947323e484d03df88e85b0f063585805a4312674c0d1488d"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-silver.png"
 hash = "64a227584838cd24bd9a936a5b3dc4ae8ff55dcd7b7f324a788bfc284d5c446b"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-silver.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-silver.xcf"
-hash = "c17e6932c6886041ab10e94ce461ffb5b36b19c9bf530c5488823e68536ea79d"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-white.png"
@@ -2371,20 +1880,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-whit
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-white.xcf"
-hash = "c221218f5950a9e9e6451158a74b508d37050015177d17bea2a7e9f45149abed"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-yellow.png"
 hash = "96c49f9ab996c1c626f36d177ecdbc0ee52c3def43851fd91651636358556f1d"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-yellow.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled-yellow.xcf"
-hash = "7f8f48f3703cbb6cd5a2547dcec846cc1d702ea9e46cc63862d4bc5c111e48cc"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizonal-light_blue.png.mcmeta"
@@ -2399,10 +1900,6 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-black.xcf"
-hash = "860e822947b6377779688cf3938f5c4635a57f1e71275e527112bb01110204c2"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-blue.png"
 hash = "8deb587bb56c13fd5aa680582f3125ad8b079ef8498539048de3fa98d1d1eb1e"
 
@@ -2411,16 +1908,8 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-blue.xcf"
-hash = "28d4c30085daa7c7127b5a114f46cce3b0c7c08f128fd56e53de682f7e27ecf5"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-brown.png"
 hash = "66f425b466e6a4e5f53757213b0cfcbf5eeb13579b10135541ec0568ef898798"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-brown.xcf"
-hash = "272d8dc24a8e949bc11bcbefd7db50b04814d1b4604a1445ddb6ecf9dc6f5e07"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-cyan.png"
@@ -2431,20 +1920,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-cyan.xcf"
-hash = "bd9b706d370aff9e1841a2e6323bb9efe8f1fba98c0ef911a94027fd6486ddb8"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-gray.png"
 hash = "0959a868fd238aae8d8358fa290ff513c60c0d98930fb3391ea400bf5a6f0ced"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-gray.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-gray.xcf"
-hash = "8915cd721a8414acfffa2c13c7526b0e54d13e7b4cc17c4ea1f7db37fa83b695"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.png"
@@ -2455,20 +1936,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-green.xcf"
-hash = "e7887d83e8f5125c2dd7756a8711b2975c165f6068cf09a52e6e27b23ed6bc25"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-light_blue.png"
 hash = "6c2dbcc4c22d687a396836cdde61075135d31d3c005217a11a03307287745a55"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-light_blue.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-light_blue.xcf"
-hash = "886d3dc07aef18ad013f80f7d50ab0b686509201735c88222f9862c0cb429370"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-lime.png"
@@ -2479,20 +1952,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-lime.xcf"
-hash = "2fb6756050260c6f3c8e4b548f3987ebd0c280bbd021aa1b368358a83782e14a"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-magenta.png"
 hash = "add59f29ebfbb1705c37be5bdf0528a36aac99e30d1e552ed34c9f51844bc452"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-magenta.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-magenta.xcf"
-hash = "6f85821a1c1badc69497ee46e23a2716a3356fd12d80427e92c936d9e03265ea"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-orange.png"
@@ -2503,20 +1968,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-orange.xcf"
-hash = "7eb2938ac3367e6d4947869480790e390eb88e7ba21f936051f624047cf8a932"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-pink.png"
 hash = "04af954291159bf90fac16773d167ad93a49489ffcb89772bda57167591ccb49"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-pink.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-pink.xcf"
-hash = "0e7592ac8c9928b5743609e57c082bd6f71e7260fea25ef438a18d2342d97ec0"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-purple.png"
@@ -2527,20 +1984,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-purple.xcf"
-hash = "9fb920298a872df222e88e70414bce027979ea5d9e4ac5e9df05992ee5874cc7"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.png"
 hash = "594ce444faba1571462a938014f23e1de28e804cd1fd7d5de0c08189e1feca43"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-red.xcf"
-hash = "a5041c53166b690b2634d28f5ec20283458fe33512646f428f2c4bd40f6b4eb6"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-silver.png"
@@ -2551,20 +2000,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-silver.xcf"
-hash = "a3908ae310e3c577e0d4f64368874493378212ebf71a49d127c2e5a6e250f51e"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-white.png"
 hash = "25f00f5a2dd566d71374f70b3f9d6cf9fedd5db2546a875f0dfb34ccd88f644c"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-white.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-white.xcf"
-hash = "4b54a7f3bfadff50017e16aa8ac9bd8876492fa76cc6f9eedeb190aaea34b66f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-yellow.png"
@@ -2575,20 +2016,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_hori
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_horizontal-yellow.xcf"
-hash = "dd3186a8d25d560322048dec881e90124d86904c3ba048edbce6d9729642f588"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-black.png"
 hash = "f8408a06f45c77ff63f92e44dad208aadf84a7a042251d5d66a20034eac71afd"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-black.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-black.xcf"
-hash = "f0500752d8ac9d0d57fb4937c76a1a827b2b801bd53b0eec90e12e8e0d33cccb"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-blue.png"
@@ -2599,16 +2032,8 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-blue.xcf"
-hash = "b159555aef889454c9569562599cfca673a02275464e0fbe30092796e1863842"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-brown.png"
 hash = "a5f22780e59879fdc5db9ba351ad401fed02dfb11237a8bc704fc9607b080202"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-brown.xcf"
-hash = "adf72bdb2d3af3d49330fd8d3a8cf5f743c595a97efcb0992f2b2780dc2567de"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-cyan.png"
@@ -2619,20 +2044,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-cyan.xcf"
-hash = "a0b7f88bf8948b5494e6b61e92e1ed637106e700fe74d0027ec0e3b3f0a79906"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.png"
 hash = "928f85a05c26ccd8f33eca9cd37a745c8a9b5898187a52fc32b426143c2d1ed0"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-gray.xcf"
-hash = "c925e703c598c891f96e841c84ea28c730ea7d60c3d198b815ff2bc84b1e9a32"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.png"
@@ -2643,20 +2060,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-green.xcf"
-hash = "a28f04f794112a428e9f6b5a576df4cc70d16a48a85c58efbbea3986c0835afc"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-light_blue.png"
 hash = "d5a317142fd259682880fa84d6dea8d34b8e33cd10bff69773c5d89e3f9f60a9"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-light_blue.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-light_blue.xcf"
-hash = "030ff1fa86c03e06fc54dec71f32c2fa7f35d64a9f228a7f55d5de4fc3aa3e25"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-lime.png"
@@ -2667,20 +2076,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-lime.xcf"
-hash = "b3e85db6efc2151cf60a1df823af1a145e3d4493cbe60d49914552cdf0dddd7c"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-magenta.png"
 hash = "465040194b42d5e7de31114753568a3ed734f160250b3adbb2dc91fe50db4095"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-magenta.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-magenta.xcf"
-hash = "6ecd07f0efb0a502a26a155dd3a8716b69a13d71f6df2f483384e5f75b6d06b3"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-orange.png"
@@ -2691,20 +2092,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-orange.xcf"
-hash = "8fab8314f0b2b1c5060be4d7ac3bfe925d589d389e681c9cc7d5e682bfe41fd8"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-pink.png"
 hash = "37137bed5212074b32c8a69b8f83daf0d06b8b0a5d68a59c0156cc079ab2a59a"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-pink.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-pink.xcf"
-hash = "f8f0012e177eca05564ff5ed737793d905f249c3ced30878935edb72548f43e8"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-purple.png"
@@ -2715,20 +2108,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-purple.xcf"
-hash = "f8d31f8f877cc08e05141d11647908deae527881f491dedf80e653f9ad9e55d7"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.png"
 hash = "0048006a4e83b5f04c49581c07fcdae23454a83f9c2c7222f3be739894caa90d"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-red.xcf"
-hash = "e101da50446099e899128ad334176f08d562a6556dc2c20db023bcfebdcdd967"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-silver.png"
@@ -2739,20 +2124,12 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-silver.xcf"
-hash = "f4e53b6672160e68d293b87842f5710025dae5b17131b11d0530c1a9ecc5966d"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-white.png"
 hash = "305ab3b2b48676d7483c3037f2101b71bbe17175e212f17beef076a2f3eb5ba4"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-white.png.mcmeta"
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-white.xcf"
-hash = "e2d47ced37264c6c1e0ef6a2a407876d668c6a400b5cef21c538ac1c6512735b"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-yellow.png"
@@ -2763,18 +2140,6 @@ file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vert
 hash = "df2ef97408255e3f936ffe6dd1c35b22293b1643ecefad05944eefae726e948a"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/tiled_vertical-yellow.xcf"
-hash = "ad8d9882823a361b136a6bbd061b60eab75a32d3704eb6b20035ad83bc65af4f"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/xaerobetterpvp.ignore/gui/minimap_frame.png"
-hash = "03138964fd63e7ee2762e1a6f323d78ac4a562b86d6f7a948a78617afeb454a8"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/xaerobetterpvp.ignore/gui/minimap_frame.xcf"
-hash = "ed1e5a37e7c47d1359ea582b6ae46df97229e7ab35f536012935d10b7e17a0ee"
-
-[[files]]
 file = "resourcepacks/Daedalian/pack.mcmeta"
 hash = "d05e304b6c35fdfde463c68ed588cfebd27639f793fdd7814344bba5822656df"
 
@@ -2783,100 +2148,28 @@ file = "resourcepacks/Daedalian/pack.png"
 hash = "8e1a56baebb5fea7bad94267df66b00787f0351975cd414f04a392c466c06e1f"
 
 [[files]]
-file = "resourcepacks/Daedalian/pack.xcf"
-hash = "8f5b0da65e1bf0944b5b48de944043c2b9090d0e79ef3c38eb2b64c0a637ffd6"
-
-[[files]]
 file = "resourcepacks/VanillaTweaks_r848401.zip"
 hash = "ebbe5b653aceb5ffe847feb423d1551c813941e7717180fa4b766c2d8461ca82"
 
 [[files]]
 file = "resourcepacks/galacticraft-16x.pw.toml"
-hash = "fbd65174b957e3e0f0fd85eb20068b0e054e8ec3060720e6f6256a840981369c"
+hash = "cc737b13be46bb67837329e8883065886bb8698dbb797dbe835a8a4c703af37e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/modded-16x.pw.toml"
-hash = "67c44cc60eb51be51a3197d60b3c0a9d01a0d2ff14976e0ad6bbca48c8bca2f9"
+hash = "12501fdf389053df5a64ff0003c34155ea12496a9eac9b929d90a161cee71e29"
 metafile = true
 
 [[files]]
 file = "resourcepacks/nco16.pw.toml"
-hash = "aeac215e2536279fb9e80b5854f15b80af59f9755cfeca50f8a67bc39adbd362"
+hash = "c5482d434634447ac4a5c15774d37b88680c200c3c5bcdf179a9c7b30e2a98df"
 metafile = true
 
 [[files]]
 file = "resourcepacks/refined-storage-recolor-orange.pw.toml"
-hash = "1321f71afb36c5df6616deb4434dff13e9e65e51292ceb6a15e92610b02df0a0"
+hash = "b94ddc11e4f113b4fc1d3a7ff345d465ab0e45eff2561e44b369ad6a61e3d810"
 metafile = true
-
-[[files]]
-file = "resources/contenttweaker.ignore/textures/blocks/janssen_magma.png"
-hash = "a15f84b572a0a66dae5895a8f76ddd6537f41400766f352761ec9f5e5adab584"
-
-[[files]]
-file = "resources/contenttweaker.ignore/textures/blocks/janssen_magma.png.mcmeta"
-hash = "aaf0ed9c58bc8aed21cd08c751722c0262242919da2014ec484f3ddaa96e88c5"
-
-[[files]]
-file = "resources/contenttweaker.ignore/textures/blocks/janssen_stone.png"
-hash = "e761fe5acf34e4120315860bc766a0293402f51fcdfb55fc7ca6180ba720db5d"
-
-[[files]]
-file = "resources/contenttweaker.ignore/textures/blocks/janssen_surface.png"
-hash = "86ba35b78215a6489bc3f6e4b2917120b93332918f7c6f3df754541a4240ec59"
-
-[[files]]
-file = "resources/contenttweaker.ignore/textures/items/interdimensional_core.mcmeta"
-hash = "06d5342273dfeebabc7fa3a06479b0094d3d887a1ec5d4e4e8337868c0e2101b"
-
-[[files]]
-file = "resources/contenttweaker.ignore/textures/items/interdimensional_core.png"
-hash = "8a9cc088a0e1d2c4a15c3c857535b5212fc71e8e302a8c95d37ab74649746c9a"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/buildingparts.json"
-hash = "4b8a86dc2a121e1ad4cf3224fa0924123fe8992609b97a4f56e8ad748ec296de"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/conditions.json"
-hash = "996396f21c328e9374c542554eda90cd1379c5422cd3f118c278f140b0d3c4c9"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/highwayparts.json"
-hash = "36a6f5dbf9078504e1078371f89613d5dac4e19bdaf1c0d5e91189fa8b7646ef"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/library.json"
-hash = "9973775bf6a4e4c20eaee1bbfdd2a7d2de7f7657b509315e7918ebb1f236086a"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/monorailparts.json"
-hash = "d76da402b6f6bce23ecf00af183c078202901250a745382630efa4cf7c1625f6"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/palette.json"
-hash = "be3a2d61fe0fb9c4e423f666dd34cc6ed7bfc6b5e09f62ccdf2c26ffdb88f368"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/palette_chisel.json"
-hash = "97741302c3c51ffb9645976f223b219288fbbab6614dcb7ce4e18b0b58f61ced"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/palette_chisel_desert.json"
-hash = "4dc3b5539b3354391827e39f2b8aa38b31ccee3635e73c75b5da82a142748bd7"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/palette_desert.json"
-hash = "e54bf87a6536c31ccce90b4aaf513f3ad7c17e6f34cb5acc2046aa70eee4cbf8"
-
-[[files]]
-file = "resources/lostcities.ignore/citydata/railparts.json"
-hash = "9e26611f957fcbc349c3f11ad5747781efaf73cdbdfbf1ce41e0f93fc8d2d8d5"
-
-[[files]]
-file = "resources/matteroverdrive.ignore/info/android_names.txt"
-hash = "c1ee4b58ab6bd9461191380f30e66325d80e4cfd6afb931bb69b78005178beda"
 
 [[files]]
 file = "resources/nuclearcraft/addons/MoarReactorFunctionality/blockstates/fission_source_actinium.json"
