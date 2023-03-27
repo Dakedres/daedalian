@@ -1,6 +1,6 @@
 name = "Refined Storage Recolor - Orange"
 filename = "RSRecolor - Orange.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

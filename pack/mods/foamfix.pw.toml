@@ -15,4 +15,4 @@ version = "oEGIQQnQ"
 [option]
 optional = true
 default = true
-description = "Sacrifices faster loading times for less overall ram usage."
+description = "Sacrifices faster loading times for less overall ram usage. If you disable this you'll probably want allocate atleast 5 GB"

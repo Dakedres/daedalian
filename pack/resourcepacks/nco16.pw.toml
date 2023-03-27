@@ -1,6 +1,6 @@
 name = "NCO16"
 filename = "NCO16-1.0.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

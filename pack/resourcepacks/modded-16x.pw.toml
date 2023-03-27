@@ -1,6 +1,6 @@
 name = "Modded 16x"
 filename = "Modded 16x v2.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

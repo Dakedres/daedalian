@@ -1,5 +1,5 @@
 rm -rf ../dist/packwiz
-rsync -av \
+rsync -a \
   --exclude='resourcepacks/Daedalian' \
   --exclude='*.ignore' \
   --exclude='*.dev' \
