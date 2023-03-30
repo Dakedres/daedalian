@@ -242,7 +242,7 @@ hash = "dcb727411c0641b0288d0ebf6d9887dd1b7cf5af6e6f68d87d6e1a376617a947"
 
 [[files]]
 file = "config/adchimneys/Containers/xtones_azur_4.cfg"
-hash = "b56196bc6b791ce19beb883891793508cfd33429b2caf083db72c7bdeb36af8f"
+hash = "631360b780596c43562d6250b2269c8c58ac906a646808eb38dda09fa4189981"
 
 [[files]]
 file = "config/adchimneys/Containers/xtones_jelt_9.cfg"
@@ -525,9 +525,8 @@ hash = "e8b442af87fe31b91ee07bd4ac4f048827b8bf7105d65e0803506366fdf5cb2d"
 metafile = true
 
 [[files]]
-file = "mods/advanced-chimneys.pw.toml"
+file = "mods/advanced-chimneys.pw.toml.disabled"
 hash = "32c06a4f8be53f56b83231d5949312bc2d0289a9c16860623d6a678e2bf8cfa4"
-metafile = true
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"
@@ -1078,11 +1077,6 @@ hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
 
 [[files]]
-file = "mods/pollution-of-the-realms.pw.toml"
-hash = "78bc62f80a99269f9020c36901663b509914f961aa54b7b6fb4690a213c5bd58"
-metafile = true
-
-[[files]]
 file = "mods/portal-super-cache.pw.toml"
 hash = "a0eb1a81525417c3c164cbdb7821237ac219fbe0307929f84f2d3aa3e5d78eb4"
 metafile = true
@@ -1284,6 +1278,82 @@ preserve = true
 [[files]]
 file = "resourcepacks/Authentic+Shadows_1.11-1.12.zip"
 hash = "b26d00f96a161f8f4537f85c56725a562059446d6e71e7255491601c4e654980"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/matteroverdrive_machine_hull.json"
+hash = "bf8e03ff95de7afd529b60a4ad451bd8f1c3f0d4da2ac9e6254a550cd53ec083"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_azur_4.json"
+hash = "346c7f26d26c8e7eed60ee01103df3015a186a801ef4f2b69ca9e9f8b62091b0"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_jelt_9.json"
+hash = "10f1baa14f8b8a698459fd20b39c18939ac313aab3d1ad5322ea7b9b0f91cf50"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_korp_9.json"
+hash = "9ebcdb62cbfac14f9ebb01d0dd102b3fad3d088f06e482eb79d3d5d85e912e18"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_kryp_2.json"
+hash = "34d5a7ea30edbca9882e5e746c801c45b73326ade2a9c927c68f16e2574444d5"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_lair_14.json"
+hash = "d8275dbb703ee183bf51962ae06fcc17a5d5d649c05814906ed0939bd8b9554f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_lave_7.json"
+hash = "6aa169644d0e870c0983792de565e1b6151c38585e3b0e1686625f6b67366af2"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_mint_11.json"
+hash = "34cc7e83559c0ba58a79a225d7517aac346387e15a761dbd2ae329ff968e601a"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_reds_1.json"
+hash = "887acf6a1e0f602d5e264a611270aa57af1dedf71cd538de59c1b71fc8820543"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_reed_1.json"
+hash = "b2b5c6dac200107447412f2a2789a73e2f40a6eddb2f19b638b0224c68010723"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_roen_14.json"
+hash = "245c82df6ccce364b43a05f2616c3f1f05fc636eb5d6ab207bf0d18c9743e929"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_sols_3.json"
+hash = "0a8567bcf9de9f58378a96f1bf21e1c8019582ba27dd7ef4fed4ea9a9f5ba22f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_sync_6.json"
+hash = "378efd573033e9745db84593d55c2ffba997b9ca0371be5520f7d520695ac1e8"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_tank_13.json"
+hash = "468f56796a5d9f926bfea3f141d69042f4dc405c362b7f03851d1a08197f1248"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_tank_3.json"
+hash = "7d375437134f41cc39138f1d6036cc4932d104b08969d43bdc93cf72f2a9e9c7"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_tank_4.json"
+hash = "1bb3f2a375088174650b2c1e39f7c57c7ceed81c5dfce1dae4e41d97ae6cd2ee"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_vect_11.json"
+hash = "c735ade476e2080c25637b9591c93539b139c0a24138c674081af11585cc22d0"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/blockstates/xtones_vena_11.json"
+hash = "e0ba09ee0b39b8d0077eec8a23e27b66b5ea6e753927c9c067c1d457b229f53f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/adchimneys/lang/en_us.lang"
+hash = "41d76195e289b45e9f1309162672f8a35881922b4b18682fa521620556749526"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/lang/en_us.lang"
@@ -1760,6 +1830,10 @@ hash = "7af8e447e647425e805ed3f1ab7b1ed95e5a8cbc6f5fc44efacc05573f8706b6"
 [[files]]
 file = "resourcepacks/Daedalian/assets/mist/textures/environment/moon_phases.png"
 hash = "c819a41b734cd5bc20dda1c083ea03402ba87a7de06359535e4ff616ccc9fa0f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/teamsmod/textures/gui/buttonsmall.png"
+hash = "ddec308141c88b633bc61b745b77f9098cfcc52b3b4c0f86a2d4a34c80ce3117"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-black.png"
