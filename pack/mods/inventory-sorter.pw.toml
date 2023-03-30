@@ -1,0 +1,13 @@
+name = "Inventory Sorter"
+filename = "inventorysorter-1.12.2-1.13.3+57.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "963c9943f0df194c0484ef038f2f7a7684b2d0e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2546769
+project-id = 240633

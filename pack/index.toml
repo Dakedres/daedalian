@@ -122,7 +122,7 @@ hash = "bdef0e01c11387eff895508b6c01cc0d308035376d367cefb09f7c1c053d8bb9"
 
 [[files]]
 file = "config/MatterOverdrive/MatterOverdrive.cfg"
-hash = "3da214787ec2fe22bc353a3a62d252d2ab089bab3ac48af3357586e03a124bb9"
+hash = "0f912f36541b8f23b70ed44bc4d0916748d42323c1758ab05937b90614260603"
 
 [[files]]
 file = "config/StarMaker/resources/starsources/biomes/55_cnc_e_1.json"
@@ -364,7 +364,7 @@ hash = "087d9b07cde1a14e50cb6a67062f2f4f024a717e9e0f0170240064751bc5d34c"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "ff0e2ea60cb6dc0fd0e95948c491c0f82a8e9b625b19b0fd44ece6e97ac3e136"
+hash = "dd897ccf3d4b656feb6583aa03dcb109a6d87489d397320ff1b5aa7d6cbb0339"
 preserve = true
 
 [[files]]
@@ -398,6 +398,10 @@ hash = "a167b3c066a987a0de58b06762997da97cdbf36936784b9faa96945b34be83b2"
 [[files]]
 file = "config/sync.cfg"
 hash = "e5c7ae67a5bc841fe6d99775fe73145b7c3a6ffc37c0f99387610c4e2e734a58"
+
+[[files]]
+file = "config/teamsmod.cfg"
+hash = "5b676c790ac15fa199d1d3a90888f572e905da0f92bd16c08dc8435cdd03079d"
 
 [[files]]
 file = "config/tombmanygraves.cfg"
@@ -814,6 +818,11 @@ hash = "208b225f9b5602a088cca7cb636648947af810670911d4f00a6ad40210b4ccff"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "06788fe0f37434b829757e4df2add84180496c3de12565bcc4098d05c2d68bba"
+metafile = true
+
+[[files]]
 file = "mods/inventoryneko.pw.toml"
 hash = "f189c53747930a523603ad2e87adaa78979e0c115bdd89928869b2fcb84d7fc5"
 metafile = true
@@ -1208,7 +1217,7 @@ hash = "b26d00f96a161f8f4537f85c56725a562059446d6e71e7255491601c4e654980"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/lang/en_us.lang"
-hash = "b0842dfc14de698689fc1861a95eaaa8787a7e095b114fa0c37d6a743c38fe73"
+hash = "5c5b54ac0c95fcb028638d1b059821a6f0f4692bd05d1b461b73e649fc7606c9"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/alabaster.png"
@@ -1315,10 +1324,6 @@ file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mercury_ti
 hash = "5e6859f551f937d71a3c9ed742e8b3a7c5d13526cef3ae90d29d98cbf0e10d94"
 
 [[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mercury_tritanium.png"
-hash = "e09262aea37c64cfef1dc857891ca86893f692da33a7a20ae3b8bb18cf7ad2fc"
-
-[[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_coal.png"
 hash = "83f6993daaf5f79e660d62e1c9cc9280f52438c0aa81cc724bcd119a539ad484"
 
@@ -1421,10 +1426,6 @@ hash = "e1cce8593e6972429d278b584c17385f30a616d68a81b8ac2a04714309f85478"
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_nickel.png"
 hash = "2904b9c4c508e327f2ce5560b4562f8cb2fd96f5a70d6ce26303331e2095f77f"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_tritanium.png"
-hash = "a135ed8f03d07af9c3817e3a119c924f4cc90e5e57f5234dda5ff9ab0791fa18"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_tungsten.png"
