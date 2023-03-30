@@ -237,6 +237,74 @@ file = "config/Weather2/Wind.cfg"
 hash = "31eb957e45085d5e9eeb938e4365c0f04e761258669da87498de7972af9b7a37"
 
 [[files]]
+file = "config/adchimneys/Containers/matteroverdrive_machine_hull.cfg"
+hash = "dcb727411c0641b0288d0ebf6d9887dd1b7cf5af6e6f68d87d6e1a376617a947"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_azur_4.cfg"
+hash = "b56196bc6b791ce19beb883891793508cfd33429b2caf083db72c7bdeb36af8f"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_jelt_9.cfg"
+hash = "006a846ea699cb74c09cd957ef0928b2e58b2969e78b12396db7d85a7155a5fb"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_korp_9.cfg"
+hash = "be5df90d57a0a48ddba2c0445dcff7ab59f49200536ee3bb42ded4b5af2373aa"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_kryp_2.cfg"
+hash = "4fc32effebb331b70ee5a2b5aa1e0e2631b22c171334697c26b637db1e327336"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_lair_14.cfg"
+hash = "4d077117e2fc2ceb21045ecced9a4ee66d4f4b4f9438bb05055287f83290c482"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_lave_7.cfg"
+hash = "f5dd5e8b14d067c34d082f2217fcfdcd0c1bac04863464d9c6897e330e7a2f34"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_mint_11.cfg"
+hash = "111d651e2145ca0c947b64a885eec6bafccebc8192002fd0ba68b9c51b3aa19b"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_reds_1.cfg"
+hash = "28976d1efda59971675bdc538c4e4bad8717da317c9735c4b6bae277254d5eb2"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_reed_1.cfg"
+hash = "ec52a8a06f7e955462718142e55481c9e5c3db66a1f6a76a4264f32e8836efb9"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_roen_14.cfg"
+hash = "df995cde1a8387aebe27647aa9b615dc218a0e741e1595114c8d31f0f2c29249"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_sols_3.cfg"
+hash = "b6adb94daab35e5267356c259f7fc414ca7ddccf84eaf9ad0bc10bf1da7fa929"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_sync_6.cfg"
+hash = "b40c6a6d39894369684f4a13e0108597728cab784b91d9459ce4083af5f98ed3"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_tank_3.cfg"
+hash = "97ce6c279e2ed9d24b885afb1fd4c4d69db1a3dfb27bcb4e88b63bce2a9c0611"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_vect_11.cfg"
+hash = "e9e75ef6f06f5729aa4939e6f4e022649decfadc891b2afeff5ae9ce49d37da9"
+
+[[files]]
+file = "config/adchimneys/Containers/xtones_vena_11.cfg"
+hash = "786af06afb8e9792df0d049d0448eccbb78c8f6fa7bbb8e7cfc12f05506b6fab"
+
+[[files]]
+file = "config/adchimneys/groups.cfg"
+hash = "511d5da4258d0b04e722f9e9dd4479385282bc1004679e320209e58a0a671897"
+
+[[files]]
 file = "config/adminshop/adminshop.cfg"
 hash = "676fda7c73e919142e4681e72efe1ed93d397580048745242cd0234e5fdec9bc"
 
@@ -356,7 +424,7 @@ hash = "087d9b07cde1a14e50cb6a67062f2f4f024a717e9e0f0170240064751bc5d34c"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "ff0e2ea60cb6dc0fd0e95948c491c0f82a8e9b625b19b0fd44ece6e97ac3e136"
+hash = "dd897ccf3d4b656feb6583aa03dcb109a6d87489d397320ff1b5aa7d6cbb0339"
 preserve = true
 
 [[files]]
@@ -390,6 +458,10 @@ hash = "a167b3c066a987a0de58b06762997da97cdbf36936784b9faa96945b34be83b2"
 [[files]]
 file = "config/sync.cfg"
 hash = "e5c7ae67a5bc841fe6d99775fe73145b7c3a6ffc37c0f99387610c4e2e734a58"
+
+[[files]]
+file = "config/teamsmod.cfg"
+hash = "5b676c790ac15fa199d1d3a90888f572e905da0f92bd16c08dc8435cdd03079d"
 
 [[files]]
 file = "config/tombmanygraves.cfg"
@@ -450,6 +522,11 @@ hash = "65b0048eada9ac8b6de452b53a6e687b1296f2e1c55957ab88c1cd621eac32a9"
 [[files]]
 file = "mods/admin-shop.pw.toml"
 hash = "e8b442af87fe31b91ee07bd4ac4f048827b8bf7105d65e0803506366fdf5cb2d"
+metafile = true
+
+[[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "32c06a4f8be53f56b83231d5949312bc2d0289a9c16860623d6a678e2bf8cfa4"
 metafile = true
 
 [[files]]
@@ -803,6 +880,11 @@ metafile = true
 [[files]]
 file = "mods/invclosefix.pw.toml"
 hash = "208b225f9b5602a088cca7cb636648947af810670911d4f00a6ad40210b4ccff"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "06788fe0f37434b829757e4df2add84180496c3de12565bcc4098d05c2d68bba"
 metafile = true
 
 [[files]]
