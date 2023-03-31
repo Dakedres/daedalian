@@ -21,8 +21,8 @@ key_ping.key.goto:0
 key_Galaxy Map:0
 key_Open Spaceship Inventory:0
 key_Toggle Sensor Goggles Mode:0
-key_teamsmod.keycompass.desc:0
-key_teamsmod.keyaccept.desc:0
+key_teamsmod.keycompass.desc:26
+key_teamsmod.keyaccept.desc:27
 key_teamsmod.keyswitch.desc:20:SHIFT
 key_keybind.mist.mask_inventory:48:SHIFT
 key_key.elenaidodge.dodge:-96
