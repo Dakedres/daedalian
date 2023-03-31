@@ -122,7 +122,7 @@ hash = "bdef0e01c11387eff895508b6c01cc0d308035376d367cefb09f7c1c053d8bb9"
 
 [[files]]
 file = "config/MatterOverdrive/MatterOverdrive.cfg"
-hash = "7d259579a16419b22082b6e99abd87e305965fc72ec2f58fc4fef98e10f55758"
+hash = "3da214787ec2fe22bc353a3a62d252d2ab089bab3ac48af3357586e03a124bb9"
 
 [[files]]
 file = "config/StarMaker/resources/starsources/biomes/55_cnc_e_1.json"
@@ -258,7 +258,7 @@ hash = "b7d5c66f34b7f7b7d51b9043bdac045ca75cf4b6ce9b25d5d43fa6ab5a6dbe83"
 
 [[files]]
 file = "config/cofh/world/01_overworld.json"
-hash = "7e38d4dabc3d930fca9183d691a379407fdf2ac23c54173fa472eb96286a481f"
+hash = "292201197b8a42dfa41e8651f6b62469abd531a6c439704d7f6401de28a80bbc"
 
 [[files]]
 file = "config/cofh/world/02_mars.json"
@@ -278,7 +278,7 @@ hash = "a7278f0914529fa9d606ed5c8d2b6d0ad1ec164be7d241fcf944bc1683719437"
 
 [[files]]
 file = "config/cofh/world/05_sol_asteroids.json"
-hash = "a26eed3809657d1a390da26704e67b9d99f3c0ba2811d8005ec683c483c420d7"
+hash = "9b700a1ddbf590d4a8c9849841859e425c38d9f9f10280011f535ac1c783115c"
 
 [[files]]
 file = "config/cofh/world/06_venus.json"
@@ -286,7 +286,7 @@ hash = "096968ee7e16b47c2303165a29077ac6bf4020ddecf4c2fbd362b3b4781dad0d"
 
 [[files]]
 file = "config/cofh/world/07_mist_up.json"
-hash = "d16e1450b41b5aedf3a7c51536c0774288d5dd92b1cee71235e7c1d8edc20ca4"
+hash = "3b33123155c0960751697a50dc1cdf282d33a522f9245f926ca4881217f48dc9"
 
 [[files]]
 file = "config/cofh/world/08_mist_down.json"
@@ -298,19 +298,27 @@ hash = "9ed9f2c04ccdb2ebee1b5c54116c0c6749155feae5a02096cd1ddffc93d5af63"
 
 [[files]]
 file = "config/cofh/world/10_glacidus_bottom.json"
-hash = "c3e56bc9ebf6c59b91ddb265dea16010d9fc93d3aa76a6e44fb339ac64f0d887"
+hash = "edf6725fe66948bfbc3a9543b78ee17e7767b73029e157ab95c4539ac75b1180"
 
 [[files]]
 file = "config/cofh/world/11_proxima_b.json"
-hash = "1c70d942d9dfae9a3de1bff607ac1a2a52070020b77160a0d696c80b5e0e3867"
+hash = "6d3386717b69cf457f840a14fdfc6e1eb3d91aa174189f042338304274d6316b"
 
 [[files]]
 file = "config/cofh/world/12_barnarda_c.json"
-hash = "1c2ba23b81765efadc46caa18e117119538f53ec44f4cf0275bc357d24e513ee"
+hash = "ebc5410e87b0c0c5952a8334bc7d7008cceeb2ab36edf00ef47fea9836010a03"
 
 [[files]]
 file = "config/cofh/world/13_midnight.json"
-hash = "e6259c6864345c8da9018c83922abdff7138808c3d7cd9f9ced0a3888a01a432"
+hash = "4d061d62c9f7539463ec86bb8d207002e8271cf9d15429355deec86058e1a76f"
+
+[[files]]
+file = "config/cofh/world/14_tauceti_ocean.json"
+hash = "9cb4002aaac23f349e20b7be8be640fcac8a996c9ad3ffb4636f262194f96f27"
+
+[[files]]
+file = "config/cofh/world/15_tauceti_deep.json"
+hash = "374667b1f23975a366769bc15b0b2c6254ced8464d3a8908739fcd3cbb079060"
 
 [[files]]
 file = "config/cofh/world/config.cfg"
@@ -340,7 +348,7 @@ hash = "94aaa1aa5219ef9bc2a6694b0a0e306480441590900542c97cb081b6932fa4eb"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
-hash = "8067307412e48985935a0496fa41d055739b1eab2200117e317471062a171851"
+hash = "343e9b2890110f353cfca6d3a371758a1828e81b4d61ae461c35e63765db6fdb"
 
 [[files]]
 file = "config/itemdamagerebalancer.cfg"
@@ -996,11 +1004,6 @@ hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
 
 [[files]]
-file = "mods/pollution-of-the-realms.pw.toml"
-hash = "78bc62f80a99269f9020c36901663b509914f961aa54b7b6fb4690a213c5bd58"
-metafile = true
-
-[[files]]
 file = "mods/portal-super-cache.pw.toml"
 hash = "a0eb1a81525417c3c164cbdb7821237ac219fbe0307929f84f2d3aa3e5d78eb4"
 metafile = true
@@ -1196,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2a0cfe2e47ce9feab1341bc48ec449f9c06ac86ce196e7a3c8c9b3bb6e3e36a7"
+hash = "ff0429beca533ce29a803e0d0c33df3182054652f2313477a02a7615526a6337"
 preserve = true
 
 [[files]]
@@ -1205,7 +1208,7 @@ hash = "b26d00f96a161f8f4537f85c56725a562059446d6e71e7255491601c4e654980"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/lang/en_us.lang"
-hash = "7ea5b0c0ff20275b1f7439f6882c1cc090169a4e39d2dd7fa10b6d0bd6d587d5"
+hash = "b0842dfc14de698689fc1861a95eaaa8787a7e095b114fa0c37d6a743c38fe73"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/alabaster.png"
@@ -1217,139 +1220,151 @@ hash = "2e1f63c48d2a44a69264cbc29739a39e7af611301ba536bf3e4b3b0751a3f48f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_boron.png"
-hash = "093727f78c9184e362613e72296f1148b25eaca567447476cbad96e70434dc43"
+hash = "d124b9e3647ebec43d0f27ee232b62d969a9e88c2b8e65873dd6ebede77897a0"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_lead.png"
-hash = "b510e14a8e37920bb40a8faf33cb4afa54bd1181ed063ca5495295909bc93128"
+hash = "d4a6c5fbb4132625ddb95929478ca4f4a4cf37dfa2ccde4948a548b4e9b889e7"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_salt.png"
-hash = "e95d72526e1e000b3a33ed9c98398e8de1ab17b76b9be1d53a131659781d7cbd"
+hash = "a08f5e4ad1049f9189b3b4e60eb20d0f5b5c4ccd9c7e702743f7a61332b2c0cd"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_silver.png"
-hash = "4cabd74a943548a69db34ae1bc484f9cfc611e4f6ace989dd7080b77fa8b3757"
+hash = "a2595f97834f0729482efed0bd56b78e8613810694a822d9ba78e9051bd79f09"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_thorium.png"
-hash = "a38a868fd32153980be18ee5373b1f613c208cb4f56fa01002d7407b041e3b05"
+hash = "e9daa240bce38b282fdec98282548c9dd04afd8cd8dfe18850daf488b5082969"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_titanium.png"
-hash = "d11c1be44afa87e2aaa5dd2307caa2715d498be51d7fb338019a9b5a52109638"
+hash = "e92a05b1493810c94a792cf4918df221ce92f9e4b67da9ddf2b03c7fc555c9c1"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/barnarda_c_uranium.png"
-hash = "5418bcc00751f0ed5f3292db86cf9f2cd73f12ed8588245d5c3c1de23aeb74b8"
+hash = "70a3c42484573808974b071ffe9484ec0f1e7c9de74d0d3b9716b0dfe63cb844"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/composite.png"
 hash = "bcc417d97d6975775a458b839d2c5034a5caea3409da7e8b8daabce235d81e67"
 
 [[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_bottom_dilithium.png"
+hash = "fca951e60604316ca2e04b30a1038fdfce22fe491e0546eda96065219bdad1dd"
+
+[[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_bottom_quartz.png"
-hash = "8e11c796d786a6fc3e3c120ce763ec7987aaf29520913f10633bc170e0e2f2fa"
+hash = "fdccca00dfadd662c17d3bfbf6f9ef95c8f661dbff315cba3bfcf48a46315e5b"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_bottom_redstone.png"
-hash = "43d3e7250637d2a6bd2b0b0358750ee4e04424f33fcd30a33f276f46b13bd5b5"
+hash = "69d3fff0c30e169cb0d2a92645d7d1c9edf31d950058d4f9af3d4cea567b1f2b"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_middle_boron.png"
-hash = "d3c2f62447240ebaa1e1b6dde62f1371ae3d1fc96247f1ba580b9202118eb853"
+hash = "bdbf8eb107fbfe194faa38c016435d004bb8fbcaab840272422368a5f7e10a25"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_middle_gold.png"
-hash = "415d1e36cea9e90b798a2af0a8fe52c2cac416fbf550f47168c3bd86aa0d6c42"
+hash = "71cf6956af9721d953ec7c41b823db2f3b1658409311e2216862e7da3879b691"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_middle_lead.png"
-hash = "124b492e6da947ff8f04f48799c628dc40445112f05c7b41a8900be9d0d27ae5"
+hash = "c6326ad962c76f6aa45b9527c97698685a00e2c16d07cf48b5ca03d238cc5cf6"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/glacidus_middle_silver.png"
-hash = "cf85047b7b00fe5059be2d11b6bb68eafd79e6fd45dc5998c16756e12d793465"
+hash = "c62466e57b382ded7f703b131796a6be99d6f24b3f814a95f181cfe094684748"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/janssen_diamond.png"
-hash = "40dadcf804017eab826f3540d33c5875faffb46b7f33bec05c5198d1e7f543c4"
+hash = "79bd7615d06a99ef3960ea94ca2724c7e3fbb04056a1eac04d4fa194d7a43a10"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/janssen_ruby.png"
-hash = "ced069115f41495933f41a1e55645c17ca90a37cdd7b8770e09b8fba9b467963"
+hash = "25819d3868a65fa7ccaf3556bd4866ec0c08367c4ad4ccb689b9823d2eb7226f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/janssen_sapphire.png"
-hash = "61305ac57765c68a3a929a13761289b550b24f6b309ac19a341507a3f821690f"
+hash = "f418937fa28590f84bdfc1518ab9c6a9d04ea0a63619122a8a1e16d504be3b6d"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/janssen_thorium.png"
-hash = "e0aff6e490d6f9f90d7c2461c2cca2454fc2dc470e6825f3d64f75361e39e2a1"
+hash = "6227db1a4442044b852e1beffcee7712f39cea3be8f170e95c4264fa8ff10377"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/janssen_uranium.png"
-hash = "7eb7c6c67d3cb656b454f7b0179b73c89062499c10569ac9772187bb0649777d"
+hash = "98b577ccac713688640bd8e23451d5355eee97ef262238713b6bb5054b2cafd1"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mars_boron.png"
-hash = "86ac29f08cc8f7b1f002aeafa01bd8d16fb4f95139423e37cfa9ba020f80f09d"
+hash = "2d05a5c9be8afba090935133f70a874a4244cdc586ad79abf9e373583c041151"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mars_platinum.png"
-hash = "7d7261d3e8e41afe4f4fef597853d55374c888195e7eaf9d3afbc5ea5b9a5624"
+hash = "3358f581a4cfdb446e4931870ab5f71e96dd273b47dfa31a4c67f6bbdab0e1cb"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mars_uranium.png"
-hash = "feeb06304d082b1db2aefe5b6669e308423a3191caff5ed7055bdd1e23472dfa"
+hash = "917b0accd533e7144055814bda488648ba3089760b0308f9107fc7936ca1bb2f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mercury_titanium.png"
 hash = "5e6859f551f937d71a3c9ed742e8b3a7c5d13526cef3ae90d29d98cbf0e10d94"
 
 [[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mercury_tritanium.png"
+hash = "e09262aea37c64cfef1dc857891ca86893f692da33a7a20ae3b8bb18cf7ad2fc"
+
+[[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_coal.png"
-hash = "e5a310a51f42e7901279d8d2ee7ee79a818b4012df27d674a8d98fcf7ea51361"
+hash = "83f6993daaf5f79e660d62e1c9cc9280f52438c0aa81cc724bcd119a539ad484"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_dilithium.png"
+hash = "fca951e60604316ca2e04b30a1038fdfce22fe491e0546eda96065219bdad1dd"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_fluorite.png"
-hash = "3011a7243f54b65a80328014d62f827e55375cff2189be6ca88a9a168d4987ee"
+hash = "bc309a1d616d26e6972a25a4657782ddcffd688b2a6de7eb0043dfa8b2525ef5"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_magnesium.png"
-hash = "fa41e085c36615f00ea6c5d05b55db9b013d1643f98e429ea93eb8958c8636b5"
+hash = "4185a13c0a88f777827f4ee950d446fab93c3531091f6a0920796290f8ed6d52"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_quartz.png"
-hash = "c3de171090910e4287c3a3bbd65cfe26bbfebb359ce0ab8b7385889f9940c10a"
+hash = "cc05dbcef82b1d1b0e7c1d1c17d36304c05548703a7471be793a8b51c21950af"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_tin.png"
-hash = "49581a541f46677239fdc137ca14878d58ee0b70fbff171a79b751e3f908046c"
-
-[[files]]
-file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/midnight_zinc.png"
-hash = "04a284857bc72e58f7b6f3d01def37a9bb4f5eefa9242293add292a3bc31e6b1"
+hash = "2635b65dce4056ce829be07a993c55f85c4ed1d097d1e1280062bff4cfe59d06"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mist_down_boron.png"
-hash = "c547c22abc892eeb3d0797304a2194dd690430d065dfc777c867949c31a4a76e"
+hash = "a0bfb22531ab80fdd20a1fee59a0f41d9ba32a5a4b077d7bd90506163f10f72d"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mist_down_fluorite.png"
-hash = "7615efd783f6446651aaadd98319fca429bd1284f6e1902d2f33c00eef01ef0a"
+hash = "7d1903d9de9590c021849dd36f90a3c1734581e03a61d20d1b11d3a46a012558"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mist_down_thorium.png"
-hash = "230e86f1473e4864db46c4078d86e224066f740ac0181e468427f57cfbef28b1"
+hash = "74ae09740f0fd857c7965ced4a5c4985f243e5a960fb78b4c24da3b3ffd45c71"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mist_down_uranium.png"
-hash = "cff800dcb9be39929ab3de7abe5075cac38514f1aeae42c4575db35c5193a43d"
+hash = "d8a3b34fc531033943550c4fd8739ff4f59212fc8c8dc27aa1349d4f1cf30248"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mist_up_aluminum.png"
+hash = "e7abfb5d50c08fe4117258cd3e2859bc7abd77c0a0628080f9cbe4de00739b5d"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/mist_up_copper.png"
-hash = "2db736b18a55bd1184dc2a1b7bb73f31520d144eda356cbcf9bcaee65a92c265"
+hash = "1d86186dec309f7813c27ab6926f2f364c2742771db6076d8cb925d03547af9e"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/obsidian_sand.png"
@@ -1361,19 +1376,23 @@ hash = "6332aca2f645dbd7f32097f96ff605eb7699722b6e3f03f04ca2e4c115e7fed6"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/proxima_b_nickel.png"
-hash = "d0d94d4b8373b11fcf67a24efceb4f96473f17aedc0ba2b6b7eea441f7c0b61a"
+hash = "8f0d6a211930db4aa9c86bd854b80933d526555563ed0ff8d7d6f2672f80c096"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/proxima_b_platinum.png"
-hash = "b42aa6e0d173f7993503b04f0b0fbd2d8f37298257ced2a98887e464c28cf972"
+hash = "873cb75175067d327e107d983b745a797d27319344d794f23c5ef9e1f68ef824"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/proxima_b_thorium.png"
-hash = "c1e6db3afc4b89e5812fa94698aa306d0f756eed24d28371d9adc685d97cc370"
+hash = "b0ec37c563b37a7ecb4536fd831aba711a240ee6592e8718a4f261bc7212c5a8"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/proxima_b_tritanium.png"
+hash = "b33be562f8cc51ca9bbdce3cace6708e38446b8945b92c8d1b53de1dbb225cf2"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/proxima_b_tungsten.png"
-hash = "cde82bafdcd9e4008cad8a5e8a2ec85440b704b11060e06b1d5da113e9f9ae43"
+hash = "3d047acb8f92a47c3e33dcbfd00bdeda5a2a5acb05f51f923afb6b753eef78b7"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/slade.png"
@@ -1392,24 +1411,32 @@ file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/slade_colu
 hash = "d5ae6949d7f137907a8256a3564161b39c29900c2e91e8f1ab67fd8d602c7986"
 
 [[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_dilithium.png"
+hash = "fca951e60604316ca2e04b30a1038fdfce22fe491e0546eda96065219bdad1dd"
+
+[[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_lithium.png"
-hash = "226dee13ad83ed34cf550b70896eff3daa4e9bc20cff74ce2d951411159bdd66"
+hash = "e1cce8593e6972429d278b584c17385f30a616d68a81b8ac2a04714309f85478"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_nickel.png"
-hash = "91557e1ab5c93288117e1ff64eb15ff7ef1fb8249f332b76514bd4fdc9760024"
+hash = "2904b9c4c508e327f2ce5560b4562f8cb2fd96f5a70d6ce26303331e2095f77f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_tritanium.png"
+hash = "a135ed8f03d07af9c3817e3a119c924f4cc90e5e57f5234dda5ff9ab0791fa18"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/sol_asteroids_tungsten.png"
-hash = "2ca0355aacba7107bca272de495bcf7d30cd89d9142550b0ca8cb44065940b60"
+hash = "a91ac09f8fea705e11954da84d7b89fc2856488b6dcb36cfd8840f48294f2054"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_aluminum.png"
-hash = "0b7620834bb135fbe511159f429319520c76898d0efff26e8c6bfba70f799791"
+hash = "e7cbf15444ab5494b8d83dd4068a71e3616d77e30639bcff98f320a7739373a5"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_copper.png"
-hash = "ea8a5a1f1635fe4b8e8a38ac432fba6a958a81ef5189c8021c118ea6e9908c43"
+hash = "74ec08937ead00a2963f181cf1e75bb0eceec05079d0212bc7f8d7e159b2ed9f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_diamond.png"
@@ -1421,51 +1448,123 @@ hash = "f57a2ab64f98f7aba4bc7ece5da13668c944c2fc842f5f4721662f256a94b8f7"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_gold.png"
-hash = "db048da01e9cdc37e4c7b5f139727d2d689f25adc1a810bf46f40dcca448d272"
+hash = "9bfd962804a334e33b553b7172b8f4752e0e82e3f2b0d2e19f0ace1b43406123"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_iron.png"
-hash = "eaaf01ad16878a64fb3aa21aa47cbe1577337eb547f05bb3987de911dfbcd785"
+hash = "106273b90bffa3e807dc6bf2a2c3304aefc39d963bfef95ae080b39ee7551a5a"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_lead.png"
-hash = "364ce4c082a7a52cbd820b9f046723727523adf200ee0e3d4dc9f56cbef2b0ad"
+hash = "9da17c32337768d8b8923c41d1c62bae3ac6ff6515bd66b5fced2a6a676baca9"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_lithium.png"
-hash = "84f4812609ef219895022af5713c6fc7d49de453190bf1adaf7a45cd5089e9b0"
+hash = "bdb7e1dfd468c6c32682398cf4e50cf9200cd581fdf6a228661999857fcd75a6"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_magnesium.png"
-hash = "5e90b9964d36c89ab74384d3aad2d0bab8b65381ce82add9656845080ad275bf"
+hash = "220b2564a6c8405cc861dd46fb0cd1acddf23552ee69894e815d957e22fbc697"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_redstone.png"
-hash = "4bcd9a4e9785d0893d5a91a553c00ed6c1b6bd9ccfbb15283d03495b8e7899b0"
+hash = "e01af50dae8fa6f1318886272c418486d0fc5714194ba8a3dda0e79ff9e8111e"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_silver.png"
-hash = "c2c41ff0a8ae3e20127f8fbd5f23202d14033bda6a3f4150006a54e451bef279"
+hash = "d7cd66331d7ae04fe8b755b00bf811f185488d29a99d2db2783dcd9afe80572a"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_thorium.png"
-hash = "61c2e3fd70788ba6f9c14aa32357c6010b2864479e9e76ca1f7be552c04133a1"
+hash = "8b85a1a089f7718a7ca19d7946cb600a4454cf389c8e27c592ef1d3038df0123"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_tin.png"
-hash = "9b0a06fc61b07503d42a6281778aa6b77e01e776bbaa65c75ea933d74ba93083"
+hash = "acf416beda0d988f647c6a1ad7e4ccd5e899bdbd4ecbd37cd2ce61225eb3262f"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/space_uranium.png"
-hash = "f2f032fc3ba477a3e23fbc1fa8b1bbfce339f2ed5b47ec5d393677369a1cdb79"
+hash = "18fd8256e47cda3e7cfd4467be014edf0e1cf5124b5e25a1f9cfa451d1b7f6f5"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_aluminum.png"
+hash = "c079a4574db4910cd3b079aeeb274f25defb6986a51ef17e2bea81c1de587811"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_boron.png"
+hash = "204e41f31c42625e36a8f0a1ded91d54bbee364ce129510b2eb6a6241a7d2ed2"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_gold.png"
+hash = "db89dfa785a429065cea2982b9f5467cd75b8727123d6eff9881ecd3f1efa37c"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_iron.png"
+hash = "9a7f1915256907ec4a8346e3d776e3efac09542e0273437e113b02f0742575ae"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_lead.png"
+hash = "de8d663c085f33e6b1cc3379aad7ef04dca05f8f53226166145a041a511d2c82"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_lithium.png"
+hash = "0643532ce3771139913a72a56e8645550ccce9ea9d99225440a98cd18684925f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_nickel.png"
+hash = "69b074f19f3cb466b1e503f61894669b1f3886d616e637097a83b42596abf0dd"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_silver.png"
+hash = "001591b2d115e2a157091e85f0816a1354bbafed6d7082e52aae794e8dc26077"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_thorium.png"
+hash = "7fdb9c1d2cb402bca82acca9590d88c793e731a1ef9d18fd9b9120064e8c27df"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_tritanium.png"
+hash = "e1ee441ef9065f7410dd7c75973fe4bd6de99ff07408d430bea506682ecfad42"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_tungsten.png"
+hash = "2186790bf704c9e11475382ec8a9085e1d3f035bfb5989c88396d1a2627910bc"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_uranium.png"
+hash = "5b621ab4a6916570f4924e612cacd31f46f2d943379621c2f3f56e0930c7400b"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_deep_zinc.png"
+hash = "0609e5e0a21df0223ec349ac24eb9009aae900b4e578874c519509d43585d270"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_ocean_coal.png"
+hash = "8490e3c1dd73932836e3bc651fb02d5a9009e06c52b4b2d07a1f3ae56f8e4ebe"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_ocean_copper.png"
+hash = "a390d0458fc08088dc31778892a0790c2a45ea1cc434927e1e8889525c254b55"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_ocean_iron.png"
+hash = "b71d4f84a25a6fc05eee1dbc0cd457463820f7b83e357d881fc3cb6045ebdaf3"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_ocean_lithium.png"
+hash = "1be2fffa8afadeac4a2e252be218d04bb975ce0184e03d49282498baa27e3191"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/tauceti_ocean_salt.png"
+hash = "63cd115cfd937eaccc117a22f6e6d6adcfd83c7e2425f9979486d791c93482c9"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/venus_magnesium.png"
-hash = "20b92591c5ed0e0941a122c4b9635213ffef0f874b820c7c694a4b2f5bae7580"
+hash = "5cf965a65821fce521228b5557c09a659f62020a0d61a0ab0cf3d0de6720ef50"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/contenttweaker/textures/blocks/venus_zinc.png"
-hash = "9d0edec27931003603b6b9f3b9a2f77cd7b1cf66a5177f4e2d0466a91771f750"
+hash = "6234f9a2157079048662ebfe20bd948959aaf97cadbff91ab7e5864ed19dbc33"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/daedalian/lang/en_us.lang"
@@ -1678,6 +1777,10 @@ hash = "7af8e447e647425e805ed3f1ab7b1ed95e5a8cbc6f5fc44efacc05573f8706b6"
 [[files]]
 file = "resourcepacks/Daedalian/assets/mist/textures/environment/moon_phases.png"
 hash = "c819a41b734cd5bc20dda1c083ea03402ba87a7de06359535e4ff616ccc9fa0f"
+
+[[files]]
+file = "resourcepacks/Daedalian/assets/teamsmod/textures/gui/buttonsmall.png"
+hash = "ddec308141c88b633bc61b745b77f9098cfcc52b3b4c0f86a2d4a34c80ce3117"
 
 [[files]]
 file = "resourcepacks/Daedalian/assets/warpdrive/textures/blocks/hull/plain-black.png"
@@ -2293,15 +2396,15 @@ hash = "644ab6e9cf466625878af4632bc34055001697878e763364a6d5ff4d35a1f5c1"
 
 [[files]]
 file = "scripts/ore_dict.zs"
-hash = "fe82fb9a7c005c5a1b7ed4b5f891de4955be2358c9a7a386c14bc178ce8ffe35"
+hash = "0a54906bf887561a01e70784b914df172d3d3ae363d0b4e98b7dcd3e1235042e"
 
 [[files]]
 file = "scripts/ore_setup.zs"
-hash = "d13ee690514ba3e722046e1a4377f510a4c8dbe7768fc7c61735d9572d9abfa4"
+hash = "e7e3739604e5900172458692f004a284314e62f613e2663c49e066730036983d"
 
 [[files]]
 file = "scripts/ores.zs"
-hash = "20edd32f059a60b5a83ab6e00251ed2a37c3bfeb950b127bebf7b2c773b5a3cb"
+hash = "75b26dbb4d9df85779ce7c048f2f2c3fa8730b3b9b59cabc78e0fda17190ba81"
 
 [[files]]
 file = "scripts/removed.zs"
