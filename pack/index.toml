@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+hash = "6a9f8707c2c33dbf5cc8221804ccf505617aa86d020185eb9ccf091d1646bb49"
 metafile = true
 
 [[files]]
