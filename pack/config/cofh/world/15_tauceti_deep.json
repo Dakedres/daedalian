@@ -1,0 +1,301 @@
+{
+  "namespace": "tauceti_deep",
+  "populate": {
+    "zinc": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_zinc"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 8
+      },
+      "cluster-count": 2,
+      "min-height": 35,
+      "max-height": 95,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "tritanium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_tritanium"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 6
+      },
+      "cluster-count": 10,
+      "min-height": 40,
+      "max-height": 64,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "lithium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_lithium"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 28,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "iron": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_iron"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 12
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "gold": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_gold"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 9
+      },
+      "cluster-count": 2,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "tungsten": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_tungsten"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 6
+      },
+      "cluster-count": 3,
+      "chunk-chance": 2,
+      "min-height": 0,
+      "max-height": 35,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "aluminum": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_aluminum"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 8,
+      "min-height": 40,
+      "max-height": 85,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "nickel": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_nickel"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 2,
+      "min-height": 5,
+      "max-height": 20,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "boron": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_boron"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 28,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "lead-and-silver": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "contenttweaker:tauceti_deep_lead",
+            "weight": 90
+          },
+          {
+            "name": "contenttweaker:tauceti_deep_silver",
+            "weight": 10
+          }
+        ],
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 8
+      },
+      "cluster-count": 4,
+      "min-height": 10,
+      "max-height": 35,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "thorium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_thorium"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 3
+      },
+      "cluster-count": 3,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "uranium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_deep_uranium"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 0
+        },
+        "cluster-size": 3
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    }
+  }
+}

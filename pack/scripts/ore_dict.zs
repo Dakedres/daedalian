@@ -3,6 +3,14 @@ import crafttweaker.item.IItemStack;
 <ore:dustNiter>.add(<immersiveengineering:material:24>);
 <ore:dustSodiumNitrate>.add(<immersiveengineering:material:24>);
 
+// These aren't plates what 
+<ore:plateCopper>.remove(<galacticraftcore:basic_item:6>);
+<ore:plateTin>.remove(<galacticraftcore:basic_item:7>);
+<ore:plateAluminum>.remove(<galacticraftcore:basic_item:8>);
+<ore:plateSteel>.remove(<galacticraftcore:basic_item:9>);
+<ore:plateBronze>.remove(<galacticraftcore:basic_item:10>);
+<ore:plateIron>.remove(<galacticraftcore:basic_item:11>);
+
 // Utilities
 
 val utilityItems = [

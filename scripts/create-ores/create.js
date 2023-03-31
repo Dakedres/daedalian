@@ -36,7 +36,6 @@ const insureDir = async (path) => {
 }
 
 let [ assetDirPath, scriptDirPath ] = process.argv.slice(2).map(path => Path.isAbsolute(path) ? path : Path.join(process.cwd(), path))
-let ronin = new Ronin(__dirname)
 
 let main = async oreDump => {
   let allOresDump = Object.assign(oreDump, require('./extraGroups.js'))
@@ -75,6 +74,9 @@ let main = async oreDump => {
         let shadowOverlayPath = createPath('overlays', oreTextureSettings.shape, 'shadow')
         let lightOverlayPath = createPath('overlays', oreTextureSettings.shape, 'light')
         let outPath = createPath(Path.join(assetDirPath, 'contenttweaker/textures/blocks'), planetName, oreName)
+
+        // Instantiate it for each texture or else we're just generating our textures over the old ones 
+        let ronin = new Ronin(__dirname)
 
         await insureDir(outPath)        
         await ronin.run([

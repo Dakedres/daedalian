@@ -63,7 +63,8 @@ module.exports = [
     ores: {
       lithium: noHeightRestriction,
       nickel: noHeightRestriction,
-      tungsten: noHeightRestriction
+      tungsten: noHeightRestriction,
+      dilithium: noHeightRestriction
     },
     stone: {
       name: "galacticraftplanets:asteroids_block",
@@ -95,6 +96,7 @@ module.exports = [
     namespace: 'mist_up',
     ores: {
       'copper-edge': {},
+      'aluminum': {}
     },
     stone: "mist:stone"
   },
@@ -106,7 +108,7 @@ module.exports = [
       'fluorite-cave': {},
       boron: oreDistribution(2),
       'uranium-cave': {},
-      thorium: oreDistribution(1)
+      thorium: oreDistribution(1),
     },
     stone: "mist:stone_porous"
   },
@@ -133,7 +135,8 @@ module.exports = [
         'min-height': 18,
         'max-height': 30,
         'chunk-chance': 2
-      })
+      }),
+      dilithium: oreDistribution(6, 4)
     },
     stone: "glacidus:thawed_antinatric_stone"
   },
@@ -147,6 +150,9 @@ module.exports = [
       tungsten: oreDistribution(2, 4),
       thorium: oreDistribution(3),
       platinum: oreDistribution(2, 8),
+      tritanium: oreDistribution(12, 4, {
+        'max-height': 40
+       }),
       // coal: oreDistribution(25, 2, {
       //   'min-height': 60,
       //   'max-height': 75
@@ -202,7 +208,6 @@ module.exports = [
     dimension: -23,
     namespace: "midnight",
     ores: {
-      zinc: {},
       'fluorite-cave': oreDistribution(6, 6, {
         'ground-level': 60
       }),
@@ -212,10 +217,50 @@ module.exports = [
       'quartz': {
         'min-height': 0,
         'max-height': 35
-      }
+      },
+      dilithium: {}
     },
     stone: {
       name: "midnight:nightstone"
+    }
+  },
+  {
+    number: 14,
+    dimension: -1338,
+    namespace: "tauceti_ocean",
+    ores: {
+      coal: oreDistribution(20),
+      lithium: {},
+      copper: oreDistribution(8, 10),
+      iron: oreDistribution(20, 12),
+      salt: {}
+    },
+    stone: {
+      name: "galaxyspace:tauceti_f_blocks",
+      metadata: 2
+    }
+  },
+  {
+    number: 15,
+    dimension: -1338,
+    namespace: "tauceti_deep",
+    ores: {
+      zinc: oreDistribution(2, 8),
+      tritanium: oreDistribution(10, 6),
+      lithium: {},
+      iron: oreDistribution(20, 12),
+      gold: {},
+      tungsten: {},
+      aluminum: {},
+      nickel: {},
+      boron: {},
+      'lead-and-silver': {},
+      thorium: {},
+      uranium: {}
+    },
+    stone: {
+      name: "galaxyspace:tauceti_f_blocks",
+      metadata: 0
     }
   }
 ]

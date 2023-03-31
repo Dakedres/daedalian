@@ -30,6 +30,27 @@
           69
         ]
       }
+    },
+    "aluminum": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:mist_up_aluminum"
+        },
+        "material": "mist:stone",
+        "cluster-size": 4
+      },
+      "cluster-count": 8,
+      "min-height": 40,
+      "max-height": 85,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          69
+        ]
+      }
     }
   }
 }

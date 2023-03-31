@@ -79,6 +79,32 @@
           -30
         ]
       }
+    },
+    "dilithium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:sol_asteroids_dilithium"
+        },
+        "material": {
+          "name": "galacticraftplanets:asteroids_block",
+          "properties": {
+            "basictypeasteroids": "asteroid_rock_0"
+          }
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 4,
+      "min-height": 0,
+      "max-height": 255,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -30
+        ]
+      }
     }
   }
 }

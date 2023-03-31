@@ -1,29 +1,6 @@
 {
   "namespace": "midnight",
   "populate": {
-    "zinc": {
-      "distribution": "uniform",
-      "generator": {
-        "block": {
-          "name": "contenttweaker:midnight_zinc"
-        },
-        "material": {
-          "name": "midnight:nightstone"
-        },
-        "cluster-size": 10
-      },
-      "cluster-count": 2,
-      "min-height": 35,
-      "max-height": 95,
-      "retrogen": "true",
-      "biome": "all",
-      "dimension": {
-        "restriction": "whitelist",
-        "value": [
-          -23
-        ]
-      }
-    },
     "fluorite-cave": {
       "distribution": "cave",
       "generator": {
@@ -139,6 +116,29 @@
           }
         ]
       },
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -23
+        ]
+      }
+    },
+    "dilithium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:midnight_dilithium"
+        },
+        "material": {
+          "name": "midnight:nightstone"
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 4,
+      "min-height": 0,
+      "max-height": 35,
+      "retrogen": "true",
+      "biome": "all",
       "dimension": {
         "restriction": "whitelist",
         "value": [

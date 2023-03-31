@@ -1,0 +1,130 @@
+{
+  "namespace": "tauceti_ocean",
+  "populate": {
+    "coal": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_ocean_coal"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 2
+        },
+        "cluster-size": 17
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 128,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "lithium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_ocean_lithium"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 2
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 28,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "copper": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_ocean_copper"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 2
+        },
+        "cluster-size": 10
+      },
+      "cluster-count": 8,
+      "min-height": 40,
+      "max-height": 75,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "iron": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_ocean_iron"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 2
+        },
+        "cluster-size": 12
+      },
+      "cluster-count": 20,
+      "min-height": 0,
+      "max-height": 64,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    },
+    "salt": {
+      "distribution": "underwater",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:tauceti_ocean_salt"
+        },
+        "material": {
+          "name": "galaxyspace:tauceti_f_blocks",
+          "metadata": 2
+        },
+        "radius": 2
+      },
+      "cluster-count": 1,
+      "chunk-chance": 6,
+      "min-height": 55,
+      "max-height": 95,
+      "retrogen": "true",
+      "biome": [
+        "minecraft:ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_ocean"
+      ],
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1338
+        ]
+      }
+    }
+  }
+}

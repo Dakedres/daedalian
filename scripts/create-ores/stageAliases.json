@@ -1,6 +1,8 @@
 {
   "mist_up": "mist",
   "mist_down": "mist",
+  "tauceti_ocean": "tauceti_f",
+  "tauceti_deep": "tauceti_f",
   "glacidus_middle": "glacidus",
   "glacidus_bottom": "glacidus"
 }

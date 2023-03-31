@@ -157,13 +157,18 @@
             "type": "barnarda_c_stone"
           }
         },
-        "radius": 4
+        "radius": 2
       },
       "cluster-count": 1,
+      "chunk-chance": 6,
       "min-height": 55,
       "max-height": 95,
       "retrogen": "true",
-      "biome": "all",
+      "biome": [
+        "minecraft:ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_ocean"
+      ],
       "dimension": {
         "restriction": "whitelist",
         "value": [

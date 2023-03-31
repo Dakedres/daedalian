@@ -41,7 +41,7 @@
 				]
 			}
 		},
-		"bauxite": {
+		"aluminum": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -356,14 +356,19 @@
 					"name": "immersiveintelligence:ore",
 					"metadata": 3
 				},
-				"material": "minecraft:stone",
-				"radius": 4
+				"material": "minecraft:dirt",
+				"radius": 2
 			},
 			"cluster-count": 1,
+			"chunk-chance": 6,
 			"min-height": 55,
 			"max-height": 95,
 			"retrogen": "true",
-			"biome": "all",
+			"biome": [
+				"minecraft:ocean",
+				"minecraft:frozen_ocean",
+				"minecraft:deep_ocean"
+			],
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
@@ -384,6 +389,27 @@
 			"cluster-count": 2,
 			"min-height": 35,
 			"max-height": 95,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"dilithium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "matteroverdrive:dilithium_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 4,
+			"min-height": 0,
+			"max-height": 35,
 			"retrogen": "true",
 			"biome": "all",
 			"dimension": {

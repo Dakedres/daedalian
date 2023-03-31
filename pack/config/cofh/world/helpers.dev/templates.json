@@ -17,7 +17,6 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
 				]
 			}
 		},
@@ -38,7 +37,6 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
 				]
 			}
 		},
@@ -58,7 +56,6 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
 				]
 			}
 		},
@@ -78,7 +75,6 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
 				]
 			}
 		},
@@ -108,7 +104,6 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
 				]
 			}
 		},
@@ -129,7 +124,6 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
 				]
 			}
 		},
@@ -151,7 +145,26 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+				]
+			}
+		},
+		"tritanium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "matteroverdrive:tritanium_ore"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 3
+			},
+			"cluster-count": 10,
+			"min-height": 40,
+			"max-height": 64,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
 				]
 			}
 		}

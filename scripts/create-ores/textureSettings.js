@@ -44,5 +44,7 @@ module.exports = {
   'emerald': spotted(),
   'diamond': sparse(),
   'sapphire': spotted(),
-  'ruby': sparse()
+  'ruby': sparse(),
+  'tritanium': base('tritinated', 0.15),
+  'dilithium': base('dilithinated', 0.15)
 }

@@ -106,6 +106,32 @@
           -1025
         ]
       }
+    },
+    "tritanium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:proxima_b_tritanium"
+        },
+        "material": {
+          "name": "galaxyspace:proxima_b_blocks",
+          "properties": {
+            "type": "proxima_b_stone"
+          }
+        },
+        "cluster-size": 4
+      },
+      "cluster-count": 12,
+      "min-height": 40,
+      "max-height": 40,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          -1025
+        ]
+      }
     }
   }
 }

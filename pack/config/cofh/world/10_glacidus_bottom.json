@@ -51,6 +51,27 @@
         ]
       },
       "chunk-chance": 2
+    },
+    "dilithium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "contenttweaker:glacidus_bottom_dilithium"
+        },
+        "material": "glacidus:thawed_antinatric_stone",
+        "cluster-size": 4
+      },
+      "cluster-count": 6,
+      "min-height": 0,
+      "max-height": 35,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          84
+        ]
+      }
     }
   }
 }
