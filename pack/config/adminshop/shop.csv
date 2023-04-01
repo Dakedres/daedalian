@@ -1,6 +1,6 @@
 ,,,
 #Category names for buy and sell. Put the category name in each column after the first,,,
-Buy Category Names:,Technology,Books,
+Buy Category Names:,Technology,,
 Sell Category Names:,Resources,,
 ,,,
 ,,,
@@ -30,12 +30,3 @@ buy,"immersiveengineering:blueprint {blueprint: \"endless_food\"}",20000,0
 buy,"immersiveengineering:blueprint {blueprint: \"cloud_jars\"}",11250,0
 buy,"immersiveengineering:blueprint {blueprint: \"drink_hat\"}",11250,0
 buy,"immersiveengineering:blueprint {blueprint: \"pendants\"}",23500,0
-#,,,
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:5, id:32}]}",1000,1
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:3, id:34}]}",500,1
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:1, id:33}]}",2000,1
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:3, id:35}]}",2000,1
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:1, id:70}]}",500,1
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:4, id:0}]}",750,1
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:5, id:16}]}",1000,1
-buy,"minecraft:enchanted_book {StoredEnchantments:[{lvl:5, id:48}]}",2000,1
