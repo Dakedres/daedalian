@@ -65,7 +65,9 @@ val craftingToRemove = [
   <tesslocator:advanced_item_tesslocator>,
   // Complicates things
   <minecraft:enchanting_table>,
-  <minecraft:enchanted_book>
+  <minecraft:enchanted_book>,
+  // The WarpDrive system for this has far more depth
+  <matteroverdrive:transporter>
 ] as IItemStack[];
 
 
