@@ -242,7 +242,7 @@ hash = "676fda7c73e919142e4681e72efe1ed93d397580048745242cd0234e5fdec9bc"
 
 [[files]]
 file = "config/adminshop/shop.csv"
-hash = "9329fb424f813aa0cbbce1aeee1d803ded3bf22ce648ccba9e40e60779585f45"
+hash = "f34e0d73207afc285fd07917dd83ea259a16d9b6d844194f897581848a3bf6d6"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
@@ -711,11 +711,6 @@ metafile = true
 [[files]]
 file = "mods/foamfix.pw.toml"
 hash = "0edc3c9ddf7e32bd7e3521476489dbe48f2743311f38250f9a37c69f6f3e2643"
-metafile = true
-
-[[files]]
-file = "mods/forgeendertech.pw.toml"
-hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
 
 [[files]]
@@ -2408,8 +2403,12 @@ file = "scripts/ores.zs"
 hash = "75b26dbb4d9df85779ce7c048f2f2c3fa8730b3b9b59cabc78e0fda17190ba81"
 
 [[files]]
+file = "scripts/recipes.zs"
+hash = "bbad04f6a219a9decd5b55bd7814d629287bedcea0ddea17bfb83eeac0f80690"
+
+[[files]]
 file = "scripts/removed.zs"
-hash = "9004f54ee98739cab12e0fa374e73c1b7b832e5016435d4a4e9cdc186c153c0d"
+hash = "921e7134d907069368b14ba5f4ff689c7af2286f34695963fa42eefb20e1b0be"
 
 [[files]]
 file = "scripts/schematics.zs"

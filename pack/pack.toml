@@ -1,12 +1,12 @@
 name = "Daedalian 2"
 author = "Dakedres"
-version = "0.2.1"
+version = "0.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e12796bd0e452ebe9ec88b359a8f6f3c4e033b7b4209266eee4511bf0000a6a2"
+hash = "8bf41aef75b900dc5f08bc231cbd751c8010a72ca9d8eda10871a5de3e0a35ed"
 
 [versions]
 forge = "14.23.5.2859"
