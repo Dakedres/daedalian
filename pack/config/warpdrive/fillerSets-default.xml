@@ -216,6 +216,9 @@
 	<fillerSet group="overworld_surface" name="sandy" weight="45"><!-- close color to endstone -->
 		<filler block="contenttweaker:alabaster" weight="100" />
 	</fillerSet>
+	<fillerSet group="overworld_surface" name="hardenedClay" weight="45">
+		<filler block="minecraft:prismarine" weight="100" />
+	</fillerSet>
 	
 	
 	<!-- assorted nether surface blocks -->
@@ -356,7 +359,10 @@
 	
 	
 	<!-- ship solar panel -->
-	<fillerSet group="ship_solarPanel" name="advanced_solar_panels" weight="20" mods="advanced_solar_panels">
+	<fillerSet group="ship_solarPanel" name="vanilla" weight="1" mods="nuclearcraft">
+		<filler block="nuclearcraft:solar_panel_advanced" weight="100" />
+	</fillerSet>
+	<!-- <fillerSet group="ship_solarPanel" name="advanced_solar_panels" weight="20" mods="advanced_solar_panels">
 		<filler block="advanced_solar_panels:machines" nbt="{facing:5b,id:&quot;advanced_solar_panels:advanced_solar_panel&quot;}" metadata="0" weight="200" />
 		<filler block="advanced_solar_panels:machines" nbt="{facing:5b,id:&quot;advanced_solar_panels:hybrid_solar_panel&quot;}" metadata="0" weight="100" />
 	</fillerSet>
@@ -376,46 +382,20 @@
 	</fillerSet>
 	<fillerSet group="ship_solarPanel" name="vanilla" weight="1" mods="!ic2,!enderio,!thermaldynamics">
 		<filler block="minecraft:daylight_detector" weight="100" />
-	</fillerSet>
+	</fillerSet> -->
 	
 	
 	<!-- ship wiring -->
-	<fillerSet group="ship_wiring" name="advanced_solar_panels" weight="10" mods="advanced_solar_panels">
-		<import group="ship_wiring" name="ic2" />
-	</fillerSet>
-	<fillerSet group="ship_wiring" name="ic2" weight="10" mods="ic2">
-		<filler block="ic2:te" nbt="{cableType:0b,insulation:1b,id:&quot;ic2:cable&quot;}" metadata="9" weight="100" /><!-- Insulated copper cable -->
-		<filler block="ic2:te" nbt="{cableType:2b,insulation:1b,id:&quot;ic2:cable&quot;}" metadata="9" weight="100" /><!-- Insulated gold cable -->
-		<filler block="ic2:te" nbt="{cableType:1b,insulation:0b,id:&quot;ic2:cable&quot;}" metadata="9" weight="100" /><!-- Glass fiber cable -->
-		<filler block="ic2:te" nbt="{cableType:4b,insulation:1b,id:&quot;ic2:cable&quot;}" metadata="9" weight="100" /><!-- Insulated tin cable -->
-	</fillerSet>
-	<fillerSet group="ship_wiring" name="enderio" weight="5" mods="enderio">
-		<filler block="enderio:block_conduit_bundle" metadata="0" nbt="{conduits:{&quot;0&quot;:{subtype:0s,UUID:&quot;7e9c38f2-9a3a-3091-bea9-d53e75afc515&quot;},size:1}}" weight="100" /><!-- Energy Conduit -->
-		<filler block="enderio:block_conduit_bundle" metadata="0" nbt="{conduits:{&quot;0&quot;:{subtype:1s,UUID:&quot;7e9c38f2-9a3a-3091-bea9-d53e75afc515&quot;},size:1}}" weight="40" /><!-- Enhanced Energy Conduit -->
-		<filler block="enderio:block_conduit_bundle" metadata="0" nbt="{conduits:{&quot;0&quot;:{subtype:2s,UUID:&quot;7e9c38f2-9a3a-3091-bea9-d53e75afc515&quot;},size:1}}" weight="10" /><!-- Ender Energy Conduit -->
-	</fillerSet>
-	<fillerSet group="ship_wiring" name="enderio_with_thermaldynamics" weight="5" mods="enderio,thermaldynamics">
-		<import group="ship_wiring" name="enderio" />
-		<!-- manual import of group "ship_wiring" with name "thermaldynamics_without_enderio" -->
-		<filler block="thermaldynamics:duct_0" metadata="0" weight="100" /><!-- Leadstone Fluxduct -->
-		<filler block="thermaldynamics:duct_0" metadata="1" weight="40" /><!-- Hardened Fluxduct -->
-		<filler block="thermaldynamics:duct_0" metadata="2" weight="10" /><!-- Redstone Energy Fluxduct -->
-	</fillerSet>
-	<fillerSet group="ship_wiring" name="thermaldynamics_without_enderio" weight="5" mods="thermaldynamics,!enderio">
-		<filler block="thermaldynamics:duct_0" metadata="0" weight="100" /><!-- Leadstone Fluxduct -->
-		<filler block="thermaldynamics:duct_0" metadata="1" weight="40" /><!-- Hardened Fluxduct -->
-		<filler block="thermaldynamics:duct_0" metadata="2" weight="10" /><!-- Redstone Energy Fluxduct -->
-	</fillerSet>
-	<fillerSet group="ship_wiring" name="vanilla" weight="5" mods="!ic2,!enderio,!thermaldynamics">
-		<filler block="minecraft:fence" weight="100" />
+	<fillerSet group="ship_wiring" name="vanilla" weight="5" mods="galacticraftcore">
+		<filler block="refinedstorage:cable" weight="100" />
 	</fillerSet>
 	
 	
 	<!-- ship propulsion -->
 	<fillerSet group="ship_propulsion" name="vanilla" weight="5">
-		<filler block="minecraft:redstone_block"                   weight="100" />
-		<filler block="minecraft:lapis_block"                      ratio="0.150" />
-		<filler block="minecraft:coal_block"                       ratio="0.150" />
+		<filler block="matteroverdrive:decorative.engine_exhaust_plasma"                   weight="100" mods="matteroverdrive" />
+		<!-- <filler block="minecraft:lapis_block"                      ratio="0.150" />
+		<filler block="minecraft:coal_block"                       ratio="0.150" /> -->
 		<filler block="bigreactors:blockmetals" metadata="1"       ratio="0.025" mods="bigreactors" /><!-- Cyanite -->
 		<filler block="embers:block_dawnstone"                     ratio="0.010" mods="embers" /><!-- Dawnstone (gold + copper) -->
 		<filler block="environmentaltech:litherite" metadata="11"  ratio="0.015" mods="environmentaltech" /><!-- Litherite -->
