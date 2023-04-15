@@ -1,0 +1,13 @@
+name = "Beta Days"
+filename = "beta_days-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d616ba41a7d56b012a10ba85a756ad3988ec413"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2827460
+project-id = 247840

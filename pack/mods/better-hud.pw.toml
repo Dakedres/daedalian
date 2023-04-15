@@ -1,0 +1,13 @@
+name = "Better HUD"
+filename = "betterhud-1.12.2-1.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "970fa8f852fcf0e5a20abcdfdd7aca8ccf9ee95f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3327633
+project-id = 286066
