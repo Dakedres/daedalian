@@ -376,12 +376,12 @@
 				]
 			}
 		},
-		"zinc": {
+		"zinc-not-salt": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "immersiveintelligence:ore",
-					"metadata": 3
+					"metadata": 1
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 10
