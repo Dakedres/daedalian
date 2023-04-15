@@ -67,7 +67,10 @@ val craftingToRemove = [
   <minecraft:enchanting_table>,
   <minecraft:enchanted_book>,
   // The WarpDrive system for this has far more depth
-  <matteroverdrive:transporter>
+  <matteroverdrive:transporter>,
+  // Makes LV, MV, HV, ect. obselete
+  <galacticraftcore:aluminum_wire>,
+  <galacticraftcore:aluminum_wire:1>
 ] as IItemStack[];
 
 
