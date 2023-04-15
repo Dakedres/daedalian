@@ -109,7 +109,7 @@
     "other": {
         "splash-text": {
             "posX": 120,
-            "posY": 335,
+            "posY": 290,
             "color": -256,
             "alignment": "top_center",
             "texts": "file:daedalian:texts/splashes.txt"

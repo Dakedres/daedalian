@@ -82,7 +82,7 @@ uiScale:1
 bossHealthPushBox:1
 potionEffectPushBox:1
 minimapFrame:2
-minimapFrameColor:9
+minimapFrameColor:8
 compassColor:9
 northCompassColor:-1
 showDimensionName:false
