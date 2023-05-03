@@ -60,12 +60,12 @@ val craftingToRemove = [
   <matteroverdrive:fusion_reactor_controller>,
   <matteroverdrive:fusion_reactor_coil>,
   <matteroverdrive:fusion_reactor_io>,
-  // Disabled already
-  <tesslocator:advanced_fluid_tesslocator>,
-  <tesslocator:advanced_item_tesslocator>,
+  // // Disabled already
+  // <tesslocator:advanced_fluid_tesslocator>,
+  // <tesslocator:advanced_item_tesslocator>,
   // Complicates things
-  <minecraft:enchanting_table>,
-  <minecraft:enchanted_book>,
+  // <minecraft:enchanting_table>,
+  // <minecraft:enchanted_book>,
   // The WarpDrive system for this has far more depth
   <matteroverdrive:transporter>,
   // Makes LV, MV, HV, ect. obselete

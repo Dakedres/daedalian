@@ -27,10 +27,6 @@ for item in loadedMods["worsebarrels"].items {
   <ore:utilities>.add(item);
 }
 
-for item in loadedMods["tesslocator"].items {
-  <ore:utilities>.add(item);
-}
-
 for item in loadedMods["schematics"].items {
   <ore:utilities>.add(item);
 }
